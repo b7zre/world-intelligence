@@ -170,6 +170,52 @@ def deduplicate(items):
             buckets.setdefault(item.get('category',''), []).append((day, title))
     return kept, removed
 
+
+def collect_fx(previous):
+    """Daily reference rates, JPY per 1 foreign currency, with dated history."""
+    pairs = {'USD': 'ドル円', 'EUR': 'ユーロ円', 'CNY': '人民元円'}
+    old = previous.get('fx_history', [])
+    by_key = {}
+    for row in old if isinstance(old, list) else []:
+        if isinstance(row, dict) and row.get('pair') in pairs and row.get('date'):
+            by_key[(row['pair'], row['date'])] = row
+    url = 'https://api.frankfurter.dev/v2/rates?base=JPY&quotes=USD,EUR,CNY&from=' + (NOW.date() - dt.timedelta(days=100)).isoformat()
+    payload = json.loads(fetch(url))
+    if not isinstance(payload, list):
+        raise ValueError('Unexpected FX API response')
+    new_count = 0
+    for item in payload:
+        currency = item.get('quote')
+        if currency not in pairs:
+            continue
+        raw = float(item.get('rate', 0))
+        date = item.get('date', '')
+        if raw <= 0 or not re.fullmatch(r'\d{4}-\d{2}-\d{2}', date):
+            continue
+        pair = currency + 'JPY'
+        key = (pair, date)
+        if key not in by_key:
+            new_count += 1
+        by_key[key] = {'pair': pair, 'name': pairs[currency], 'date': date,
+                       'rate': round(1 / raw, 5), 'unit': 'JPY',
+                       'source': 'Frankfurter', 'source_url': 'https://frankfurter.dev/'}
+    history = sorted(by_key.values(), key=lambda x: (x['pair'], x['date']))
+    history = [r for r in history if r['date'] >= (NOW.date() - dt.timedelta(days=370)).isoformat()]
+    latest = []
+    for currency in pairs:
+        pair = currency + 'JPY'
+        rows = sorted((r for r in history if r['pair'] == pair), key=lambda r: r['date'])
+        if not rows:
+            continue
+        current = dict(rows[-1])
+        previous_day = rows[-2] if len(rows) > 1 else None
+        current['previous_date'] = previous_day['date'] if previous_day else None
+        current['previous_rate'] = previous_day['rate'] if previous_day else None
+        current['change'] = round(current['rate'] - previous_day['rate'], 5) if previous_day else None
+        current['change_pct'] = round((current['rate'] / previous_day['rate'] - 1) * 100, 3) if previous_day else None
+        latest.append(current)
+    return latest, history, new_count
+
 def main():
     previous = load(HISTORY, {'articles':[], 'indicators':[], 'reports':[]})
     errors = []
@@ -221,18 +267,28 @@ def main():
             except Exception as exc:
                 errors.append(f'World Bank {country}/{code}: {type(exc).__name__}: {exc}')
     indicators = sorted(indicators_by_key.values(), key=lambda x:(x.get('name',''), x.get('date','')))
+    try:
+        fx_rates, fx_history, new_fx = collect_fx(previous)
+    except Exception as exc:
+        errors.append(f'FX Frankfurter: {type(exc).__name__}: {exc}')
+        fx_rates = previous.get('fx_rates', [])
+        fx_history = previous.get('fx_history', [])
+        new_fx = 0
     meta = {'updated_at':NOW.isoformat(), 'new_articles':new_articles,
             'new_indicators':new_indicators, 'article_count':min(len(articles),300),
             'archived_article_count':len(articles), 'duplicate_removed':removed,
-            'top_news_count':len(top), 'indicator_count':len(indicators), 'errors':errors,
+            'top_news_count':len(top), 'indicator_count':len(indicators), 'fx_count':len(fx_rates), 'new_fx_points':new_fx, 'errors':errors,
             'notes':['重要度はキーワードと新しさに基づく自動評価です。AI分析ではありません。',
                      '重複は同一URLと類似見出しで判定しています。別事件の誤統合の可能性があります。',
                      '世界銀行の指標は年次統計であり速報値ではありません。',
-                     '内閣支持率の数値データとリアルタイム為替レートは未接続です。']}
+                     '為替はFrankfurterの日次参考レートで、リアルタイムの取引レートではありません。',
+                     '内閣支持率の数値データは未接続です。']}
     public = {'articles':articles[:300], 'top_news':top, 'indicators':indicators,
-              'reports':previous.get('reports', []), 'meta':meta}
+              'reports':previous.get('reports', []), 'fx_rates':fx_rates,
+              'fx_history':fx_history, 'meta':meta}
     archive = {'articles':articles, 'top_news':top, 'indicators':indicators,
-               'reports':previous.get('reports', []), 'meta':meta}
+               'reports':previous.get('reports', []), 'fx_rates':fx_rates,
+              'fx_history':fx_history, 'meta':meta}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(public, ensure_ascii=False, indent=2), encoding='utf-8')
     HISTORY.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding='utf-8')
