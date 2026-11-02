@@ -1,0 +1,36 @@
+name: AI News Analysis
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:20 and 19:20 JST (UTC 22:20 and 10:20)
+    - cron: '20 22,10 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: ai-news-analysis
+  cancel-in-progress: false
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Analyze top news with OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python world-intelligence/scripts/analyze.py
+      - name: Commit analysis result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add world-intelligence/data/analysis.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update AI news analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
