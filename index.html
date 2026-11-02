@@ -15,4 +15,217 @@ async function autoLoad(){
   render();
  }catch(e){$('status').textContent='デモ / ローカル保存';$('notice').textContent='自動収集データがまだありません。現在はデモまたはローカル保存データを表示しています。GitHub Actionsで収集を実行してください。';}
 }
-autoLoad();</script></body></html>
+autoLoad();</script>
+<!-- 為替レート表示パーツ -->
+<script>
+(async function () {
+  const panel = document.createElement('section');
+  panel.id = 'fx-daily-panel';
+  panel.style.cssText =
+    'max-width:1100px;margin:24px auto;padding:20px;' +
+    'border:1px solid #64748b55;border-radius:16px;' +
+    'font-family:system-ui,sans-serif;color:inherit';
+
+  panel.innerHTML =
+    '<h2>為替レート（日次参考値）</h2><p>読み込み中...</p>';
+
+  const anchor = document.querySelector('main') || document.body;
+  anchor.appendChild(panel);
+
+  try {
+    const res = await fetch(
+      './world-intelligence/data/latest.json?t=' + Date.now(),
+      {cache:'no-store'}
+    );
+
+    if (!res.ok) {
+      throw new Error('HTTP ' + res.status);
+    }
+
+    const data = await res.json();
+    const rates = data.fx_rates || [];
+    const history = data.fx_history || [];
+
+    if (!rates.length) {
+      panel.innerHTML =
+        '<h2>為替レート</h2>' +
+        '<p>為替データはまだありません。' +
+        'GitHub Actionsを再実行してください。</p>';
+      return;
+    }
+
+    panel.innerHTML =
+      '<h2>為替レート（日次参考値）</h2>' +
+      '<p style="font-size:13px;opacity:.8">' +
+      '1通貨あたりの円換算。前日比は直前の公表日との差です。' +
+      'リアルタイムの取引価格ではありません。</p>';
+
+    const grid = document.createElement('div');
+    grid.style.cssText =
+      'display:grid;' +
+      'grid-template-columns:repeat(auto-fit,minmax(200px,1fr));' +
+      'gap:12px;margin:16px 0';
+
+    for (const r of rates) {
+      const card = document.createElement('div');
+
+      card.style.cssText =
+        'padding:14px;border:1px solid #64748b55;' +
+        'border-radius:12px';
+
+      let delta = '比較なし';
+
+      if (r.change != null && r.change_pct != null) {
+        delta =
+          (r.change > 0 ? '+' : '') +
+          Number(r.change).toFixed(3) +
+          '円 (' +
+          (r.change_pct > 0 ? '+' : '') +
+          Number(r.change_pct).toFixed(2) +
+          '%)';
+      }
+
+      card.innerHTML =
+        '<strong></strong>' +
+        '<div style="font-size:26px;font-weight:700;margin:8px 0"></div>' +
+        '<small></small>';
+
+      card.querySelector('strong').textContent = r.name;
+      card.querySelector('div').textContent =
+        Number(r.rate).toFixed(3) + ' 円';
+      card.querySelector('small').textContent =
+        delta + ' / ' + r.date;
+
+      grid.appendChild(card);
+    }
+
+    panel.appendChild(grid);
+
+    const chooser = document.createElement('select');
+    chooser.setAttribute('aria-label', '表示する通貨ペア');
+    chooser.style.cssText =
+      'padding:8px;border-radius:8px;margin-bottom:8px;' +
+      'color:#111;background:#fff';
+
+    for (const r of rates) {
+      const option = document.createElement('option');
+      option.value = r.pair;
+      option.textContent = r.name;
+      chooser.appendChild(option);
+    }
+
+    panel.appendChild(chooser);
+
+    const chart = document.createElement('canvas');
+    chart.style.cssText =
+      'display:block;width:100%;height:240px;max-height:240px';
+
+    panel.appendChild(chart);
+
+    const note = document.createElement('p');
+    note.style.cssText = 'font-size:12px;opacity:.75';
+    note.textContent =
+      '出典: Frankfurter（日次参考為替レート）';
+
+    panel.appendChild(note);
+
+    function draw() {
+      const rows = history
+        .filter(x => x.pair === chooser.value)
+        .sort((a, b) => a.date.localeCompare(b.date))
+        .slice(-60);
+
+      const dpr = window.devicePixelRatio || 1;
+      const w = Math.max(300, chart.clientWidth);
+      const h = 240;
+
+      chart.width = Math.round(w * dpr);
+      chart.height = Math.round(h * dpr);
+
+      const ctx = chart.getContext('2d');
+      ctx.scale(dpr, dpr);
+      ctx.clearRect(0, 0, w, h);
+
+      if (rows.length < 2) {
+        ctx.fillStyle = '#888';
+        ctx.fillText('推移データが不足しています', 15, 30);
+        return;
+      }
+
+      const vals = rows.map(x => Number(x.rate));
+
+      let min = Math.min(...vals);
+      let max = Math.max(...vals);
+
+      const pad = Math.max((max - min) * 0.15, 0.05);
+      min -= pad;
+      max += pad;
+
+      const L = 52;
+      const R = 12;
+      const T = 18;
+      const B = 35;
+
+      const pw = w - L - R;
+      const ph = h - T - B;
+
+      ctx.strokeStyle = '#8885';
+      ctx.lineWidth = 1;
+      ctx.fillStyle = '#888';
+      ctx.font = '12px system-ui';
+
+      for (let i = 0; i <= 4; i++) {
+        const y = T + ph * i / 4;
+
+        ctx.beginPath();
+        ctx.moveTo(L, y);
+        ctx.lineTo(w - R, y);
+        ctx.stroke();
+
+        ctx.fillText(
+          (max - (max - min) * i / 4).toFixed(2),
+          2,
+          y + 4
+        );
+      }
+
+      ctx.strokeStyle = '#3b82f6';
+      ctx.lineWidth = 2.5;
+      ctx.beginPath();
+
+      vals.forEach((v, i) => {
+        const x = L + pw * i / (vals.length - 1);
+        const y = T + ph * (max - v) / (max - min);
+
+        if (i === 0) {
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+      });
+
+      ctx.stroke();
+
+      ctx.fillStyle = '#888';
+      ctx.fillText(rows[0].date, L, h - 10);
+
+      ctx.textAlign = 'right';
+      ctx.fillText(rows[rows.length - 1].date, w - R, h - 10);
+      ctx.textAlign = 'left';
+    }
+
+    chooser.addEventListener('change', draw);
+    window.addEventListener('resize', draw);
+
+    draw();
+
+  } catch (e) {
+    panel.innerHTML =
+      '<h2>為替レート</h2>' +
+      '<p>取得に失敗しました: ' +
+      String(e.message).replace(/[<>&]/g, '') +
+      '</p>';
+  }
+})();
+</script>
+</body></html>
