@@ -391,6 +391,16 @@
       "importance_score": 18
     },
     {
+      "title": "トランプ政権に「共感」日本国内で23.1％ 「日本にもトランプ氏のような強い政治家が必要」は52.6％ アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】",
+      "category": "日本",
+      "date": "2026-11-02",
+      "summary": "トランプ政権に「共感」日本国内で23.1％ 「日本にもトランプ氏のような強い政治家が必要」は52.6％ アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZ2RfZE1VajN6dkdERzhqb1NoSHYxWlZlNXg5al9veHltanRnVVgxaHhtYU9MSW03WGRlcGcyM0FSbEt1YkNkSmc0c0YxN0xyOEIzN040bnF6c09WbEFMQ09DMS1yLTdTMDdZLUpEdzlmZjNiNEpoeXMxNWE5RkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
       "title": "青木玉さん死去 随筆家",
       "category": "日本",
       "date": "2026-11-02",
@@ -1167,6 +1177,26 @@
       "summary": "中国製造業PMI、10月は49.3に低下。その原因とは IDNFinancials",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkRJZFAyNUlwR2kzS0JXajJXQ2xreEdPQ2dHNS1RdVFRbjJqZFlfVlh3VDFJQjFsemh3ejk0eVg1RUR3dlZDNmRYQlRUSHFFYm9Tb2FRTVd6eDJYekFWUmRpS3RzUHZWVnZuUzBBU1NKY1NJaEVTb1NvTTQ2Mzhrem5YSmVRZ0U4dU1PZ1dtbVFpZFhlVndxN0FoWHk5d2ozN2ppWWln?oc=5",
       "source": "IDNFinancials",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで開催と米高官",
+      "category": "ウクライナ",
+      "date": "2026-11-02",
+      "summary": "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで開催と米高官 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGJNYTVETTJJZVd1TWY2R3kxMmJSUEZ5aFlCd2JTNDU5UHpXWVBXQ0FKb2FEWW5NdHBHQTBkMklVQ2pNSlR2X1czS3ZNSFZ3dl9ubjAwalBNaTBmYWszbHplOG0zbzVhTXUtZVhrdkl5UEZZZ0xuaWtKdkRRQ2VnNF9fNl82UQ?oc=5",
+      "source": "Reuters",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "EUが新たな条件を提示、加盟候補国にロシアを制裁するよう要求",
+      "category": "ロシア",
+      "date": "2026-11-02",
+      "summary": "EUが新たな条件を提示、加盟候補国にロシアを制裁するよう要求 Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3pHekRDMlZYT2d0UXJ2d2FTNmJVYklkdU1maDJzSTV1elZBOXVHeVhaQzNKSTRnblM2SVpYMi1OLTkwaUU2X3JJZEtoUkRUM002eUFzcHZ6bkNrWTRoWU9TNWdlVHFGeWI3TnhZQjd1bVcwQ2otcjZjaG9XLVhONFdsYy16VFpOUEprSzNKYV9zcVd4ckQtelhmOF8yeHJ4U3JFdjExZXQ0Z282c201N0s2Zw?oc=5",
+      "source": "Laodong.vn",
       "language": "ja",
       "importance_score": 15
     },
@@ -9197,12 +9227,12 @@
     }
   ],
   "meta": {
-    "updated_at": "2026-11-02T23:32:31.753424+00:00",
-    "new_articles": 271,
+    "updated_at": "2026-11-02T23:47:59.398155+00:00",
+    "new_articles": 272,
     "new_indicators": 0,
     "article_count": 300,
-    "archived_article_count": 304,
-    "duplicate_removed": 262,
+    "archived_article_count": 307,
+    "duplicate_removed": 269,
     "top_news_count": 5,
     "indicator_count": 370,
     "fx_count": 3,
