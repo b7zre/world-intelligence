@@ -19,12 +19,12 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect
-        run: python scripts/collect.py
+run: python world-intelligence/scripts/collect.py
       - name: Commit updated data
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/latest.json data/history.json
+          git add world-intelligence/data/latest.json world-intelligence/data/history.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update public news and indicators'
             git push
