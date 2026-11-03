@@ -511,4 +511,24 @@ autoLoad();</script>
   loadAnalysis();
 })();
 </script>
+<!-- Insert immediately before </body>, once. Does not replace the previous analysis widget. -->
+<style>
+#wi-ai{max-width:1100px;margin:24px auto;padding:20px;background:#111e33;color:#f1f5f9;border:1px solid #52627b;border-radius:16px;font-family:system-ui,sans-serif}
+#wi-ai h2{margin:0 0 8px;font-size:22px}#wi-ai h3{font-size:17px;line-height:1.5}#wi-ai h4{margin:16px 0 5px;font-size:15px}#wi-ai p{line-height:1.7}#wi-ai .sub{color:#b7c5d8;font-size:13px}#wi-ai .items{display:grid;grid-template-columns:1fr 2fr;gap:14px;margin-top:16px}#wi-ai .choices{display:grid;gap:8px;align-content:start}#wi-ai button{border:1px solid #52627b;background:#1a2b47;color:#fff;padding:12px;border-radius:9px;text-align:left;cursor:pointer}#wi-ai button[aria-pressed=true]{border-color:#60a5fa;background:#234d85}#wi-ai article{border:1px solid #52627b;border-radius:12px;padding:16px;min-width:0}#wi-ai a{color:#93c5fd}#wi-ai .note{font-size:12px;color:#b7c5d8}@media(max-width:650px){#wi-ai{padding:14px;margin:16px 10px}#wi-ai .items{grid-template-columns:1fr}}
+</style>
+<script>
+(async function(){
+'use strict';
+if(document.getElementById('wi-ai'))return;
+const root=document.createElement('section');root.id='wi-ai';
+root.innerHTML='<h2>AIによるニュース詳細分析</h2><p class="sub">見出し・RSS概要に基づくAI分析。記事全文を検証したものではありません。</p><p class="status">読み込み中...</p><div class="items" hidden><div class="choices"></div><article></article></div>';
+(document.querySelector('main')||document.body).appendChild(root);
+const status=root.querySelector('.status'),layout=root.querySelector('.items'),choices=root.querySelector('.choices'),article=root.querySelector('article');
+function add(tag,txt,to){const el=document.createElement(tag);el.textContent=String(txt??'');to.appendChild(el);return el;}
+function block(heading,value){add('h4',heading,article);add('p',value||'入力情報だけでは判断できません。',article);}
+function show(x){article.replaceChildren();add('h3',x.title||'ニュース',article);add('p','重要度 '+(x.importance||'?')+'/5 ・ '+(x.source||'出典不明'),article).className='sub';block('概要',x.overview);block('背景・論点',x.background);block('日本への影響',x.japan_impact);const s=x.scenarios||{};block('楽観シナリオ（条件付き）',s.optimistic);block('中立シナリオ（条件付き）',s.base);block('悲観シナリオ（条件付き）',s.pessimistic);add('h4','今後の注目点',article);const ul=add('ul','',article);(Array.isArray(x.watch_points)?x.watch_points:[]).forEach(v=>add('li',v,ul));block('不確実性・留保',x.uncertainty);block('情報源の限界',x.evidence_limits);try{const url=new URL(x.url);if(['http:','https:'].includes(url.protocol)){const a=add('a','元記事を確認',article);a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';}}catch(_){}add('p','※AI生成の参考分析です。事実確認には元記事・一次資料を参照してください。',article).className='note';}
+try{const r=await fetch('./world-intelligence/data/analysis.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error('HTTP '+r.status+'（AI分析が未生成の可能性）');const data=await r.json();const arr=Array.isArray(data.analyses)?data.analyses:[];if(!arr.length)throw new Error('分析結果が空です');status.textContent='最終生成: '+(data.generated_at||'不明')+' / モデル: '+(data.model||'不明');layout.hidden=false;arr.forEach((x,i)=>{const b=add('button',(i+1)+'. '+(x.title||'ニュース'),choices);b.type='button';b.setAttribute('aria-pressed',String(i===0));b.addEventListener('click',()=>{choices.querySelectorAll('button').forEach(z=>z.setAttribute('aria-pressed',String(z===b)));show(x);});});show(arr[0]);}catch(e){status.textContent='AI分析を表示できません: '+e.message+'。GitHub ActionsのAI News Analysisを確認してください。';}
+})();
+</script>
+
 </body></html>
