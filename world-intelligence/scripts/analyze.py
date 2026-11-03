@@ -12,38 +12,39 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
 SOURCE = DATA / 'latest.json'
 DEST = DATA / 'analysis.json'
-MODEL = os.getenv('OPENAI_MODEL', 'gpt-4.1-mini')
+MODEL = os.getenv('GEMINI_MODEL', 'gemini-2.5-flash-lite')
 
 
 def request_ai(items):
-    key = os.getenv('OPENAI_API_KEY')
+    key = os.getenv('GEMINI_API_KEY')
     if not key:
-        raise RuntimeError('OPENAI_API_KEY secret is not set')
-    prompt = '''あなたは国際政治・経済の調査編集者です。与えられたニュースの見出しとRSS概要だけを根拠に日本語で分析してください。
+        raise RuntimeError('GEMINI_API_KEY secret is not set')
+    prompt = """あなたは国際政治・経済の調査編集者です。与えられたニュースの見出しとRSS概要だけを根拠に日本語で分析してください。
 厳守事項: 入力にない出来事・日時・統計・人物発言を事実として創作しない。情報が足りない場合は「見出し・概要だけでは確認できない」と明示。背景は一般論と今回の確認済み情報を分ける。予測は条件付きのシナリオとして書く。投資助言はしない。重要度は1-5で評価。各項目のidをそのまま返す。
-出力はJSONオブジェクトで、キーanalysesに配列を持つ。各要素は id, overview, background, japan_impact, scenarios（optimistic, base, pessimistic の文字列を持つオブジェクト）, watch_points（文字列の配列、最大3件）, importance（1-5の整数）, uncertainty（情報不足・留保）, evidence_limits（入力情報の制約）を必ず持つ。全項目日本語、簡潔で具体的に。'''
+出力はJSONオブジェクトで、キーanalysesに配列を持つ。各要素は id, overview, background, japan_impact, scenarios（optimistic, base, pessimistic の文字列を持つオブジェクト）, watch_points（文字列の配列、最大3件）, importance（1-5の整数）, uncertainty（情報不足・留保）, evidence_limits（入力情報の制約）を必ず持つ。全項目日本語、簡潔で具体的に。"""
     payload = {
-        'model': MODEL,
-        'temperature': 0.2,
-        'response_format': {'type': 'json_object'},
-        'messages': [
-            {'role': 'system', 'content': prompt},
-            {'role': 'user', 'content': json.dumps({'headlines': items}, ensure_ascii=False)}
-        ],
+        'contents': [{'role': 'user', 'parts': [{'text': prompt + '\n\nニュースデータ:\n' + json.dumps({'headlines': items}, ensure_ascii=False)}]}],
+        'generationConfig': {'responseMimeType': 'application/json', 'temperature': 0.2, 'maxOutputTokens': 8192},
     }
     req = urllib.request.Request(
-        'https://api.openai.com/v1/chat/completions',
-        data=json.dumps(payload).encode('utf-8'),
-        headers={'Authorization': 'Bearer ' + key, 'Content-Type': 'application/json'},
+        'https://generativelanguage.googleapis.com/v1beta/models/' + MODEL + ':generateContent',
+        data=json.dumps(payload, ensure_ascii=False).encode('utf-8'),
+        headers={'x-goog-api-key': key, 'Content-Type': 'application/json'},
         method='POST',
     )
     try:
         with urllib.request.urlopen(req, timeout=110) as resp:
             obj = json.load(resp)
     except urllib.error.HTTPError as exc:
-        detail = exc.read().decode('utf-8', errors='replace')[:600]
-        raise RuntimeError(f'OpenAI HTTP {exc.code}: {detail}') from exc
-    content = obj['choices'][0]['message']['content']
+        detail = exc.read().decode('utf-8', errors='replace')[:800]
+        raise RuntimeError(f'Gemini HTTP {exc.code}: {detail}') from exc
+    candidates = obj.get('candidates') or []
+    if not candidates:
+        raise RuntimeError('Gemini returned no candidates: ' + json.dumps(obj, ensure_ascii=False)[:600])
+    parts = candidates[0].get('content', {}).get('parts', [])
+    content = ''.join(str(p.get('text', '')) for p in parts if isinstance(p, dict))
+    if not content:
+        raise RuntimeError('Gemini returned empty text')
     return json.loads(content)
 
 
