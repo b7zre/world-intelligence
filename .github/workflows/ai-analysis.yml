@@ -22,7 +22,7 @@ jobs:
       - name: Analyze top news with Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash-lite
+          GEMINI_MODEL: gemini-3.5-flash-lite
         run: python world-intelligence/scripts/analyze.py
       - name: Commit analysis result
         run: |
