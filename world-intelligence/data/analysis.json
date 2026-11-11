@@ -1,126 +1,123 @@
 {
-  "generated_at": "2026-11-09T22:59:45.615242+00:00",
+  "generated_at": "2026-11-11T11:14:43.484350+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
+      "title": "FX実践解説、米CPI「ドル円『火柱』FRBの利上げ決定か」（2026年11月10日）",
+      "summary": "FX実践解説、米CPI「ドル円『火柱』FRBの利上げ決定か」（2026年11月10日） 外為どっとコム",
+      "source": "外為どっとコム",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FelVMckhueU13WDRmOGExcFFjRG1PRXNkLUtjR0Q3Y3ZpX3JaUWZWNDM5OFkwRVdOU1lhclJqazgweFMweEN5WDJ2WEE4ZWNsVlNNcjBDVFZEeWtnMlNSUThiOA?oc=5",
+      "overview": "米CPI発表を受け、ドル円市場で「火柱」と称される急変動が起き、FRBによる利上げ決定観測が浮上している。",
+      "background": "一般論として米CPI（消費者物価指数）は米国のインフレ動向を示す重要指標とされる。今回の確認済み情報では、2026年11月10日付の報道で米CPIに関連したドル円の急変動とFRBの利上げ観測が指摘されている。",
+      "japan_impact": "ドル円相場の急変動により、日本国内の為替市場や輸入コスト、関連企業の業績に影響を与える可能性がある。",
+      "scenarios": {
+        "optimistic": "米インフレ圧力が予想以上に鎮静化し、急激な円安・ドル高が修正に向かうシナリオ。",
+        "base": "米CPIの結果やFRBの動向を織り込みながら、ドル円が方向感を模索する展開が続くシナリオ。",
+        "pessimistic": "米利上げ観測の急激な高まりによりドル円のボラティリティがさらに増し、日本経済に急激な為替変動リスクをもたらすシナリオ。"
+      },
+      "watch_points": [
+        "米CPIの具体的な数値と市場の反応",
+        "FRBの政策金利に関する動向",
+        "ドル円相場のボラティリティの推移"
+      ],
+      "importance": 4,
+      "uncertainty": "CPIの具体的な上昇率やFRB高官の発言詳細、市場全体の正確なポジション状況は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、実際のCPIの数値や詳細な経済データは含まれていない。"
+    },
+    {
+      "id": "2",
+      "title": "高まる米利上げ観測 FRBのインフレ対策に遅れを警戒する声も",
+      "summary": "高まる米利上げ観測 FRBのインフレ対策に遅れを警戒する声も 日本経済新聞",
+      "source": "日本経済新聞",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRTk8yZkJTdnNqT01sZG16UE5ZOWEtMnN6N20xaHc4dndBdXFLU0RoV3ROTE5WdVZtSmlkeGgxaHBoYlJISDJWcmE1WlhKeVBOZ0lPbVYwb0VpeEFKNUpiSjZESnVjMVlkaklPSg?oc=5",
+      "overview": "米国の利上げ観測が高まる中、FRBのインフレ対策への遅れを警戒する声が出ている。",
+      "background": "一般論として中央銀行のインフレ対応の遅れは、物価高の長期化や追加的な急利上げを誘発するとされる。今回の確認済み情報では、2026年11月11日付の日本経済新聞報道で高まる米利上げ観測と遅れへの警戒が伝えられている。",
+      "japan_impact": "米国の金融引き締め長期化観測を通じて、日米金利差や為替・株式市場に波及する可能性がある。",
+      "scenarios": {
+        "optimistic": "インフレが適切に抑制され、FRBが軟着陸に向けた適切な利上げ・政策運営を行えるシナリオ。",
+        "base": "インフレ警戒感から利上げ観測がくすぶり、金融市場の神経質な値動きが継続するシナリオ。",
+        "pessimistic": "インフレ対策の遅れが深刻視され、大幅な追加利上げ観測から世界的な金融市場の動揺につながるシナリオ。"
+      },
+      "watch_points": [
+        "FRBのインフレ評価と今後の金融政策スタンス",
+        "市場におけるインフレ警戒感の強まり具合"
+      ],
+      "importance": 4,
+      "uncertainty": "インフレ対策の遅れを指摘する具体的な主体や根拠、市場の具体的な反応は見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力された見出しと概要以外の詳細な経済指標や市場データは一切含まれていない。"
+    },
+    {
+      "id": "3",
+      "title": "【FX】11/11 12月FOMCで0.5％利上げも？ドル円の上値余地は？ ｜為替市場ニュースの振り返り、今日の見通し",
+      "summary": "【FX】11/11 12月FOMCで0.5％利上げも？ドル円の上値余地は？ ｜為替市場ニュースの振り返り、今日の見通し 外為どっとコム",
+      "source": "外為どっとコム",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRcy1ScGdUeUR1cmh1MHM1b2s3bGRpUE1pR0hEalUteS1wbF9aR3Jub19uV043NTR0clBJV05NMUlWbEFDUE90XzVPS1VrRlc4QTFtRlN6UXRGSTFRbFR3aXBNZw?oc=5",
+      "overview": "12月FOMCでの0.5%利上げ観測が浮上し、為替市場におけるドル円の上値余地が意識されている。",
+      "background": "一般論としてFOMCでの大幅利上げ期待はドル買い材料視されやすい。今回の確認済み情報では、2026年11月11日時点のFX市場ニュースで12月FOMCでの0.5%利上げの可能性やドル円の上値余地が振り返られている。",
+      "japan_impact": "国内の個人投資家やFX市場参加者におけるドル円の取引戦略や、円相場の水準感に影響を与える。",
+      "scenarios": {
+        "optimistic": "利上げ観測が一服し、ドル円の上値が抑えられて為替相場が安定するシナリオ。",
+        "base": "12月のFOMC会合に向けて利上げ観測の有無が意識され、ドル円が上下に揺れ動くシナリオ。",
+        "pessimistic": "0.5%の大幅利上げ観測がさらに強まり、急激なドル高円安が進行して日本側の負担感が増すシナリオ。"
+      },
+      "watch_points": [
+        "12月FOMCに向けた金利先物市場の織り込み状況",
+        "ドル円の上値抵抗線と下値支持線の推移"
+      ],
+      "importance": 4,
+      "uncertainty": "0.5%利上げの確度や市場アナリストの具体的な見解は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供されたテキストには具体的な相場水準やアナリスト名等の記載はない。"
+    },
+    {
+      "id": "4",
+      "title": "12月利上げ論、CPI上振れで急拡大 FRB高官「0.5%上げも」",
+      "summary": "12月利上げ論、CPI上振れで急拡大 FRB高官「0.5%上げも」 日本経済新聞",
+      "source": "日本経済新聞",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWcWhGaHBmeXlGVE8yTGpIdVJFSFRVMnlVUllkNGZCWm1IUF85T25MLUs4TmJUNy1lNWNobktONjJjc2syTmd4VUdfeDdBeEVWd2RDVmFNVzdPRURVdTVUTEdFSWc0Q29XQWlMLQ?oc=5",
+      "overview": "米CPIの上振れを背景に12月利上げ論が急拡大し、FRB高官から「0.5%上げも」との言及があった。",
+      "background": "一般論として物価指標の上振れは中央銀行に追加利上げを促す要因となる。今回の確認済み情報では、2026年11月10日付の報道でCPI上振れとFRB高官の「0.5%上げも」という発言が伝えられている。",
+      "japan_impact": "米国の金融引き締め姿勢の強まりにより、日米金利差を意識した円売り・ドル買い圧力が強まる可能性がある。",
+      "scenarios": {
+        "optimistic": "高官発言が一過性に終わり、その後の経済データ次第で過度な利上げ観測が後退するシナリオ。",
+        "base": "CPI上振れを根拠に12月の利上げ論が意識され、高官発言に市場が左右される展開が続くシナリオ。",
+        "pessimistic": "インフレの再加速と0.5%利上げの現実味が増し、米国金利の急上昇とドル高が一段と加速するシナリオ。"
+      },
+      "watch_points": [
+        "FRB高官のその後の発言内容",
+        "追加の米経済指標の結果"
+      ],
+      "importance": 5,
+      "uncertainty": "どのFRB高官の発言であるか、またCPIがどの程度上振れたかの詳細な数値は見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報に数値や高官の氏名は記載されていない。"
+    },
+    {
+      "id": "5",
       "title": "中国の対米追加関税停止「2カ月延長」 米中首脳会談の合意を履行、APECでも議論（産経新聞）",
       "summary": "中国の対米追加関税停止「2カ月延長」 米中首脳会談の合意を履行、APECでも議論（産経新聞） Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "date": "2026-11-09",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jRmN3SndYLXdOaVd6Y3B5WEd5TFBaaXJkSi15WVFWa3JSWUo0RnJpaFJBekM0aS1Dd1pWTkZZZnkxck5DaWNlMjdUMjg4Qk5iMnY2NV9BVTlCRkh2NllZdWVUX1F5YnFIQ1RPRldaeEoyNVdZS2xDRGF3QlFpS28?oc=5",
-      "overview": "中国が対米追加関税停止を2カ月延長し、米中首脳会談の合意履行を進めつつAPECでも議論が行われている。",
-      "background": "一般論として米中間の関税引き下げや一時停止は貿易摩擦の緩和につながる。今回の確認済み情報では、中国による対米追加関税停止の「2カ月延長」とAPECでの議論が報じられている。",
-      "japan_impact": "米中関係の動向は日本企業のサプライチェーンや輸出入に影響を与える可能性があるが、本ニュース見出し・概要だけでは日本への直接的影響の詳細は確認できない。",
+      "overview": "米中首脳会談の合意履行として、中国の対米追加関税停止が「2カ月延長」され、APECでも議論されている。",
+      "background": "一般論として米中間の関税措置の猶予は、両国間の貿易摩擦の激化を防ぎサプライチェーンに影響を与える。今回の確認済み情報では、中国の対米追加関税停止が2カ月延長され、米中首脳会談の合意履行およびAPECでの議論となっていることが2026年11月9日付で報じられている。",
+      "japan_impact": "米中関係の安定化や関税猶予は、世界経済および中国・米国に依存する日本企業の輸出・生産活動に間接的な影響を与える。",
       "scenarios": {
-        "optimistic": "米中関係の緊張緩和が継続し、国際貿易環境が安定する。",
-        "base": "追加関税停止の2カ月延長期間中、実務的な協議が継続される。",
-        "pessimistic": "期限切れ後に再び米中間の関税引き上げ合戦が再燃する。"
+        "optimistic": "関税停止の延長を契機に対話が継続し、米中間の貿易緊張がさらに緩和するシナリオ。",
+        "base": "期限付きの延長にとどまり、米中関係の不透明感が一定程度残りながらも当面の衝突は回避されるシナリオ。",
+        "pessimistic": "2カ月後の期限切れに向け合意履行が滞り、再び関税引き上げ合戦や貿易摩擦が再燃するシナリオ。"
       },
       "watch_points": [
-        "追加関税停止の期限とその後の措置",
-        "APECにおける米中間の公式・非公式協議の結果",
-        "両国首脳および関連高官の発言"
-      ],
-      "importance": 4,
-      "uncertainty": "関税停止の具体的な品目や、首脳会談・APECでの詳細な合意内容は確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報に限定されており、一次文書や合意文面は含まれていない。"
-    },
-    {
-      "id": "2",
-      "title": "米国主導のロシア・ウクライナ和平交渉は、安全保障の保証に焦点を当てている。",
-      "summary": "米国主導のロシア・ウクライナ和平交渉は、安全保障の保証に焦点を当てている。 Vietnam.vn",
-      "source": "Vietnam.vn",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzlwR0EtU2FVOTh6eHhxWngxQzQ0cXBmZlp2LWJPYkZuTi1JMldEX0h6YUE1Qkcwd1RJLTZFVUZhX3NYTHNoZlZJek55NUlFM05BOEJMR2lCaWpMNm9hWlZpcVlVSGJSTXBqMEExa3pEMVd0NnJ5UmFtZ0s0S3lodjJyOXZaSGlfYXEwbDlGeF9lNVlwOXJWWGZ5ajNMNXFYaHZkMnRxaUlkQQ?oc=5",
-      "overview": "米国主導によるロシア・ウクライナ和平交渉が進められており、安全保障の保証に焦点が当てられている。",
-      "background": "一般論としてウクライナ和平交渉では領土問題や安全保障体制の構築が最大の争点となる。今回の確認済み情報では、米国主導で安保保証に焦点を当てて交渉が行われている点のみが報じられている。",
-      "japan_impact": "欧州の地政学リスクやエネルギー市場、ロシア制裁を通じた日本経済への波及効果が考えられるが、本ニュース見出し・概要だけでは日本への具体的影響は確認できない。",
-      "scenarios": {
-        "optimistic": "和平交渉が実質的な進展を見せ、安全保障の枠組み合意に近づく。",
-        "base": "安全保障の保証を巡り米国とロシア・ウクライナ間で調整が長期化する。",
-        "pessimistic": "和平交渉が難航し、戦闘が激化または膠着状態が続く。"
-      },
-      "watch_points": [
-        "米国主導の和平交渉における具体的な安保保証の内容",
-        "ロシアおよびウクライナ側の公式な反応",
-        "同盟国を交えた外交協議の進展"
-      ],
-      "importance": 4,
-      "uncertainty": "交渉参加国、具体的な安保保証のスキーム、合意の有無は確認できない。",
-      "evidence_limits": "入力された見出しと概要以外の詳細な外交文書や交渉の背景情報は不明である。"
-    },
-    {
-      "id": "3",
-      "title": "中国の対米追加関税停止「2カ月延長」 米中首脳会談の合意を履行、APECでも議論",
-      "summary": "中国の対米追加関税停止「2カ月延長」 米中首脳会談の合意を履行、APECでも議論 産経ニュース",
-      "source": "産経ニュース",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUY2R1FqODFQOFNfZE1wSDl6N0xlZG5pU2JhZ2VWemo2ZEp3NHNhc3NNbmlfNVVRVWYtdlZkRXlURV9pcWhvVFlOZDFONUs4Q1NPQ1h5aG5Rdm1TY3ZDLU80ZXNYeTRoanp5bExzcTd5dFotNUFMWE5xLTlPNkF0NlE3Q1IzR3hzTE5nRg?oc=5",
-      "overview": "中国による対米追加関税停止の2カ月延長と、米中首脳会談の合意履行、APECでの議論について報じられている。",
-      "background": "一般論として、首脳会談の合意事項の履行は国家間の信頼醸成に寄与する。今回の確認済み情報では、関税停止の2カ月延長が実行されている。",
-      "japan_impact": "グローバルな景気動向や為替への影響を通じて日本経済に波及し得るが、本ニュース見出し・概要からは確認できない。",
-      "scenarios": {
-        "optimistic": "米中対話の継続により経済摩擦が構造的に改善に向かう。",
-        "base": "時限的な措置として2カ月間の猶予期間が淡々と消化される。",
-        "pessimistic": "期間延長のみで根本的な問題解決に至らず、不確実性が残る。"
-      },
-      "watch_points": [
-        "APECの場における米中関係のトーン",
-        "2カ月後の米国側の対応"
+        "APECにおける米中間のやり取り",
+        "2カ月延長期間中における両国の外交・経済交渉の進展"
       ],
       "importance": 3,
-      "uncertainty": "関税停止の対象範囲や、米国側からの見返り措置については確認できない。",
-      "evidence_limits": "産経ニュースの記事見出しと概要の重複情報に基づくため、詳細な背景や数値データはない。"
-    },
-    {
-      "id": "4",
-      "title": "FX・為替相場の注目指標や予想を解説 - 11月10日(火)■『米国の消費者物価指数の発表』と『米ドル、日本円、ユーロの方向性』、そして『米国の金融政策への思惑』に注目！",
-      "summary": "FX・為替相場の注目指標や予想を解説 - 11月10日(火)■『米国の消費者物価指数の発表』と『米ドル、日本円、ユーロの方向性』、そして『米国の金融政策への思惑』に注目！ ザイFX！",
-      "source": "ザイFX！",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DcUQxZk9jMm5FTl94d3RkSENnVzRFNnJhSXFTekh0MUxRZUlybmp5ZUZDMXlZZlVBTnN2VUtJUTJ4Mk9rUGw5R3l6ZjNiWGNFQWc?oc=5",
-      "overview": "11月10日（火）のFX・為替市場において、米国の消費者物価指数（CPI）発表や米国の金融政策への思惑が注目されている。",
-      "background": "一般論として米国の物価指標や金融政策（金利動向）は米ドルをはじめとするグローバルな為替相場に強い影響を与える。今回の確認済み情報では、11月10日の注目指標としてCPIや各通貨の方向性が挙げられている。",
-      "japan_impact": "米国の物価指標の結果を受けたドル円相場の変動が、日本の輸入物価や為替介入の思惑等に直接影響を与える可能性がある。",
-      "scenarios": {
-        "optimistic": "物価の落ち着きから市場の過度な金利懸念が後退し、為替相場が安定する。",
-        "base": "発表される米CPIの結果を巡り、市場が一時的に上下に大きく変動する。",
-        "pessimistic": "予想外の物価高騰等により米金利が急上昇し、為替市場でドル高・円安などの急変動が起きる。"
-      },
-      "watch_points": [
-        "米国の消費者物価指数（CPI）の実際の数値",
-        "米国の金融政策に関する当局者の発言",
-        "米ドル・日本円・ユーロの方向性"
-      ],
-      "importance": 4,
-      "uncertainty": "実際のCPIの数値や市場の価格織り込み具合は、この見出し時点では確認できない。",
-      "evidence_limits": "FX専門メディアの見出しと概要であり、具体的な経済統計の数値データは含まれていない。"
-    },
-    {
-      "id": "5",
-      "title": "米中間選挙後の金利 原油価格の低下は日銀の利上げ姿勢に大きく影響しないとみる 野村證券・宍戸知暁",
-      "summary": "米中間選挙後の金利 原油価格の低下は日銀の利上げ姿勢に大きく影響しないとみる 野村證券・宍戸知暁 野村證券",
-      "source": "野村證券",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nakFxbFAyVGk5QVFVRHNodkJENWJIMHN4UF9kR0g4SmFjc2dWY3ZmTjNVeFdzN3BGblYwVzFRM0NxQXRPWVg2ZXRWdG9Zc2c2ckpyZFUya3FkbjI2aUpR?oc=5",
-      "overview": "野村證券の宍戸知暁氏の見解として、米中間選挙後の金利や原油価格の低下は日銀の利上げ姿勢に大きく影響しないと分析されている。",
-      "background": "一般論として日銀の金融政策決定は国内の賃金・物価動向や基調的な経済状況を重視して行われる。今回の確認済み情報では、米国の金利や原油価格の低下が日銀の利上げ姿勢に大きな影響を与えないという専門家の見方を示している。",
-      "japan_impact": "日銀の金融政策（利上げ継続の可能性）や国内金利・住宅ローン、株式市場の動向に関わる重要な判断材料となる。",
-      "scenarios": {
-        "optimistic": "海外要因に左右されず日本国内の経済改善を背景にした正常な金融政策運営が進む。",
-        "base": "野村證券の見立て通り、外部環境の変化にかかわらず日銀は従来の姿勢を維持する。",
-        "pessimistic": "海外市場の急変動や金利・原油安の波及により、日銀が政策修正を余儀なくされる。"
-      },
-      "watch_points": [
-        "日銀の政策決定会合におけるスタンスや総裁発言",
-        "米国の金利および原油価格の動向",
-        "国内の物価・賃金統計"
-      ],
-      "importance": 3,
-      "uncertainty": "野村證券のアナリストの予測であり、実際の日本銀行の政策決定を保証するものではない。",
-      "evidence_limits": "入力情報はアナリストの見解を伝える短文の概要のみで、詳細な論拠のデータは示されていない。"
+      "uncertainty": "関税停止の対象品目や、APECでの具体的な議論の中身は見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力された見出しと概要の記述を超えた具体的な交渉の背景や対象範囲のデータはない。"
     }
   ]
 }
