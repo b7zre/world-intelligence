@@ -1,123 +1,127 @@
 {
-  "generated_at": "2026-11-16T11:38:52.218070+00:00",
+  "generated_at": "2026-11-17T23:11:35.043881+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
-      "title": "円相場 一時1ドル＝159円台まで下落 約1か月半ぶり円安水準 米CPI予想上回りインフレ懸念再燃 FRBの次回利上げ観測強まる（TBS NEWS DIG Powered by JNN）",
-      "summary": "円相場 一時1ドル＝159円台まで下落 約1か月半ぶり円安水準 米CPI予想上回りインフレ懸念再燃 FRBの次回利上げ観測強まる（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "date": "2026-11-11",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMjVhUzBoVlo4UE9QdkdHSV9XckpFUUJkSVpNSFFIVk9QMXdjTGNDclJmUlRhNUVjSmM1RktkdXJlWHF1S05GX3RIa0pHc1hqTmoyaXp0cExCcWFoV3plRmdrdGU0dmNfOTF1Qm92ZVoyUUI5eWhVYWhZSmhsVWc?oc=5",
-      "overview": "米CPIが予想を上回りインフレ懸念が再燃したことでFRBの次回利上げ観測が強まり、円相場は一時1ドル＝159円台へ下落して約1か月半ぶりの円安水準を記録した。",
-      "background": "一般的に米国のインフレ率の上昇や利上げ観測の強まりは、日米金利差の拡大を意識したドル買い・円売りを誘発しやすい。今回の確認済み情報としては、米CPIの予想上振れとFRBの利上げ観測、およびそれを受けた159円台への下落がある。",
-      "japan_impact": "円安が進行することで輸入物価の上昇や国内の物価高に拍車がかかる恐れが指摘されている。",
+      "title": "城内経財相、日銀利上げ判断に距離 7-9月GDP減速受け「手法は日銀に委ねる」",
+      "summary": "城内経財相、日銀利上げ判断に距離 7-9月GDP減速受け「手法は日銀に委ねる」 BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00MzVMWXlXdEVDX0tYOTJyVDYxV1V3MGJ3MXpTV0VHVzRQckJHRml3VWY1X0hCQUY1SFppaDZaY3dUazJkTkxUcENVVThXZGlCMWl4WGRGajk3ZmdDaTFDQV9NR3laMDhXdXVLenFMXzVtY0RJ?oc=5",
+      "overview": "城内経済産業相が、7-9月期のGDP減速を受け、日銀の利上げ判断について「手法は日銀に委ねる」と述べ、距離を置く姿勢を示した。",
+      "background": "一般論として、景気減速期における政府と中央銀行の政策協調や金利政策の是非は議論の対象となる。確認された情報では、7-9月期のGDP減速を背景に城内経財相が日銀の利上げ判断に言及したこと以外は、詳細な政策協議の有無等は不明である。",
+      "japan_impact": "政府の経済閣僚が日銀の利上げ判断に対して裁量を日銀側に委ねる姿勢を示したことで、政府の追加利上げに対する慎重姿勢や距離感が市場に伝わる可能性がある。",
       "scenarios": {
-        "optimistic": "米国のインフレ圧力が予想外に急速に低下し、FRBの利上げ観測が後退することで円安・ドル高が一服する。",
-        "base": "米インフレ懸念とFRBの利上げ観測を背景に、ドル高・円安基調が一定期間継続・あるいは高止まりする。",
-        "pessimistic": "さらなる米インフレ指標の悪化からFRBの利上げ観測が一段と強まり、円相場がさらに急激な円安方向へ進む。"
+        "optimistic": "GDPの減速が一過性のものであり、日銀が適切な景気判断のもとで政策運営を行うことで、景気と物価のバランスが維持される。",
+        "base": "政府と日銀の間で景気指標を見極めながらの慎重な政策運営が継続し、市場では日銀の利上げタイミングに関する思惑が交錯する。",
+        "pessimistic": "GDP減速が本格化する中で政策の方向性を巡る不確実性が高まり、金融市場や為替のボラティリティが上昇する。"
       },
       "watch_points": [
-        "米国の消費者物価指数（CPI）をはじめとする経済指標の動向",
-        "FRBの金融政策（利上げ観測）に関する当局者の発言",
-        "為替介入や日銀の政策対応に関する動き"
+        "日銀の今後の金融政策決定会合における判断",
+        "追加の経済指標（GDP改定値や消費動向など）の発表",
+        "政府高官による景気および金融政策への言及"
       ],
-      "importance": 5,
-      "uncertainty": "日銀の具体的な政策スタンスや為替介入の有無については、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要のテキストに基づくため、具体的なCPIの数値やFRB高官の個別発言、日銀の詳細な対応方針などの詳細は不明。"
+      "importance": 4,
+      "uncertainty": "7-9月期GDPの具体的な数値や、政府と日銀の裏での政策協議の詳細は、見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報には城内経財相の発言と7-9月期GDP減速の事実のみが記されており、具体的な経済統計の数値や市場の直接的な反応データは含まれていない。"
     },
     {
       "id": "2",
-      "title": "FX実践解説、米CPI「ドル円『火柱』FRBの利上げ決定か」（2026年11月10日）",
-      "summary": "FX実践解説、米CPI「ドル円『火柱』FRBの利上げ決定か」（2026年11月10日） 外為どっとコム",
+      "title": "豪ドル円見通し｜107円台に下落、AI株安と日銀利上げ観測が重し、エヌビディア決算に注目 2026年11月17日",
+      "summary": "豪ドル円見通し｜107円台に下落、AI株安と日銀利上げ観測が重し、エヌビディア決算に注目 2026年11月17日 外為どっとコム",
       "source": "外為どっとコム",
-      "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FelVMckhueU13WDRmOGExcFFjRG1PRXNkLUtjR0Q3Y3ZpX3JaUWZWNDM5OFkwRVdOU1lhclJqazgweFMweEN5WDJ2WEE4ZWNsVlNNcjBDVFZEeWtnMlNSUThiOA?oc=5",
-      "overview": "米CPI発表を受けたFX市場での値動きや、FRBの利上げ決定をめぐる動向が解説されている。",
-      "background": "一般論として、主要な経済指標の発表直後は為替相場が急変動（いわゆる「火柱」）しやすい。今回の確認済み情報としては、米CPIを契機とした相場の解説記事が存在するという点のみである。",
-      "japan_impact": "個人投資家や市場参加者におけるドル円相場への関心と警戒感の高まり。",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BSldnQTNzYmx4SUVZbEltVUZuNTEtN2U4QjdFd21paTlEYXlSLUdYNmo1cWtFbWxsZWJpcWVOcUhOazdtbHhaeEFfQkhKOFNtdzh3UndNQi01X25Nd1A3eXFWYw?oc=5",
+      "overview": "豪ドル円が107円台に下落した。AI株安や日銀利上げ観測が重しとなっており、エヌビディアの決算が注目されている。",
+      "background": "一般論として、株価動向や日銀の利上げ観測は為替市場のクロス円レートに影響を与える。確認された情報では、豪ドル円が107円台に下落し、背景としてAI株安と日銀利上げ観測が挙げられている。",
+      "japan_impact": "日銀の利上げ観測が円買い・豪ドル売りなどのクロス円の下落圧力として働き、国内の輸入物価や株式市場のセクター別動向に影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "市場の過度な投機的動きが鎮静化し、為替相場が安定を取り戻す。",
-        "base": "指標発表のたびに相場が一時的な乱高下を繰り返しながら推移する。",
-        "pessimistic": "突発的な相場変動によって市場のボラティリティが急上昇し、リスク管理の重要性が高まる。"
+        "optimistic": "エヌビディアの決算が好調な結果となり、AI関連株の持ち直しとともに豪ドル円が反発する。",
+        "base": "エヌビディアの決算発表を前に様子見ムードが続き、豪ドル円は107円台を中心に一進一退の値動きとなる。",
+        "pessimistic": "AI株安がさらに深刻化し、日銀の利上げ観測も相まって豪ドル円の下落基調が強まる。"
       },
       "watch_points": [
-        "主要な経済指標発表前後の為替のボラティリティ",
-        "FX市場におけるポジション動向"
+        "エヌビディアの決算内容とそれに対する株式市場の反応",
+        "日銀の利上げに関する市場観測の変化",
+        "豪ドル円の為替レートの推移"
       ],
       "importance": 3,
-      "uncertainty": "具体的なFXの売買戦略や詳細な値動きの背景は、見出し・概要だけでは確認できない。",
-      "evidence_limits": "専門解説記事のタイトルと概要のみであり、記事本文の具体的な分析内容は不明。"
+      "uncertainty": "具体的な下落幅の詳細や、エヌビディア決算以外の個別要因については、見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報には豪ドル円が107円台に下落したこと、AI株安と日銀利上げ観測が重しであること、エヌビディア決算が注目されていることのみが記載されている。"
     },
     {
       "id": "3",
-      "title": "くすぶる米FRB「0.5%利上げ」に植田日銀は置き去りか…円安・物価高にまた拍車の恐れ",
-      "summary": "くすぶる米FRB「0.5%利上げ」に植田日銀は置き去りか…円安・物価高にまた拍車の恐れ Infoseek",
-      "source": "Infoseek",
-      "date": "2026-11-15",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVFc4RXMtdXp4WWN3RC1HV0Vha3dZOWQ4U2E3ZEhFRTFrVzhYc1FhZFhaX252eTVxYW91N0VidEFmRUp3ZUZjd2ZmMWItazByNUhESHh0TzNIS2RWYXV2bXItdkc?oc=5",
-      "overview": "米FRBの「0.5%利上げ」観測がくすぶる中、日銀（植田総裁）の対応との格差から、円安や物価高への拍車が懸念されている。",
-      "background": "一般論として、米国が大幅利上げを模索し日本が低金利を維持する場合、金利差を理由に円売り圧力がかかりやすい。今回の確認済み情報としては、米国の0.5%利上げ観測と、それに対する日銀の姿勢を巡る懸念が報じられていることである。",
-      "japan_impact": "さらなる円安・物価高を通じて、国内の消費や企業活動に負担がかかる恐れがある。",
+      "title": "米インフレ圧力は強まるも、クリーブランド連銀総裁「小幅利上げを好む」",
+      "summary": "米インフレ圧力は強まるも、クリーブランド連銀総裁「小幅利上げを好む」 BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wM1drQlhzVXl1X05wZE5CcXA3a0x4eEFZMlBqUTI3bXBnRlU5clVoYWpLTW9IakNKTnAxc1RCYzRacW94VGt2WnlVNEVZNVZhcW5TaFBPQTlDQmx4Yi1xWUxuazZnTEVLaGgwaGpBVU1lQzdw?oc=5",
+      "overview": "米国のインフレ圧力が強まる中でも、クリーブランド連銀総裁が「小幅利上げを好む」との見解を示した。",
+      "background": "一般論として、米国のインフレ率の上昇はFRBの利上げ継続や高金利維持の根拠とされる。確認された情報では、インフレ圧力が強まる中、同総裁が小幅利上げを好むと発言したことのみ示されている。",
+      "japan_impact": "米国の金融政策の方向性は、日米金利差を通じて円ドル相場や日本の株式・債券市場に直接的な影響を与える。",
       "scenarios": {
-        "optimistic": "日銀が市場の予想を超える政策修正やメッセージを示し、円安進行に歯止めがかかる。",
-        "base": "日米金利差が意識され、円安・物価高のプレッシャーが継続する。",
-        "pessimistic": "FRBの大幅利上げ観測が現実味を帯びる一方で日銀が動意を見せず、歴史的な円安とインフレの深刻化を招く。"
+        "optimistic": "インフレ圧力が緩やかに抑制され、FRBが過度な引き締めを回避しつつ小幅な利上げに留めることで、市場の安定が保たれる。",
+        "base": "インフレ圧力の強まりとFRB高官の小幅利上げ志向のバランスが模索され、米金融政策を巡る神経質な展開が続く。",
+        "pessimistic": "インフレの加速によりFRBが予想以上の大幅利上げやタカ派的な姿勢を余儀なくされ、グローバル市場に動揺が走る。"
       },
       "watch_points": [
-        "日本銀行の金融政策決定会合および植田総裁の発言",
-        "日米金利差の動向"
+        "米国のインフレ関連経済指標の発表",
+        "クリーブランド連銀総裁を含むFRB高官の発言内容",
+        "米国の金利動向"
       ],
       "importance": 4,
-      "uncertainty": "日銀が実際にどのような政策判断を下すかは、見出し・概要だけでは確認できない。",
-      "evidence_limits": "記事のタイトルと概要にある懸念の指摘にとどまり、日銀の具体的な次の一手を示すデータはない。"
+      "uncertainty": "「小幅利上げ」の具体的な金利幅や、インフレ圧力の具体的な指標数値は、見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報には米インフレ圧力が強まっていることと、クリーブランド連銀総裁が小幅利上げを好むと述べたこと以外は記載されていない。"
     },
     {
       "id": "4",
-      "title": "ウォーシュ米FRB議長、AIとインフレの関係を巡るサンフランシスコ会合を開催、ビットコインも左右",
-      "summary": "ウォーシュ米FRB議長、AIとインフレの関係を巡るサンフランシスコ会合を開催、ビットコインも左右 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "date": "2026-11-13",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DeG8wSHdBdVRmWDZPbE1jbzVPcWhRS3lpTXZsZmVuRTFDMGM4X1Y0VWZVQ25LdVNZTktkSDJfRkJvUk9zX3A1dWlDNi1UdWNsSnh2bERWVHpURnFBNHVwSnZ5Rml6b29RUG54Q2NaNEhhemFw?oc=5",
-      "overview": "ウォーシュ米FRB議長が、AIとインフレの関係を巡るサンフランシスコ会合を開催し、ビットコイン市場にも影響を与えている。",
-      "background": "一般論として、AI技術の普及は生産性向上やコスト構造の変化を通じて中長期のインフレに影響を与えると議論される。今回の確認済み情報としては、ウォーシュ氏がFRB議長として関連会合を開催したこと、およびそれがビットコインを左右したという点である。",
-      "japan_impact": "間接的にグローバルな金融市場のリスク選好度や暗号資産市場を通じて日本の投資家心理に影響を与える可能性がある。",
+      "title": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長",
+      "summary": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長 Reuters",
+      "source": "Reuters",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFVDM0p3WW9xbXFjYUNqOGhTa25aZGpZN0VxcXB1OVhvVlpuNFR5MUk0TGJUNno3cTE5TTl5OHdpTzZHT3VicFRWWTkyVENZeEI3Q3M2WHdHSzEzOEtFYVA3MjdvN19NTWwwcnU4dks0LTFjY0dmZkQyaXItZWZkYVBuRXpKQWFUYnNTVmhfeEk3a1NBS2dKWnNRTQ?oc=5",
+      "overview": "米FRBのジェファーソン副議長が、金融政策の判断においてはインフレ動向を重視する姿勢を示した。",
+      "background": "一般論として、FRBの二大責務（雇用の最大化と物価の安定）のうち、インフレ局面では物価動向が最優先されることが多い。確認された情報では、ジェファーソン副議長がインフレ動向を重視すると述べたことが挙げられている。",
+      "japan_impact": "米国の金融政策におけるインフレ重視の姿勢が示されたことで、米金利の先行きに対する見方が変化し、ドル円相場や日本市場への波及効果が生じる。",
       "scenarios": {
-        "optimistic": "AIによる生産性向上がインフレ圧力の緩和につながり、金融引き締めの長期化懸念が和らぐ。",
-        "base": "AIとインフレの相関に関する議論が続き、金融市場や暗号資産市場で一進一退の展開が見られる。",
-        "pessimistic": "AIを巡る期待とインフレ構造の変化への懸念が交錯し、リスク資産全体で不安定な値動きが続く。"
+        "optimistic": "インフレ鈍化の兆しが確認され、FRBが景気に配慮した柔軟な政策運営へ移行する。",
+        "base": "インフレ動向に左右されるデータ依存の金融政策が継続し、市場は追加の経済指標に一喜一憂する展開となる。",
+        "pessimistic": "インフレが高止まりし、FRBが市場の予想を超える長期の高金利維持や追加引き締めの姿勢を強める。"
       },
       "watch_points": [
-        "AIの経済・インフレへの影響に関するFRBの公式見解",
-        "ビットコインをはじめとする暗号資産市場の値動き"
+        "ジェファーソン副議長および他のFRB幹部の発言",
+        "米国の主要インフレ指標（CPIやPCEデフレーターなど）の結果",
+        "金融市場の金利織り込み状況"
       ],
-      "importance": 3,
-      "uncertainty": "会合での具体的な議論内容や結論は、見出し・概要だけでは確認できない。",
-      "evidence_limits": "会合の開催事実とビットコインへの影響という短い概要のみで、詳細な因果関係は不明。"
+      "importance": 4,
+      "uncertainty": "インフレ動向のどの側面（コア指数やサービス価格など）を特に重視しているか等の詳細は、見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報にはジェファーソン副議長がインフレ動向を重視すると発言した事実のみが記載されている。"
     },
     {
       "id": "5",
-      "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
-      "summary": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」 みんかぶ（マガジン）",
-      "source": "みんかぶ（マガジン）",
-      "date": "2026-11-15",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
-      "overview": "ロシアへの経済制裁が戦争を止められない理由について、中国という「抜け穴」や欧州への「市場のしっぺ返し」の観点から論じられている。",
-      "background": "一般論として、多国間制裁においても一部の国家が貿易を継続する場合、制裁の効果が減殺されることがある。また制裁発動国側もエネルギー価格高騰などの副作用（しっぺ返し）を受ける。今回の確認済み情報としては、これらを指摘する解説記事が存在することである。",
-      "japan_impact": "欧州市場の動向やエネルギー・資源を巡る国際情勢の間接的な影響を通じて、日本の貿易や物価に波及する可能性がある。",
+      "title": "マクロスコープ：米中ロが首脳会談へ、高市政権が備える外交余波 経済面は恩恵も",
+      "summary": "マクロスコープ：米中ロが首脳会談へ、高市政権が備える外交余波 経済面は恩恵も Reuters",
+      "source": "Reuters",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GT210SkZ4OWYzVHozNnQ2MFkxcUpZMzBNbnpfeEZ3Q0Fxd1JTZEJQSDRrSjNPRHVxeDRCYkcxTlFjZUpPZ01OOTA4S1F3SWJzSFBuWWpzaVUxblJ6WlNYaW91cnZ4OTAzYXhYbmxXT0VUOTJpU1pzNmF0SmctNE0?oc=5",
+      "overview": "米中ロによる首脳会談が予定されており、高市政権がその外交余波に備えている中、経済面では恩恵も期待されている。",
+      "background": "一般論として、主要大国間の首脳会談は国際秩序や貿易、安全保障に大きな影響を与える。確認された情報では、米中ロが首脳会談を行う予定であり、高市政権が外交余波に備えつつ経済面の恩恵も視野に入れていること以外は不明。",
+      "japan_impact": "大国間の外交・経済関係の動向は、日本の外交政策だけでなく、貿易やサプライチェーンを通じた経済活動にも影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "制裁の抜け穴が塞がれるか、あるいは外交的解決への道筋がつき、世界的な資源・経済の緊張が緩和する。",
-        "base": "中国等を経由した制裁の回避と欧州の景気・市場への副作用が並存した状態が続く。",
-        "pessimistic": "制裁の効果が限定的なまま欧州経済へのしっぺ返しが深刻化し、世界経済全体の不安定性が高まる。"
+        "optimistic": "首脳会談を通じて国際的な緊張が緩和され、経済面でのプラスの波及効果が日本にももたらされる。",
+        "base": "米中ロの首脳会談の動向を注視しつつ、日本政府は外交的なバランスを取りながら経済的影響を見極める対応をとる。",
+        "pessimistic": "首脳会談の交渉が決裂、あるいは対立が激化し、地政学的リスクの高まりや予期せぬ外交余波が日本に悪影響を及ぼす。"
       },
       "watch_points": [
-        "ロシアに対する経済制裁の枠組みと迂回貿易の動向",
-        "中国の対ロ関係および欧州経済の指標"
+        "米中ロ首脳会談の開催日程と協議内容",
+        "高市政権および日本政府の外交・経済政策の対応",
+        "国際情勢の変化に伴う経済面への影響"
       ],
-      "importance": 3,
-      "uncertainty": "具体的な制裁の抜け穴の規模や欧州が受けた被害の統計データは、見出し・概要だけでは確認できない。",
-      "evidence_limits": "雑誌等のオピニオン・解説記事のタイトルと概要に基づくため、客観的な被害統計や外交交渉の内部情報は含まれていない。"
+      "importance": 5,
+      "uncertainty": "首脳会談の具体的な日時、会談の具体的なアジェンダ、高市政権の具体的な備えの内容は、見出し・概要だけでは確認できない。",
+      "evidence_limits": "入力情報には米中ロが首脳会談を行うこと、高市政権が外交余波に備えていること、経済面の恩恵があることが簡潔に述べられているのみである。"
     }
   ]
 }
