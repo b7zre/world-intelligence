@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-11-18T23:08:27.696520+00:00",
+  "generated_at": "2026-11-19T11:17:02.947294+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
+      "title": "Breakingviews - COMMENTARY: コラム：米欧のインフレに違い 欧州の米追随利上げにリスク",
+      "summary": "Breakingviews - COMMENTARY: コラム：米欧のインフレに違い 欧州の米追随利上げにリスク Reuters",
+      "source": "Reuters",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTdlcjI2aEM3ekJZaEVRV2NHdldLTmgwUzk1TDhzZFJVZngxQ01CYUczb0VUVGZEcmlnUElSR2Rsc0MtdFFyRnNObGlJb3YybW5FTmZSVnFjWU1SczdPMzJBdE9LWUVSUDFMYjJfR1M5WDJRZnByUHpicTB6VkdOajltTDB1dHo5ZlNaWGlZMVk?oc=5",
+      "overview": "米欧のインフレ状況には違いがあり、欧州が米国の利上げに追随することのリスクが指摘されている。",
+      "background": "一般論として、地域ごとの経済構造やインフレ要因の差異が金融政策の分かれ目となる。確認済みの情報としては、米欧のインフレに違いがあり、欧州の米追随利上げにリスクがあると指摘されていることのみ。",
+      "japan_impact": "見出し・概要だけでは確認できない。",
+      "scenarios": {
+        "optimistic": "欧州が独自の経済状況に適した金融政策を選択し、過剰な利上げリスクを回避する。",
+        "base": "米欧のインフレ動向の違いが意識されつつも、米国政策の影響を受けながら欧州が対応を模索する。",
+        "pessimistic": ""
+      },
+      "watch_points": [
+        "欧州の金融政策の動向",
+        "米欧のインフレ指標の差",
+        "市場の反応"
+      ],
+      "importance": 3,
+      "uncertainty": "具体的な政策決定や経済指標の数値は確認できない。",
+      "evidence_limits": "入力された見出しと概要のテキストのみに基づく。"
+    },
+    {
+      "id": "2",
+      "title": "米国：FRBのほぼすべての当局者が追加利上げを支持し、人工知能によって生じるインフレリスクに警告",
+      "summary": "米国：FRBのほぼすべての当局者が追加利上げを支持し、人工知能によって生じるインフレリスクに警告 Informat.ro",
+      "source": "Informat.ro",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjJZQXQtSXE2azZ5dC1NX0NsMTFJMGZnSW9DYWVKOVR2VU9vMVZCWkgtUTNpejZ3V0VsWVRub1Fka0REN243ejFmc2s2NmFfejk2OC00MjBFUFducldwd1ZSSmQ1cE1BZ1RycGVoSXdUMC13NFBkRjc1d0lKWmdmRGgzcXM3Z0hMVzM4bDc3MWJIYy1fU0ZBV1RPa0U1ZVRzbEh3Mk1kSnZqTDg?oc=5",
+      "overview": "米FRBのほぼ全ての当局者が追加利上げを支持し、人工知能（AI）によるインフレリスクについて警告している。",
+      "background": "一般論として、労働市場やテクノロジーの普及が物価に与える影響は多岐にわたる。確認済みの情報としては、FRB当局者が追加利上げ支持とAI起因のインフレリスクに言及したこと。",
+      "japan_impact": "見出し・概要だけでは確認できない。",
+      "scenarios": {
+        "optimistic": "AIによる生産性向上がインフレ圧力を相殺し、追加利上げが限定的で済む。",
+        "base": "FRBが姿勢通りに追加利上げを検討・実施し、金融市場がそれを織り込む形で推移する。",
+        "pessimistic": ""
+      },
+      "watch_points": [
+        "FRB当局者の発言と投票行動",
+        "AIが経済・物価に与える影響の実態",
+        "米国の追加利上げの有無"
+      ],
+      "importance": 4,
+      "uncertainty": "AIが具体的にどの程度のインフレリスクをもたらすか、数値的な根拠は見出し・概要からは不明。",
+      "evidence_limits": "入力された見出しと概要のテキストのみに基づく。"
+    },
+    {
+      "id": "3",
+      "title": "ドル円１５９．７０台に高止まり、米中露首脳会談には反応薄＝ロンドン為替",
+      "summary": "ドル円１５９．７０台に高止まり、米中露首脳会談には反応薄＝ロンドン為替 みんかぶ FX/為替",
+      "source": "みんかぶ FX/為替",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kNTVHTGlqOS1Lb3Nlc1piRFUwWnFpZTdDcEdfTlotNDZWSGRrb0pLTGlLaXNMQW1WaE8xUkd0Qlh6Z05DTkFGUw?oc=5",
+      "overview": "ロンドン為替市場においてドル円は159円70銭台に高止まりしており、米中露首脳会談に対する市場の反応は薄い。",
+      "background": "一般論として、為替レートは金利差や地政学イベントに影響される。確認済みの情報としては、ドル円が159.70台の高止まりを示し、米中露首脳会談への反応が限定的であること。",
+      "japan_impact": "円安水準が継続していることが示されているが、日本経済への具体的な影響や政府・日銀の対応は確認できない。",
+      "scenarios": {
+        "optimistic": "高止まりしていたドル円が調整し、急激な円安圧力が和らぐ。",
+        "base": "159円台のレンジでの推移が続き、大きな政治イベントによる急変動は限定的となる。",
+        "pessimistic": ""
+      },
+      "watch_points": [
+        "ドル円の為替水準",
+        "米中露首脳会談のその後の展開",
+        "市場の金利・政策への反応"
+      ],
+      "importance": 4,
+      "uncertainty": "首脳会談の内容や、為替介入等の政策的要因があるかどうかは確認できない。",
+      "evidence_limits": "入力された見出しと概要のテキストのみに基づく。"
+    },
+    {
+      "id": "4",
       "title": "高市首相のせいでも､日銀のせいでもない…経済学者が｢円安を招いた張本人｣と指摘する政治家の名前【2026年10月BEST】",
       "summary": "高市首相のせいでも､日銀のせいでもない…経済学者が｢円安を招いた張本人｣と指摘する政治家の名前【2026年10月BEST】 PRESIDENT Online（プレジデントオンライン）",
       "source": "PRESIDENT Online（プレジデントオンライン）",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzalBtal91N3VPbVFSM3dGcExsUjVfZExuYUJxalRiNzNVdXRPTnJTcWNsWFNveGRZT05lb2gwWFVmMGJlb1ZaZjJPQWF2ZWE0T2xqSVFqLUE?oc=5",
-      "overview": "高市首相や日銀のせいではなく、特定の政治家が円安を招いた張本人であるとする経済学者の指摘が報じられている。",
-      "background": "一般論として為替相場は金融政策や日米金利差、政治的発言など複合的要因で変動する。今回の確認済み情報としては、プレジデントオンラインのタイトルの言及のみ。",
-      "japan_impact": "国内の政治状況や為替政策への評価、円安に対する世論や経済界の議論に影響を与える可能性がある。",
+      "overview": "経済学者が、円安を招いた「張本人」である特定の政治家の名前を指摘しているという記事。",
+      "background": "一般論として、財政・金融政策を含む政治判断が為替に影響を与えるとの議論がある。確認済みの情報としては、高市首相や日銀のせいではなく特定の政治家が円安を招いたと経済学者が指摘していること。",
+      "japan_impact": "政治と円安の関係に関する議論が存在することが示されているが、具体的な政策変更への影響は不明。",
       "scenarios": {
-        "optimistic": "指摘された政治的な要因が議論を経て解消され、為替の安定に向けた建設的な政策論議が進むシナリオ。",
-        "base": "円安を巡る責任論や政治・経済の議論がメディアや市場関係者の間でしばらく継続するシナリオ。",
-        "pessimistic": "政治的な対立や責任の擦り付け合いが激化し、有効な経済・為替対策の遅れにつながるシナリオ。"
+        "optimistic": "政治的な責任論や原因分析を踏まえ、適切な政策修正が行われる。",
+        "base": "円安の責任所在を巡る議論がメディアや専門家の間で継続する。",
+        "pessimistic": ""
       },
       "watch_points": [
-        "円安の張本人と名指しされた政治家の反応",
-        "経済学者による具体的な論拠の提示",
-        "今後の国内政治と為替政策への影響"
+        "経済学者の具体的な主張内容",
+        "政治家や政府の反応",
+        "今後の経済政策の方向性"
       ],
-      "importance": 3,
-      "uncertainty": "見出しと概要のみで、どの政治家が指されているか、具体的な論拠や統計は確認できない。",
-      "evidence_limits": "入力情報の提供はタイトルと概要のテキストのみであり、記事本文が存在しないため詳細な事実関係は不明。"
-    },
-    {
-      "id": "2",
-      "title": "GDPが示す日経平均の先行きと日銀の金融政策(トウシル)",
-      "summary": "GDPが示す日経平均の先行きと日銀の金融政策(トウシル) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTNNd3h3QU5iMk9mbDNpRFo1RFVyU1B5Tl9abjh1aE85SFBNZGlTT01mUG0yaGREMUlrMU0tOGEzTHlOU2dmeEpMVjBWeEh5OGxZWWNDc240S3dyWFZORGFndVo2NkFTOUVjbjBBMm9VeDRFRm5kUGtSc21iSHpmWENVZVh4Mkk?oc=5",
-      "overview": "GDPが日経平均の先行きや日銀の金融政策に与える影響について解説されている。",
-      "background": "一般論としてGDP統計は景気の方向性を示し、株式市場や中央銀行の金融政策決定における重要な指標となる。",
-      "japan_impact": "国内の株式市場の動向や日銀の利上げ・緩和継続といった金融政策の判断材料として注目される。",
-      "scenarios": {
-        "optimistic": "GDPが堅調な数字を示し、企業業績の向上と株価の上昇、適切な金融政策の維持につながるシナリオ。",
-        "base": "GDP動向を背景に、市場が日銀の政策スタンスや日経平均の方向性を慎重に見極める展開が続くシナリオ。",
-        "pessimistic": "GDPの不振や金融政策の方向性への懸念から、日経平均が下落圧力を受けるシナリオ。"
-      },
-      "watch_points": [
-        "最新のGDP統計の数値",
-        "日銀の金融政策に関する方針の変化",
-        "日経平均株価の推移"
-      ],
-      "importance": 3,
-      "uncertainty": "見出しと概要の言及のみであり、実際のGDPの数値や具体的な政策予測は確認できない。",
-      "evidence_limits": "記事本文が含まれておらず、トウシルがどのような分析を行ったかについての詳細なデータはない。"
-    },
-    {
-      "id": "3",
-      "title": "「米朝対話を支持」と習近平氏 中韓首脳会談、中国側発表は言及せず [アジア太平洋経済協力会議][トランプ米大統領]",
-      "summary": "「米朝対話を支持」と習近平氏 中韓首脳会談、中国側発表は言及せず [アジア太平洋経済協力会議][トランプ米大統領] 朝日新聞",
-      "source": "朝日新聞",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMk9aVWxhTzlHdzVhWTFFLVBoWUc2ZmNERlBiYlVmT0ZjODZJVm81TzE3M0hlbVB0MnF5WXBDcHVMS2FFV3VfOVV5UFFvUE9sWUs2b29GYUQwSE0xNWZmRG9EVExLVFU?oc=5",
-      "overview": "習近平氏が「米朝対話を支持」と述べたことが中韓首脳会談で伝えられた一方、中国側の発表では言及がなかったと報じられている。",
-      "background": "一般論として、米朝関係や中朝関係、中韓関係はアジア太平洋地域の安全保障に大きな影響を与える。",
-      "japan_impact": "日本の安全保障環境や、北朝鮮問題に対する外交方針、アジア太平洋地域の緊張感に影響を与える。",
-      "scenarios": {
-        "optimistic": "米朝対話や地域諸国の協議が進展し、朝鮮半島周辺の緊張が緩和に向かうシナリオ。",
-        "base": "各国間で北朝鮮問題に対する立場や発表のトーンに微妙な差異が残りつつ、外交的駆け引きが続くシナリオ。",
-        "pessimistic": "中国側の発表漏れや姿勢の曖昧さが不信感を呼び、米朝・中韓間の対話が停滞するシナリオ。"
-      },
-      "watch_points": [
-        "中韓首脳会談における中国側の公式発表の詳細",
-        "米国のトランプ政権および北朝鮮の反応",
-        "アジア太平洋経済協力会議（APEC）等の場での関連動向"
-      ],
-      "importance": 4,
-      "uncertainty": "中国側の発表における詳細なニュアンスや、米朝対話に対する実際の裏付け情報は確認できない。",
-      "evidence_limits": "朝日新聞の見出しと概要以外の背景文脈や会談の全文が欠けている。"
-    },
-    {
-      "id": "4",
-      "title": "今日の為替市場ポイント：米国のインフレ圧力が意識され、ドル高円安の流れは継続する可能性",
-      "summary": "今日の為替市場ポイント：米国のインフレ圧力が意識され、ドル高円安の流れは継続する可能性 株探",
-      "source": "株探",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51XzVsaFN4U3dqRTY2aU9oY1NhVXJFNVR0VmNPWXM0OUktdElkMWVTcFo3ZHFiajFXVzZnMldKUFlDc3pRVFg2Rzk0czJEUkpoTXpJaGFaQkNLS096aTROQg?oc=5",
-      "overview": "米国のインフレ圧力が意識され、為替市場ではドル高円安の流れが継続する可能性が指摘されている。",
-      "background": "一般論として、米国のインフレ率が高い水準にある場合、金利が高止まりしドルが買われやすくなる。",
-      "japan_impact": "輸入コストの上昇を通じて国内物価に影響を与え、日本銀行の政策判断へのプレッシャーとなる可能性がある。",
-      "scenarios": {
-        "optimistic": "米国のインフレ圧力が予想以上に鈍化し、ドル高円安が緩やかに修正されるシナリオ。",
-        "base": "米国のインフレ懸念が根強く意識され、ドル高円安基調が当面維持されるシナリオ。",
-        "pessimistic": "インフレ再燃により米金利が急騰し、急激なドル高円安と日本側の介入警戒感が強まるシナリオ。"
-      },
-      "watch_points": [
-        "米国の経済指標（インフレ関連指標）の発表",
-        "為替市場におけるドル円のレート",
-        "日本政府・日銀による為替介入の可能性"
-      ],
-      "importance": 4,
-      "uncertainty": "今後の具体的な為替レートの数値や市場参加者のポジション状況は確認できない。",
-      "evidence_limits": "株探の短文のポイント解説のみに基づいている。"
+      "importance": 2,
+      "uncertainty": "指摘されている政治家の名前や具体的な論拠は、見出し・概要からは確認できない。",
+      "evidence_limits": "入力された見出しと概要のテキストのみに基づく。"
     },
     {
       "id": "5",
-      "title": "米インフレ圧力は強まるも、クリーブランド連銀総裁「小幅利上げを好む」",
-      "summary": "米インフレ圧力は強まるも、クリーブランド連銀総裁「小幅利上げを好む」 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wM1drQlhzVXl1X05wZE5CcXA3a0x4eEFZMlBqUTI3bXBnRlU5clVoYWpLTW9IakNKTnAxc1RCYzRacW94VGt2WnlVNEVZNVZhcW5TaFBPQTlDQmx4Yi1xWUxuazZnTEVLaGgwaGpBVU1lQzdw?oc=5",
-      "overview": "米国のインフレ圧力が強まる中、クリーブランド連銀総裁が「小幅利上げを好む」と発言したことが報じられている。",
-      "background": "一般論として、米連邦準備制度（FRB）高官の発言は今後の利上げペースや金融政策の方向性を占う手がかりとなる。",
-      "japan_impact": "米国の金利見通しを通じて、日米金利差やドル円為替レート、日本市場全体に波及する。",
+      "title": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
+      "summary": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか NHKニュース",
+      "source": "NHKニュース",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KaE1EZU92cU9maUxqOXJYbDdJY3FldkhDelhPeGtKc3h2Q0tpNXpTZU5zS3AxdUZlNmZLR3dNSDNtQWNpbkZjalB5YTBPazlmQnpESEtWbUJMZmN3VTc4?oc=5",
+      "overview": "米中首脳会談が開催され、貿易やAIなどのテーマについて意見が交わされたと報じられている。",
+      "background": "一般論として、米中関係は世界の貿易や技術覇権に大きな影響を与える。確認済みの情報としては、米中首脳会談で貿易やAIについて意見が交わされたこと。",
+      "japan_impact": "見出し・概要だけでは確認できない。",
       "scenarios": {
-        "optimistic": "FRBが急激な利上げではなく小幅な利上げに留めることで、市場の混乱が回避されるシナリオ。",
-        "base": "インフレ圧力とFRB高官の小幅利上げ好みの発言のバランスを巡り、市場が慎重に方向性を探るシナリオ。",
-        "pessimistic": "インフレ圧力の強まりに対して利上げ幅や回数が市場予想を超えて拡大し、世界経済に冷や水を浴びせるシナリオ。"
+        "optimistic": "米中対立が緩和に向かい、貿易やAI分野での協調やルール作りが進む。",
+        "base": "意見交換が行われたものの、具体的な合意には至らず従来の関係が継続する。",
+        "pessimistic": ""
       },
       "watch_points": [
-        "クリーブランド連銀総裁を含むFRB高官の発言",
-        "米国のインフレ動向を示す経済統計",
-        "次回の米連邦公開市場委員会（FOMC）の動向"
+        "米中首脳会談の公式声明",
+        "貿易・AI分野における両国の具体的措置",
+        "国際社会の反応"
       ],
       "importance": 4,
-      "uncertainty": "総裁の発言の背景にある全体的な文脈や、他のFRBメンバーとの意見の一致度は確認できない。",
-      "evidence_limits": "BigGoファイナンスの短い見出しと概要の記述のみが根拠。"
+      "uncertainty": "会談での具体的な合意事項や双方が交わした意見の詳細については確認できない。",
+      "evidence_limits": "入力された見出しと概要のテキストのみに基づく。"
     }
   ]
 }
