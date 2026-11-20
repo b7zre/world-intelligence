@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-11-19T23:03:39.458511+00:00",
+  "generated_at": "2026-11-20T11:17:05.287870+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
-      "title": "Breakingviews - COMMENTARY: コラム：米欧のインフレに違い 欧州の米追随利上げにリスク",
-      "summary": "Breakingviews - COMMENTARY: コラム：米欧のインフレに違い 欧州の米追随利上げにリスク Reuters",
+      "title": "インフレ抑制へ追加利上げ必要＝米フィラデルフィア連銀総裁",
+      "summary": "インフレ抑制へ追加利上げ必要＝米フィラデルフィア連銀総裁 Reuters",
       "source": "Reuters",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTdlcjI2aEM3ekJZaEVRV2NHdldLTmgwUzk1TDhzZFJVZngxQ01CYUczb0VUVGZEcmlnUElSR2Rsc0MtdFFyRnNObGlJb3YybW5FTmZSVnFjWU1SczdPMzJBdE9LWUVSUDFMYjJfR1M5WDJRZnByUHpicTB6VkdOajltTDB1dHo5ZlNaWGlZMVk?oc=5",
-      "overview": "米欧のインフレ状況には違いがあり、欧州が米国の利上げに追随することにはリスクがあると指摘されている。",
-      "background": "一般論として中央銀行の金融政策は国内のインフレや経済状況に左右される。今回の確認済み情報としては、米欧のインフレに違いがあり、欧州の米追随利上げにリスクがあるとコラムが指摘していることのみ確認できる。",
-      "japan_impact": "見出し・概要だけでは日本への具体的な影響は確認できない。",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNlJwRkFIQmVGTWRDc0FWNnZfYUFGRUhYclJvblVqdzVwdk1rcDVjRFBQVXVNWmMtdk10LVE2Ni01UnJHaE50YWVzR2dmOTVoRzdtVUc1Snp4LXUtNXpmOHJqTWlLYnFxZDdTcmZYV3FkdE10Mzg3dWZGeVVJLU0?oc=5",
+      "overview": "米フィラデルフィア連銀総裁がインフレ抑制のため追加利上げの必要性に言及した。",
+      "background": "一般論として中央銀行はインフレ抑制のために金利を引き上げる方針をとる。今回の確認済み情報としては、フィラデルフィア連銀総裁が追加利上げが必要と発言したことのみ。",
+      "japan_impact": "見出し・概要だけでは確認できないが、米国の金利動向は日米金利差を通じて為替や日本経済に影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "米欧のインフレ動向の違いに応じた適切な金融政策がとられ、過度な景気下押しリスクが回避されるシナリオ。",
-        "base": "欧州が米国の動向を意識しつつも独自の判断模索を続けるシナリオ。",
-        "pessimistic": "欧州が米国の利上げに無理に追随し、経済やインフレに悪影響を及ぼすシナリオ。"
+        "optimistic": "インフレが速やかに鎮静化し、追加利上げが見送られて金融市場が安定する。",
+        "base": "インフレ指標に応じて追加利上げの観測がくすぶり、金融市場が神経質な推移を続ける。",
+        "pessimistic": "予想を超えるインフレ持続により急進的な追加利上げが実施され、景気後退懸念から市場が混乱する。"
       },
       "watch_points": [
-        "米欧のインフレ指標の推移",
-        "欧州中央銀行（ECB）の利上げ方針",
-        "金融市場の反応"
+        "米国のインフレ指標の推移",
+        "FRB高官の発言内容",
+        "金利先物市場の動向"
       ],
-      "importance": 3,
-      "uncertainty": "コラムの具体的な論拠や詳細なデータは確認できない。",
-      "evidence_limits": "提供された見出しと概要のテキストのみに依拠している。"
+      "importance": 4,
+      "uncertainty": "具体的な追加利上げの時期や規模、他のFRB高官の総意については見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要の短文テキストのみに基づいており、発言の文脈や詳細な数値データはない。"
     },
     {
       "id": "2",
-      "title": "米国：FRBのほぼすべての当局者が追加利上げを支持し、人工知能によって生じるインフレリスクに警告",
-      "summary": "米国：FRBのほぼすべての当局者が追加利上げを支持し、人工知能によって生じるインフレリスクに警告 Informat.ro",
-      "source": "Informat.ro",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjJZQXQtSXE2azZ5dC1NX0NsMTFJMGZnSW9DYWVKOVR2VU9vMVZCWkgtUTNpejZ3V0VsWVRub1Fka0REN243ejFmc2s2NmFfejk2OC00MjBFUFducldwd1ZSSmQ1cE1BZ1RycGVoSXdUMC13NFBkRjc1d0lKWmdmRGgzcXM3Z0hMVzM4bDc3MWJIYy1fU0ZBV1RPa0U1ZVRzbEh3Mk1kSnZqTDg?oc=5",
-      "overview": "米FRBのほぼすべての当局者が追加利上げを支持し、人工知能（AI）によるインフレリスクに警告を発している。",
-      "background": "一般論としてインフレ懸念の高まりは金融引き締めを長期化させる要因となる。今回の確認済み情報では、FRB当局者が追加利上げを支持し、AI起因のインフレリスクに言及したことのみ確認できる。",
-      "japan_impact": "見出し・概要だけでは日本への具体的な影響は確認できない。",
+      "title": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り",
+      "summary": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1ODBldElfQW03VkVkQkRMU01nNHlwZFd5SWZrcEtjMnFHZUVISVR5WXFJU2tkb0RKdXp4WTIyNmNVZTJlOVNNX3lMdmUtdDZ3bEt4RGVHYmxWT2pXZFJEbDlrVXgxeEVDb3JOUE9kcVpTMUtF?oc=5",
+      "overview": "FRBのジェファーソン副議長が、AIインフラの熱狂が短期的にインフレを押し上げ、生産性向上による恩恵は先送りされるとの見解を示した。",
+      "background": "一般論として新技術への大規模な投資は一時的な需要過多やコスト上昇を招く。今回の確認済み情報としては、ジェファーソン副議長がAIインフラ投資の短期的なインフレ圧力と生産性向上の遅れを指摘したこと。",
+      "japan_impact": "見出し・概要だけでは確認できないが、米国の金融政策やAI関連の動向を通じて、日本の関連銘柄やマクロ経済に影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "AI技術の普及が生産性向上を通じてインフレ圧力を相殺し、急激な利上げが回避されるシナリオ。",
-        "base": "FRBがインフレ警戒を継続し、市場が追加利上げを織り込んで推移するシナリオ。",
-        "pessimistic": "AI関連のインフレリスクや追加利上げ観測が強まり、金融市場全体に動揺が広がるシナリオ。"
+        "optimistic": "インフレ圧力が予想よりも早期に吸収され、生産性の向上が速やかに実現する。",
+        "base": "AIインフラ投資が継続する一方でインフレ押し上げ効果と生産性向上のタイムラグが意識され、慎重な金融政策運営が続く。",
+        "pessimistic": "AI関連の過熱が持続的なインフレを誘発し、金融引き締め長期化による景気下押し圧力が強まる。"
       },
       "watch_points": [
-        "FRB当局者による追加発言",
-        "AIが経済やインフレに与える影響に関する分析",
-        "米国のインフレ統計"
+        "AI関連インフラ投資の規模と持続性",
+        "米国の物価動向",
+        "FRBの景気認識と政策判断"
       ],
       "importance": 4,
-      "uncertainty": "AIがどのようなメカニズムでインフレリスクを引き起こすのか、概要からは詳細が不明。",
-      "evidence_limits": "提供された見出しと概要のテキストのみに依拠している。"
+      "uncertainty": "生産性の恩恵が具体的にどの程度先送りされるのか、期間や規模は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要の短文テキストのみに基づく。"
     },
     {
       "id": "3",
+      "title": "AI関連株の下落は止まらないのか？大川智宏氏がFRBの金融政策と今後の米国株・日本株・ドル円見通しを解説 2026年11月20日",
+      "summary": "AI関連株の下落は止まらないのか？大川智宏氏がFRBの金融政策と今後の米国株・日本株・ドル円見通しを解説 2026年11月20日 外為どっとコム",
+      "source": "外為どっとコム",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhZjFjbEpvTHVxenlVMzk3WDhnZnJWcElzLUJNOE5XbU8xWVZjdzN1TU93dDRtRkJhQkc4SmF1S292ZGdNczdpWnpNa2hucmgxaTVuMmJiSnBPS2ZwVFBtalFKSQ?oc=5",
+      "overview": "大川智宏氏がFRBの金融政策とAI関連株の下落、米国株・日本株・ドル円の見通しについて解説を行った。",
+      "background": "一般論として市場環境の変化は株式や為替の動向に影響を与える。今回の確認済み情報としては、2026年11月20日付で外為どっとコムにおいて同氏による解説がなされたこと。",
+      "japan_impact": "見出し・概要だけでは確認できないが、解説の内容によっては日本の投資家心理や株価、ドル円相場に心理的影響を与える可能性がある。",
+      "scenarios": {
+        "optimistic": "市場の懸念が和らぎ、米国株・日本株ともに底堅い推移を見せる。",
+        "base": "AI関連株の下落や金融政策の不透明感から、米国株・日本株ともに一進一退の展開が続く。",
+        "pessimistic": "AI関連株の調整が長期化し、米国株の下落が波及して日本株やドル円に下方圧力がかかる。"
+      },
+      "watch_points": [
+        "AI関連株の株価動向",
+        "専門家による市場分析のトレンド",
+        "ドル円および株式市場の反応"
+      ],
+      "importance": 3,
+      "uncertainty": "解説の具体的な中身や結論、今後の株価・為替の具体的な予測値は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要の短文テキストのみに基づく。"
+    },
+    {
+      "id": "4",
       "title": "ドル円１５９．７０台に高止まり、米中露首脳会談には反応薄＝ロンドン為替",
       "summary": "ドル円１５９．７０台に高止まり、米中露首脳会談には反応薄＝ロンドン為替 みんかぶ FX/為替",
       "source": "みんかぶ FX/為替",
       "date": "2026-11-19",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kNTVHTGlqOS1Lb3Nlc1piRFUwWnFpZTdDcEdfTlotNDZWSGRrb0pLTGlLaXNMQW1WaE8xUkd0Qlh6Z05DTkFGUw?oc=5",
-      "overview": "ロンドン為替市場においてドル円は159円70銭台に高止まりし、米中露首脳会談への市場の反応は薄かった。",
-      "background": "一般論として為替相場は各国の金利差や政治イベントの動向に影響される。今回の確認済み情報としては、ドル円が159.70台で高止まりしており、米中露首脳会談への反応が薄かったことが確認できる。",
-      "japan_impact": "ドル円が159.70台の高止まりにあることが示されているが、日本国内の物価や政策への影響の詳細は見出し・概要からは確認できない。",
+      "overview": "ロンドン為替市場において、ドル円が159円70銭台の高止まりを見せる一方、米中露首脳会談に対する市場の反応は薄かった。",
+      "background": "一般論として地政学的な重要会談であっても市場の直接的な材料にならなければ為替への影響は限定的となる。今回の確認済み情報としては、ドル円が159円70銭台で推移し、米中露首脳会談への反応が薄かったこと。",
+      "japan_impact": "見出し・概要だけでは確認できないが、円安水準の高止まりは日本国内の輸入コストや物価に影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "為替水準が安定し、急激な変動による経済の混乱が防がれるシナリオ。",
-        "base": "ドル高円安基調や高止まりの状態が継続し、市場が様子見を続けるシナリオ。",
-        "pessimistic": "さらなる円安・ドル高の進行や突発的な市場介入・変動リスクが顕在化するシナリオ。"
+        "optimistic": "実需の動向や当局の動向により、急激な変動を伴わずに円安圧力が緩和される。",
+        "base": "159円台の高止まりが継続し、市場は次の経済指標や政策発表を待つ展開となる。",
+        "pessimistic": "さらなる円安進行や地政学的リスクの顕現化により、市場の警戒感が急速に高まる。"
       },
       "watch_points": [
-        "ドル円の価格推移と高止まりの持続性",
-        "為替介入に関する当局の発言",
-        "国際的な政治イベントに対する市場の反応"
+        "ドル円相場の160円近辺での推移と当局の発言",
+        "主要国の首脳会談や外交動向の市場への波及",
+        "欧米の金融政策に関する新情報"
       ],
       "importance": 4,
-      "uncertainty": "首脳会談の具体的な協議内容や市場の反応が薄い理由の背景は確認できない。",
-      "evidence_limits": "提供された見出しと概要のテキストのみに依拠している。"
-    },
-    {
-      "id": "4",
-      "title": "ＪＰモルガン、ＦＲＢの3会合連続利上げを予想 インフレ高止まり",
-      "summary": "ＪＰモルガン、ＦＲＢの3会合連続利上げを予想 インフレ高止まり Reuters",
-      "source": "Reuters",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2h4ODhNVHNPSDkzQU9uanVBYWJoTmhjWGo1dGgtZWR0R3JEendvUWJtcXhLbHFUS3d1T21YaWl4dmNJNG9TQlY5dXp0WnRteVJ3OFdITkI5c3RBMk5aRktsc1VMZFVrVkJWUXNJTl9LcG1PV054RVIzWG5QekNRU0JKNGRKWC05LUR2eGZYZW9vRjFwUGdnS29xdw?oc=5",
-      "overview": "JPモルガンが、インフレ高止まりを背景にFRBが3会合連続で利上げを行うと予想している。",
-      "background": "一般論として民間金融機関による予測は直近の経済指標やインフレ動向をもとに修正される。今回の確認済み情報では、JPモルガンがインフレ高止まりを理由にFRBの3会合連続利上げを予想していることが確認できる。",
-      "japan_impact": "見出し・概要だけでは日本への具体的な影響は確認できない。",
-      "scenarios": {
-        "optimistic": "インフレが予想以上に急速に鎮静化し、連続利上げ予想が下方修正されるシナリオ。",
-        "base": "JPモルガンの予想通りにインフレが高止まりし、FRBが引き締めを継続するシナリオ。",
-        "pessimistic": "インフレのさらなる加速から予測を上回る大幅な利上げや長期の引き締めが実施されるシナリオ。"
-      },
-      "watch_points": [
-        "米国のインフレ高止まりを示す経済指標",
-        "他主要金融機関によるFRB政策予測の変更",
-        "実際のFOMCの決定内容"
-      ],
-      "importance": 4,
-      "uncertainty": "予想の前提となる具体的なデータや数値は確認できない。",
-      "evidence_limits": "提供された見出しと概要のテキストのみに依拠している。"
+      "uncertainty": "米中露首脳会談の具体的な協議内容や、ドル円の高止まりに対する当局の具体的な介入スタンスは見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要の短文テキストのみに基づく。"
     },
     {
       "id": "5",
-      "title": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
-      "summary": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか NHKニュース",
-      "source": "NHKニュース",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KaE1EZU92cU9maUxqOXJYbDdJY3FldkhDelhPeGtKc3h2Q0tpNXpTZU5zS3AxdUZlNmZLR3dNSDNtQWNpbkZjalB5YTBPazlmQnpESEtWbUJMZmN3VTc4?oc=5",
-      "overview": "米中首脳会談が開催され、貿易やAIなどについて意見を交わしたとみられている。",
-      "background": "一般論として米中首脳会談は両国間の貿易や先端技術を巡る関係に影響を与える。今回の確認済み情報としては、米中首脳会談で貿易やAIについて意見が交わされた可能性があることが報じられている点のみ確認できる。",
-      "japan_impact": "見出し・概要だけでは日本への具体的な影響は確認できない。",
+      "title": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター）",
+      "summary": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tLVpVanRTS1N5aWl2TjhRRWJESVJzTmJQcnBzM0EzTVZnUHJnUW9XTkpYU2Z6UTVwRlZVbVVaOE9HOFZ6ME1rU1VGZ0tRak9JOEJ0dWZYbG1zUGhQTkxMX00wSENqUVZIcUFuM3dFcDhKMkJ1cU03NW01UFFaZlE?oc=5",
+      "overview": "インドネシアと中国の首脳会談が開催され、南シナ海協力や経済・投資について協議された。",
+      "background": "一般論としてASEAN諸国と中国の間では経済関係の強化と領有権を巡る課題が並存する。今回の確認済み情報としては、インドネシアと中国の間で首脳会談が行われ、南シナ海協力や経済・投資が協議されたこと。",
+      "japan_impact": "見出し・概要だけでは確認できないが、東南アジア地域における経済・安全保障の枠組みやサプライチェーンに間接的な影響を及ぼす可能性がある。",
       "scenarios": {
-        "optimistic": "米中対話の継続により、貿易やAI分野でのルール作りや緊張緩和が進むシナリオ。",
-        "base": "意見交換が行われるものの、具体的な懸案事項での対立が継続するシナリオ。",
-        "pessimistic": "貿易やAIを巡る米中の溝が埋まらず、関係悪化や新たな規制につながるシナリオ。"
+        "optimistic": "経済・投資協力が円滑に進展し、南シナ海の緊張が対話を通じて緩和される。",
+        "base": "経済協力を深めつつも、南シナ海を巡る個別の安全保障上の立場は平行線をたどる。",
+        "pessimistic": "南シナ海の権益争いが激化し、地域全体の地政学的リスクが上昇する。"
       },
       "watch_points": [
-        "米中首脳会談の公式な合意事項や共同声明の有無",
-        "貿易およびAI分野に関する両国の追加措置",
-        "国際社会の反応"
+        "インドネシアと中国の合意文書や共同声明の有無",
+        "南シナ海における偶発的衝突の有無",
+        "他周辺国や日本・米国への外交的影響"
       ],
       "importance": 3,
-      "uncertainty": "会談でどのような具体的な意見が交わされたのか、合意に至ったのかは確認できない。",
-      "evidence_limits": "提供された見出しと概要のテキストのみに依拠している。"
+      "uncertainty": "会談における具体的な合意内容や、南シナ海協力に関する具体的な踏み込み具合は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要の短文テキストのみに基づく。"
     }
   ]
 }
