@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:56:53.897543+00:00",
+  "generated_at": "2026-11-22T22:59:23.197254+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
@@ -10,22 +10,22 @@
       "source": "https://kabu-ir.com/",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "overview": "米FRBの追加利上げ警戒に伴う円安160円目前の状況や、AI投資のインフレ圧力、日銀の利上げ方針が注目されている。",
-      "background": "一般論として、金利差や物価動向が為替に影響を与える。今回の確認済み情報としては、米FRBの追加利上げへの警戒感やAI投資のインフレ圧力、日銀の利上げ方針に市場の関心が集まっていること。",
-      "japan_impact": "円安が160円目前となる中で、日銀の利上げ方針への注目度が高まっている。",
+      "overview": "米FRBの追加利上げ警戒とAI投資のインフレ圧力、さらに日銀の利上げ方針に注目が集まり、円安が160円目前となっている状況。",
+      "background": "AI投資に伴うインフレ圧力や日米の金融政策の方向性が為替市場に影響を与えている（一般論としてのAI投資とインフレの関係を除く詳細なメカニズムは見出し・概要だけでは確認できない）。",
+      "japan_impact": "160円目前の円安進行により、輸入コスト増などの国内経済への影響や、日銀の利上げ方針への関心が高まっている。",
       "scenarios": {
-        "optimistic": "米国のインフレ圧力が後退し、円安の進行が和らぐ。",
-        "base": "米FRBの動向や日銀の政策方針を巡り、円安水準での推移や警戒感が続く。",
-        "pessimistic": "追加利上げ警戒やインフレ圧力によってさらに円安が進行する。"
+        "optimistic": "日銀の利上げ方針や米国のインフレ懸念後退により、過度な円安に歯止めがかかる。",
+        "base": "160円を視野に入れつつ、米FRBの動向と日銀の政策スタンスの思惑でドル円相場が神経質な値動きを続ける。",
+        "pessimistic": "追加利上げ警戒とAI投資等のインフレ圧力からさらに円安が進行し、160円を突破して日本経済への負担が増す。"
       },
       "watch_points": [
-        "米FRBの追加利上げに関する動向",
-        "日銀の利上げ方針に関する発表",
-        "為替相場（円安・ドル円の推移）"
+        "米FRBの追加利上げに関する当局者の発言や経済指標",
+        "日銀の金融政策決定会合や利上げ方針に関する動向",
+        "AI投資等に起因するインフレ圧力の行方"
       ],
       "importance": 4,
-      "uncertainty": "具体的な経済指標の数値や日銀・FRBの次回の政策決定内容は、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報のみに基づいている。"
+      "uncertainty": "具体的な経済指標の数値や日銀の具体的な政策スケジュール、米FRBの次の一手については情報が不足している。",
+      "evidence_limits": "入力データは短文の見出しと概要のみであり、詳細な経済データや政策文書は含まれていない。"
     },
     {
       "id": "2",
@@ -34,22 +34,22 @@
       "source": "BigGo ファイナンス",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
-      "overview": "米国の期待インフレ鈍化による利上げ観測後退を受け、ドル円が158円台後半から下落した。",
-      "background": "一般論として、インフレ指標の変動は中央銀行の利上げ観測に影響を与え、為替レートを変動させる。今回の確認済み情報としては、米国の期待インフレ鈍化を背景に利上げ観測が後退し、ドル円が158円台後半から下落したこと。",
-      "japan_impact": "ドル円の下落により、直前の円安基調に一時的な調整が生じている。",
+      "overview": "米国の期待インフレ鈍化に伴う利上げ観測の後退により、ドル円は158円台後半から下落した。",
+      "background": "一般に米国のインフレ期待低下は利上げ観測を後退させ、ドル売り要因として作用する。",
+      "japan_impact": "ドル円が158円台後半から下落したことで、直近の極端な円安・ドル高圧力がやや緩和する方向にある。",
       "scenarios": {
-        "optimistic": "インフレ鈍化傾向が定着し、ドル高・円安圧力がさらに緩和する。",
-        "base": "米国の経済指標やインフレ期待の変動に合わせ、ドル円が上下動する。",
-        "pessimistic": "期待インフレの鈍化が一過性に終わり、再び利上げ観測とドル買いが強まる。"
+        "optimistic": "米国のインフレ鈍化トレンドが定着し、ドル安・円高方向に調整が進む。",
+        "base": "一時的な下落にとどまり、再び米国の経済指標次第でドル円が底堅い動きに戻る。",
+        "pessimistic": "期待インフレの鈍化が一過性に終わり、再び積極的な利上げ観測が再燃してドル高に向かう。"
       },
       "watch_points": [
-        "米国の期待インフレ率の推移",
-        "ドル円の為替レートの変動",
-        "関連する米金融政策の観測報道"
+        "米国の期待インフレ率関連の指標",
+        "米FRBの利上げ観測の変化",
+        "ドル円相場の158円台を巡る値動き"
       ],
-      "importance": 4,
-      "uncertainty": "下落の幅や継続期間、具体的なインフレ指数の数値は見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報のみに基づいている。"
+      "importance": 3,
+      "uncertainty": "期待インフレ鈍化の一過性・継続性についての詳細なデータはない。",
+      "evidence_limits": "見出し・概要以外の詳細な経済指標の数値や市場背景は確認できない。"
     },
     {
       "id": "3",
@@ -58,70 +58,70 @@
       "source": "外為どっとコム",
       "date": "2026-11-21",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZUV1YzJtOEFONDA1SXh0WXV4dm4tdUd6WE9MNzlQOG1OS0UtbmpRZFphLVgtdkZwSHRQQ2lLaFVjaDZlMmJ3S0VOV3dvQ3MzbXc4NzFUSW9yUzBmdWpCaS1TVQ?oc=5",
-      "overview": "利上げ終了の見方が強まる中、豪ドル/円は10カ月ぶり安値へ下落する見通しが示されており、10月CPIの発表が注目されている。",
-      "background": "一般論として、金利見通しや消費者物価指数（CPI）は通貨の価値に直接的な影響を与える。今回の確認済み情報としては、豪州の利上げ終了観測から豪ドル/円が10カ月ぶり安値へ下落する見通しとなっており、10月CPIに注目が集まっていること。",
-      "japan_impact": "豪ドル安・円高方向への動きが意識され、高金利通貨としての豪ドル保有動向に影響が出る可能性がある。",
+      "overview": "豪ドル/円は利上げ終了の見方が強まる中で10カ月ぶり安値へ下落しており、10月CPIの発表に注目が集まっている。",
+      "background": "豪州における金融引き締めサイクルの終了観測が通貨の下落圧力となっている。",
+      "japan_impact": "クロス円の一つである豪ドル/円の下落は、関連する投資や貿易環境に影響を与える可能性がある。",
       "scenarios": {
         "optimistic": "10月CPIの結果が市場予想を上回り、利上げ終了観測が後退して豪ドルが持ち直す。",
-        "base": "利上げ終了の見方を背景に、10月CPIの発表に向けて慎重な値動きが続く。",
-        "pessimistic": "CPIが低調で利上げ終了観測が確定的となり、豪ドル/円がさらに下落する。"
+        "base": "利上げ終了見方が維持され、10月CPIの結果を控えながら安値圏での推移が続く。",
+        "pessimistic": "インフレ鈍化が確認され利上げ終了が確実視されることで、さらに豪ドル/円の下落が進む。"
       },
       "watch_points": [
-        "豪州の10月CPIの結果",
-        "豪州の利上げ方針を巡る見方",
-        "豪ドル/円の為替動向"
+        "豪州の10月CPI（消費者物価指数）の結果",
+        "豪州の金融政策（利上げ終了観測）の行方",
+        "豪ドル/円の10カ月ぶり安値近辺での値動き"
       ],
       "importance": 3,
-      "uncertainty": "実際のCPIの数値や、市場コンセンサスとの乖離は見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報のみに基づいている。"
+      "uncertainty": "CPIの具体的な市場予想値や豪州中銀の声明の詳細は入力から確認できない。",
+      "evidence_limits": "入力は短いニュース概要と見出しのみである。"
     },
     {
       "id": "4",
-      "title": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り",
-      "summary": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1ODBldElfQW03VkVkQkRMU01nNHlwZFd5SWZrcEtjMnFHZUVISVR5WXFJU2tkb0RKdXp4WTIyNmNVZTJlOVNNX3lMdmUtdDZ3bEt4RGVHYmxWT2pXZFJEbDlrVXgxeEVDb3JOUE9kcVpTMUtF?oc=5",
-      "overview": "FRBのジェファーソン副議長が、AIインフラ熱狂は短期的にはインフレを押し上げるが、生産性の恩恵は先送りになるとの見解を示した。",
-      "background": "一般論として、新技術への巨額投資は初期段階において需要を刺激し物価に上方圧力をかけることがある。今回の確認済み情報としては、FRBジェファーソン副議長がAIインフラの熱狂が短期的なインフレ圧力となり、生産性の恩恵は後になると指摘したこと。",
-      "japan_impact": "米国の金融政策やインフレ見通しを通じて、間接的に日本の金利や為替市場へ影響を与える可能性がある。",
+      "title": "円安圧力が再燃？アメリカ｢積極的な利上げモード｣の行方",
+      "summary": "円安圧力が再燃？アメリカ｢積極的な利上げモード｣の行方 四季報オンライン",
+      "source": "四季報オンライン",
+      "date": "2026-11-21",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMDg3QWM0UEd1ZVEtLUw5cjlhMEotQnBjWkFiZHhZT1ZMTHFZS1NhLU1zVDkwM2NIcGREMXlMQnlBY3RhRTFOU1pxS0xKYUhZMFNHeHJiOA?oc=5",
+      "overview": "アメリカの「積極的な利上げモード」の行方により、円安圧力が再燃するかどうかが注目されている。",
+      "background": "米国の金融政策が引き締め的（積極的利上げ）に傾くかどうかが、日米金利差を通じた為替の決定要因となる。",
+      "japan_impact": "米国の利上げモード再燃は、日本国内の輸入物価や為替介入への警戒感に直接影響する。",
       "scenarios": {
-        "optimistic": "AI投資による生産性の向上時期が前倒しされ、インフレ懸念が和らぐ。",
-        "base": "AIインフラ投資に伴う短期的なインフレ圧力が意識され、FRBの慎重姿勢が維持される。",
-        "pessimistic": "AI関連のインフレ圧力が長期化し、FRBが追加利上げや高金利維持を余儀なくされる。"
+        "optimistic": "米国の積極的な利上げモードが否定され、円安圧力が低下する。",
+        "base": "米国の政策動向を巡る思惑が交錯し、円安圧力がくすぶり続ける。",
+        "pessimistic": "米国が予想以上の積極的な利上げモードに移行し、円安圧力が劇的に再燃する。"
       },
       "watch_points": [
-        "FRB高官の発言内容と金融政策への影響",
-        "AIインフラ投資に関する経済動向",
-        "米国のインフレ指標"
+        "米国金融当局者の発言",
+        "米国の主要なインフレ・雇用関連指標",
+        "円安圧力の高まりと日本政府・日銀の対応"
       ],
       "importance": 4,
-      "uncertainty": "生産性の恩恵が具体的にいつ現れるかなどの詳細な予測数値は見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報のみに基づいている。"
+      "uncertainty": "「積極的な利上げモード」が具体的にどのようなデータを根拠としているかは確認できない。",
+      "evidence_limits": "見出しと概要の記述以上の詳細な政策背景は不明。"
     },
     {
       "id": "5",
-      "title": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター）",
-      "summary": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tLVpVanRTS1N5aWl2TjhRRWJESVJzTmJQcnBzM0EzTVZnUHJnUW9XTkpYU2Z6UTVwRlZVbVVaOE9HOFZ6ME1rU1VGZ0tRak9JOEJ0dWZYbG1zUGhQTkxMX00wSENqUVZIcUFuM3dFcDhKMkJ1cU03NW01UFFaZlE?oc=5",
-      "overview": "インドネシアと中国の首脳会談が開催され、南シナ海協力や経済・投資について協議が行われた。",
-      "background": "一般論として、中国と東南アジア諸国連合（ASEAN）加盟国との間では、地域経済の連携と領有権問題を含む南シナ海の安定が重要課題とされる。今回の確認済み情報としては、インドネシアと中国の間で首脳会談が開かれ、南シナ海協力や経済・投資が協議されたこと。",
-      "japan_impact": "直接的な日本国内への経済的影響は限定的だが、アジア地域の地政学・経済協力の動向として注目される。",
+      "title": "高市外交75点、中国の冷遇に「大人の対応」米中露首脳会談前「クワッド実現」 松井一郎 以心伝心",
+      "summary": "高市外交75点、中国の冷遇に「大人の対応」米中露首脳会談前「クワッド実現」 松井一郎 以心伝心 産経ニュース",
+      "source": "産経ニュース",
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkJrUGVMNzFqT29KNWIwOGkxbFFORTctLXpJM3BBTlFNVTU3b0ZrcjMycXJvYldfYkJmam1OWWY2eENSSnJJTFJnZUp1NkRRUTVCcXc1RExVU3NZZjBjUHpRcGx6OHU2RXkteGZTM2NfcVNGNVR4dXdhNWRMaE5tQmVDUkFrbFpDd004YkY2SlluT1UyTjJWMS1ocnA?oc=5",
+      "overview": "高市外交について松井一郎氏が75点と評価し、中国の冷遇への「大人の対応」や、米中露首脳会談前の「クワッド実現」に言及している。",
+      "background": "国際的な外交日程（米中露首脳会談など）や枠組み（クワッド）を巡る安全保障・外交上の位置づけが議論されている。",
+      "japan_impact": "日本の外交政策や対中関係、クワッドを軸とした安全保障協力の方針に関わる話題である。",
       "scenarios": {
-        "optimistic": "経済・投資協力が具体化し、南シナ海における緊張が緩和する。",
-        "base": "実務的な経済・投資の協議が継続する一方で、安全保障上の立場は平行線をたどる。",
-        "pessimistic": "南シナ海を巡る協議が難航し、地域情勢の不確実性が高まる。"
+        "optimistic": "クワッドの連携が強化され、地域の安定と日本外交のプレゼンス向上の評価が高まる。",
+        "base": "中国との緊張を一定程度管理しつつ、クワッドを通じた多国間外交が継続される。",
+        "pessimistic": "中国の冷遇や首脳会談を巡る地政学的リスクが表面化し、外交・安全保障上の摩擦が強まる。"
       },
       "watch_points": [
-        "インドネシア・中国間の経済・投資協定の進展",
-        "南シナ海に関する合意や共同声明の内容",
-        "地域情勢の外交的動向"
+        "米中露首脳会談の動向",
+        "クワッド（日米豪印）の枠組みにおける具体的な動き",
+        "日中関係の推移"
       ],
       "importance": 3,
-      "uncertainty": "会談で合意された具体的な成果や文書の詳細は見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力された見出しと概要の短文情報のみに基づいている。"
+      "uncertainty": "「75点」の評価の基準や、中国の冷遇に関する具体的な事実関係の詳細は確認できない。",
+      "evidence_limits": "個人のコラムや発言を伝える見出し・概要のみであり、外交文書などの客観的裏付けデータはない。"
     }
   ]
 }
