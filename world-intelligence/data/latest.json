@@ -1,6 +1,726 @@
 {
   "articles": [
     {
+      "title": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安 みんかぶ",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mRHEzTEkxbG1pSGdsRVhzLWp2RWJqcnFVcnc3RlU1ZGdqT0xXaGRzczhkMEtnZHdDZlpzYlJ5ZGJTUG9xLXd1Qg?oc=5",
+      "source": "みんかぶ",
+      "language": "ja",
+      "importance_score": 31
+    },
+    {
+      "title": "コラム：ＦＲＢ利上げの見通しとＡＩ経済、米国出張で見えた強気派と慎重派の議論＝井上哲也氏",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "コラム：ＦＲＢ利上げの見通しとＡＩ経済、米国出張で見えた強気派と慎重派の議論＝井上哲也氏 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjZPd3dtOGFnVHJZYXYwc1YycEtadDVQMHJiSXpldmZ3Z1lBOHZxd0VZcnBMeXlHY0Q5V1pjY01Hdk95VlhFazhuamEtdVp1ZEhqM19lSUp0b3ZvQ25iSGNMZE85cHJuNE9VeXN5TGNNUF9seGVpbjc4bWVkdXBma25DSGtua3dPMnF2RFJ3?oc=5",
+      "source": "Reuters",
+      "language": "ja",
+      "importance_score": 27
+    },
+    {
+      "title": "【米国経済】FRBの金融政策を占う「ブレークイーブン雇用増」の動向(週刊 金融財政事情)",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "【米国経済】FRBの金融政策を占う「ブレークイーブン雇用増」の動向(週刊 金融財政事情) Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW1NUUVnVXpsQlZLVlNjekc0YVZabXhTWFdQMDZFUzBkczFkTnRFeDRTVGdKc3BKejZIb05uM19uSndhQmlHUFozVVctaGxFZ0xramtwLU1uaW5xOUtEYUUzTG1aOFg0ajZpRHpPYkY1LWdhSDhJa3FidjJ5bzFKdDh4NWlYdmM?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "language": "ja",
+      "importance_score": 27
+    },
+    {
+      "title": "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UGVsa2Mta3lfZFBnbmlERTJvcUR0Rm5DV0ZQeWUtWG02VkxfTzRaaWlXQU9BSFVGYjczdTBmb2FuVUlaV185V1BHVW5ZZjRZYUFKa1E3MEZ1aHgtejlsREo3aDN1eC12RllXel9IV2NuWUhZdk1lSzNmeElKUQ?oc=5",
+      "source": "Reuters",
+      "language": "ja",
+      "importance_score": 27
+    },
+    {
+      "title": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlhGRFRrSTgydENfVWFFRXo2eEZja1BwNXFrdkpnZXRYZFExc1VHbGlZM01RQXNkNmNCd05NWXE0YjQ1VUkxRXQ3amhRYmdhNlhlbl9ia21QSmhGZFVDV1lHTjJVT0gxU2Z0QmFWMnpqOXFlUEJwVjZURUpFQjJfRGhyMW5WUHp6MEY0WV9TX28taDJyczFWanJxR09uai1tOFdHUmtYMkRsZw?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 25
+    },
+    {
+      "title": "ウクライナ情報機関がロシアによる新たな攻撃を警告／ゼレンスキー大統領、パトリオット・ミサイルとより厳しい制裁を要請",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "ウクライナ情報機関がロシアによる新たな攻撃を警告／ゼレンスキー大統領、パトリオット・ミサイルとより厳しい制裁を要請 Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTZKSHdOYlJYNTBPUDBXQWVFWXJ1WWp6TVNFekpXVTBDOUd3RnAxaVBfYVppajlkOHVnakZVOWhOWVZEdFpHUDlVSUxVNGI5WUpneGx4Zm0yY2x2YU1HeElaZHdfZE1JQTZnVXBMWm84R0JDeE1neVk2aVN1UFNOaG83d3dYN3FESG5FU2dQTzdFbkNUaTkxVUt4ZlVnUQ?oc=5",
+      "source": "Informat.ro",
+      "language": "ja",
+      "importance_score": 25
+    },
+    {
+      "title": "プーチンは実はロシアの埋没を恐れている…米中露3カ国首脳会談は「トランプ・習近平のG2阻止」のための必死の一手だった",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "プーチンは実はロシアの埋没を恐れている…米中露3カ国首脳会談は「トランプ・習近平のG2阻止」のための必死の一手だった 現代ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYUU5OUUZLdWRhZnFtWVRtcmpTd2JjZHJjN1Bma2MzOGljZGNrVWwyOFNDZXF0R3RqVTk2bld3T2kyRFZKOHVTbEdfaFhRdXZYeGdvUmJn?oc=5",
+      "source": "現代ビジネス",
+      "language": "ja",
+      "importance_score": 25
+    },
+    {
+      "title": "プーチン大統領、米中ロ3カ国首脳会談後にウクライナを大規模攻撃…キーウ近郊攻撃で少なくとも15人死亡",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "プーチン大統領、米中ロ3カ国首脳会談後にウクライナを大規模攻撃…キーウ近郊攻撃で少なくとも15人死亡 中央日報",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wc1dmdEdlOGFMYWhkcmtpWEpyOU13Y3ctU3ZjSE05MXhTWURkeF80LWxXcVZZc2xHcHNWX2RMSzRCTGJ6WGh5Z3I5czhHVGZEcTQ1NQ?oc=5",
+      "source": "中央日報",
+      "language": "ja",
+      "importance_score": 25
+    },
+    {
+      "title": "米連邦準備制度理事会（FRB）が再び利上げを行うとの期待感から、米ドルは上昇した。",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "米連邦準備制度理事会（FRB）が再び利上げを行うとの期待感から、米ドルは上昇した。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTVXbmhTb3RsbVdDUHNlbG5Zd2R4VFdUQkxlZWFTMGNJSmNHLS1vTlJyOGJBNjM5eGNHdWx1WVJYend0VEZFa3c0dWNva2pyOXdhZkR0bmc0Sk5zWFhOWDUwekQyMmV3TGRVOXRPOFRIUTg5MnVidG1EQjhpTUd6bnJBWjVyU29i?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 24
+    },
+    {
+      "title": "株価上昇や米金利の下げ幅縮小でドル円は底堅い、159.50円に厚めの売りオーダー 今日の外為注文情報 2026/11/24 17:00",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "株価上昇や米金利の下げ幅縮小でドル円は底堅い、159.50円に厚めの売りオーダー 今日の外為注文情報 2026/11/24 17:00 外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mN2t5b04xcFctMGdsZk83Q1ZtTUYteU92MkQyNmt3U1REcHpEVThxMTFPVVBHQXRWWHdWNXp5UERqZ1dRSFRMTDVTRmFSaVhJTDVUcWV1TjQxbXpyaXE1Z19Baw?oc=5",
+      "source": "外為どっとコム",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "円高ユーロ安が減益要因に？日経平均・読売333・TOPIXの比較から読み解く",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "円高ユーロ安が減益要因に？日経平均・読売333・TOPIXの比較から読み解く SBI証券",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zbVUySHo3WGo3c0F2XzFkdEh3WkVZWE53eUQ4VVZZT0dEOE5qY0xTZ0VDeHZYY18xbWpCd21fX1NyU3owbkUteDFhSldydmhyWFF6RlFFWms4WlZoNUNqbF9VTi1wNWo5aE9Meg?oc=5",
+      "source": "SBI証券",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "ロンドン序盤はドル安と円安が混在、ドル円１５９円台半ばへ＝ロンドン為替",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "ロンドン序盤はドル安と円安が混在、ドル円１５９円台半ばへ＝ロンドン為替 みんかぶ FX/為替",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oeDQ1TXBMdTVaT0lERnJSRTBCVk1UVUF4RjJ4cG00ZmdFT3JjNFZpQnRBdGdpbGstc3Bsby0yZEVybTZWdFNraw?oc=5",
+      "source": "みんかぶ FX/為替",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "東京外為、ドル円は158円台後半でもみ合い 米株高と金利低下が交錯",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "東京外為、ドル円は158円台後半でもみ合い 米株高と金利低下が交錯 BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcE5NLU5SMGpiY0NjcUp3RmY0YmdJWUlocGxFUlFtY205eERaR0t0LXdiMTNzQzRnanN5dFBXNzNHSzR4RzA5VDVacnZkTkJQSmVxUXM1aVZNTFRhWS0wWDJOb0xhbHFCa0dpbk5ZQWRJbDZI?oc=5",
+      "source": "BigGo ファイナンス",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "【ドル円見通し＆取引アイディア】エヌビディアCEO復帰で株急反発、円高一服？日米でタカ派期待を裏切るのはどちらか｜FX分析 2026年11月24日",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "【ドル円見通し＆取引アイディア】エヌビディアCEO復帰で株急反発、円高一服？日米でタカ派期待を裏切るのはどちらか｜FX分析 2026年11月24日 外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeDNjdGQ2X29HcE9ZX2NWbXh5UTBxTmZsYWR0d05LenlRQlhfX05QckdXZnJ4SHdqRjhHNlJCbG94Y3IwRUFPeEYxeC1CZ3otS3BuQkpTVWpNRm40MjI4eE9RTQ?oc=5",
+      "source": "外為どっとコム",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "日経平均1300円高、エヌビディアCEO復帰でテックに買い",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "日経平均1300円高、エヌビディアCEO復帰でテックに買い みんかぶ FX/為替",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnWUVmSXQxOWJyWnFDTkVlbGMtMGFybi0tVGdSdWNNYjFVUHgzN1RLMlFZSzNCQVY5bFZKTVdFejJReWxyeUw0QQ?oc=5",
+      "source": "みんかぶ FX/為替",
+      "language": "ja",
+      "importance_score": 22
+    },
+    {
+      "title": "「中国経済の不振は海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "「中国経済の不振は海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由 ニューズウィーク日本版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkeEdVRWZBQlVLdnFSVDVrVGQ1ckR0c09FdDJiaWw1X3lJN0tWSVNTMzF2QmFOUUNER3piSUJXZnJwUGRLRHRvd1lSOXo4cmJFTWF6RmVtMWlXUmlUM0tfMkVkWFNZZ00?oc=5",
+      "source": "ニューズウィーク日本版",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "世界に通じる活気あふれる大型港 中国対外貿易の新たな姿",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "世界に通じる活気あふれる大型港 中国対外貿易の新たな姿 人民網日本語版",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LWWYtZF9idlFiRVdDV1QtVzNVUHM2SkJUemV0QXNtYnlBczJwNmFjTVd0UDJtVURrclpMOTNlcUdwdWNweDhwbVdfOC1PMVpoYlRKZVdKWlRkMjJNUHE1bExRT2lKOTZl?oc=5",
+      "source": "人民網日本語版",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "【三里河中国経済観察】中国最長の地下鉄環状線、武漢市で全線開通",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "【三里河中国経済観察】中国最長の地下鉄環状線、武漢市で全線開通 AFPBB News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByUTg4N0NiSEREbVliNlZueTRnSVFNLWhmZzFORklfMDk3M0JVYVNET1F3N2tmWHQ2Y0ptQTcwLXAxbzQwY0JEbjlJY3J2c2F0aUHSAVRBVV95cUxQNTBlOXEzRnJ0dUo1VkJvOU9qYnp1X3pDYUFPZFBKYjJvTU1ESDQ4MS1RdVpwUzFPcTQ4OGt1NTItTHdOMkVrSTF1M0FUOG9iSlVXaVQ?oc=5",
+      "source": "AFPBB News",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "中国人民銀行の潘功勝総裁、欧州中央銀行幹部と会談 人民元相場と貿易不均衡が焦点に",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "中国人民銀行の潘功勝総裁、欧州中央銀行幹部と会談 人民元相場と貿易不均衡が焦点に BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vNjBja1RqMUJ2NHdmenQzc2l1TV9JR1RTU0lSalZDVU9xVkx4RHlEdGJFQ2xxYU9qNWRMbWdaaEpxc3JJc016d0FaZjFPZUVBaE1fQkR4Y251d2RXWGotN3ZoZTEwZFkzNDVSbVdMeFFrel93?oc=5",
+      "source": "BigGo ファイナンス",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "消費税減税「経済活性化につながる」２割弱 中国地方の企業調査、帝国データバンク",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "消費税減税「経済活性化につながる」２割弱 中国地方の企業調査、帝国データバンク 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4S1NDLTZsa2JXbE9CejU2d19Db2xBV0IzeUxNY3NsUFNnNld1QmNwZ2VOZlluM0U2WXJkMHQyV0E5ekJrNkxQOVdkTkpKNzZQN2xUbkl3YVhKVlkzOWNUelpncTdMZXNYdGc?oc=5",
+      "source": "山陽新聞",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "米、アリババのシンガポール子会社を貿易ブラックリストに追加",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "米、アリババのシンガポール子会社を貿易ブラックリストに追加 ニューズウィーク日本版",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iU0x1amFyeE40ZXI3RGI2TWNiUm1ZNWdpcFBqYW1fekZXcXI2RlNWTFU2dmgtczhPejNUN1Jpa3JYMW42ZWZkVnVySkowcFp4ejlLeUZNdlNMQQ?oc=5",
+      "source": "ニューズウィーク日本版",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "フィリピン経済団体、トランプ氏の「対米調達100%」発言に反発",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "フィリピン経済団体、トランプ氏の「対米調達100%」発言に反発 BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yeUNibzljUGt6dFhfQ3doWU84d2lsTV91NWtERzR1MHNyc2ZIMW01TXVVbG92U0ZFM3hXTmlvYklMUUZVWnl0alVBMkF1R2Ftb1psdWVqeVg5QVY2V256SHZWVXoyeHprdU5jRnk1djZaQWJC?oc=5",
+      "source": "BigGo ファイナンス",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "米経済、エヌビディア依存に懸念 CEO復帰で浮き彫り",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "米経済、エヌビディア依存に懸念 CEO復帰で浮き彫り Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTVtZ2l0Q0FwcTdGc0xLQWtDZF9xQnByUnFycUltNVdvUGQwUTZONXdCR09xWVJoREcxZEwydldjZm1pekFTYUVJUXVEUFlWdmVDU0xuSTc5c2FCankwMmZKcUZVczlOZWpQVjY3cTd6SzF4WURuclBhUkpORFU0NmwtVW9QQmFQ0gGcAUFVX3lxTE1xWW0zUl8xTnl2LTN2T19PVFFaWU82dmRtRkxFb2pPR3cwX044ZGZwRDBfQkstMGo2bGZ4UDZRb3FuUFdGQzNYcjJ6dl9MS2lDdHRuVXZydkJNRUVwZDRqYnVrRmZIZTlLODFObzdwYTZLX0RPMHpWdWFiazFkNW9nMHhvN3NyTHFoLUJLZGVVZFVtOVVHaU45QXJhMA?oc=5",
+      "source": "Chosunbiz",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "成長型経済の分岐点に 予算編成方針を議論―諮問会議",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "成長型経済の分岐点に 予算編成方針を議論―諮問会議 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MDltNEd4ZGVwQ3JSQ1lGRTYwNlBzbDZvS0lEZ1hmbEdnWkdVcE84eTVhZkhkcVd4S3VKQjhoNHVaTHAtSTFhbGFoRDE2UXAtb3FuS1U3Y3pQUC1ESHVyRDQtTQ?oc=5",
+      "source": "時事ドットコム",
+      "language": "ja",
+      "importance_score": 18
+    },
+    {
+      "title": "ラオスが「最貧国」卒業 強まる中国傾斜と重い債務、資源頼み転換へ",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "ラオスが「最貧国」卒業 強まる中国傾斜と重い債務、資源頼み転換へ 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hV29CcjVaRFJBVTZ2cXlGSUN1NlIzTWtHUEpNczFTLTg0OEZEWW9vWDZObThZcDlVaUMteWZtVF9uZUwyNWtoRkhWdWVZS0dhdFVIc05jSWE4YUtjVHo3WVcwVkVHclJSZ3FGSg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "個人所得税の急増は財政難を救う切り札となるか",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "個人所得税の急増は財政難を救う切り札となるか 中国経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43bGgtMWloY1BMRzRFU09JRm1tYWEyX3owRmFKMG13Mk03VWhwSUQxRlJseTlya1N2UXBnM1NkS2I3Z3hyN1RZekNUaw?oc=5",
+      "source": "中国経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "中国、「天宮」初の外国人宇宙飛行士を発表 パキスタン人が神舟24号に搭乗へ",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "中国、「天宮」初の外国人宇宙飛行士を発表 パキスタン人が神舟24号に搭乗へ 中国経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiYmx4UWlDVXozeV9RZDN1d0ZyeDNCSFpzZTdaNGxjaEJxa29GRGpoanBJTzVUR0lCcVpjQW02VUxldmc3UGc4NlYycw?oc=5",
+      "source": "中国経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "カウネット、顧客情報30万件漏洩 プレイドへの不正アクセスで",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "カウネット、顧客情報30万件漏洩 プレイドへの不正アクセスで 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQlM0anhYQjRsTVRfcHRrcy1zUUhMQ0U3MldhRmFMMW12T1huYWd4NkNnRTFwZ3UtQ3ZsbE5JZThzZGpEenJaRjJyQ2xzay1QZlhScGFzejd3Y1hNZDVEY2oxZ3hQZE51SXk3YQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNjNYejMwWFlnZVNpTVRDUzVHQXpPWDJPMzV2UUtTY3Fwc1VXQnd6QmJ3OWtGUFZUV3pVOG90YVdydjlHVUpGQjhiQzhyeWJYcGttQm40ekQ5MG9YTnhMVV9wS3lLT010NFU5aQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "［社説］日本はICCへの支援強化を",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "［社説］日本はICCへの支援強化を 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcjV1elNHbk1DYlk3eUJOcTZLMV8tNWJTOEVHeEUweVY2Zlp5eXFYVUpHLVJsWXhIbHdIeVYwQ2x2blVDVW5VY05iZGhTUVVpa2todXhyZDdZTjhXendjSWp0cmtISW5Lc2JJYQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "銅建値2万円下げ JX金属",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "銅建値2万円下げ JX金属 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HZEhCLUtXUGF3ZlJEV3ZhdzBPQzRTOVpNanFKMmFYanJUTjkzR0liNnA5LWI1ZE15djUyN0llM2VBQnI3TlZCclhFUU9XUXVZZk14Y3ItTlNuY0toWkJOQThGWEFBdUh1ZzF4dQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "日本生命、大阪重粒子線センターに寄付",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "日本生命、大阪重粒子線センターに寄付 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqVkd3bWw3U0NrbmJ3al9RcW1GcGw2OXhjaV9UZ0hKRnNsaDNrdEZ0dk04QW9yX0JfQ09vVEhJY1VuR0FDZHZybURLRkxOOUd0YnhOb2Y1VWxGX3VWNV9TUU9rQ0J6WHVXb0UyMA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "副業としての小説家 小説家・嶋津輝",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "副業としての小説家 小説家・嶋津輝 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NjdEUVlEZG1pZXFfdTNmenZBX0NENjV0Z3ZleVNWaExfcFdxeTBDek44bk1lRTJ1TDRsd1JZZ3UwQThMVW9aOW5paWN1X0dqQVlhdmh6QVV4cDZUMVVNR0lKMjBVODF0UlJYRg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "トレンドマイクロ、増収減益",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "トレンドマイクロ、増収減益 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWmU0ZTRVbGQwZ09sczBlZ2hQV19OT3FXM2lySXJOcFZYLWpKOGtWZzlacU5Va2xPaUJLLUlVTUhpQloxQnM5Q2g2WVZlQ2QzRC12RUNuREpadWxVbGV1UGlhQ2pUd1F6MEpEZw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "11月16〜20日 スタートアップ資金調達まとめ読み",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "11月16〜20日 スタートアップ資金調達まとめ読み 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82ajNqR3dFYVpBZE5ZWENGSEU1T0MzdUdJb3luZnp5VGhkMjNHRjB3dTNaTmJFcGlhUHZ5ZEh5YmZsQUdCa3pUaTc3X0prT0tJdkc5TEFYS1JSS2E5WGRhVE15VnRhLWdrcW5HVQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "コムシスホールディングス、3年連続最高益",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "コムシスホールディングス、3年連続最高益 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6V29WOVlSemR2dlNHN01naTNBZ3k2NVljbWpDVjRVZlVINGlPbFk1VnljcWg1eDYydTNsUHR6QXdpRmJWczMwOTV3M2d1QTlLWjRGT3pnTXlvY05sSzJ2VFJuNUJYRTZWeVN3TA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "［社説］CEO復帰でも問題尽きぬエヌビディア",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "［社説］CEO復帰でも問題尽きぬエヌビディア 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idThKdHpPZGU4b1dXSDJ1aFFhZVhJQmpZXzFJdUxfbk5KSFdzeUlJR1Q2Q015SGJmdmc2Z0RVRGFSMkZtcVhQdEpQZTNmWnJLQlkxbk9uS3VLeEZUN0xrYWZ3T1FWNDkxUkRiYw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "エス・エム・エス、黒字転換",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "エス・エム・エス、黒字転換 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wc09JZGloTXluX1pfcG5iZzRnMHp5RVc3VmFOUUs4M244aENkb3NodW1GRXdIUXRHRjliWEVlaW5zLVRKM0dlVEJGaDNhbGh5V3IzWThNVm5MUDRLdkN5X0pST1VqOFRndHJreA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "遠い響き 前駐米大使・冨田浩司",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "遠い響き 前駐米大使・冨田浩司 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UbFdUZ1kyRjdjV1hBVWpMdGlPOWpySHlQcjBmdjJFMUhMSnBzSGRzS0p3X09lSm5oOUpTaWpjQlhBZ3c2dXZYRlFGRjFYZDR4NGpKMnR6N3hmUklTUmJkNUV0WEFQbGY2NTVSTg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "京都商工会議所、情報セキュリティー相談窓口を開設",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "京都商工会議所、情報セキュリティー相談窓口を開設 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hMWp0QWlZQVRzX3JMRVBZZXBFNmY5aHR2TE81VmRVUUZiMXpYUjE5dmg0Y1N2Q3g5UHh0X0dhQkZrQWhTd3ZpYWxMSm9wal9DSjlJNkVjRWc0eGxPeElxVWtYcUplRDdmcHVDZA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "LINEヤフー、2年連続最高益",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "LINEヤフー、2年連続最高益 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40aUJ0TlFnb3ZpM19DTGpzU2k5S0k0NXROSlFPQjJpS0JQaWktWHVTeEU4Y3NKZ3hGZy1RdFdMdFdGTkQtcExqT1pFQ01zbUxVRHlQWnNxaWk2YmZ0NHVHRnNCTHZIOHBvRnVGdQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "柴崎友香「訪れる人」（85）",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "柴崎友香「訪れる人」（85） 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSDFtSkhIR090cDNUNWc3RVlOSldZQ2t1OFdLdFpSRC1paFFpU2ZuS2VIMG9zMk4tQ2Q1eGpGMWd6U2REZ2J6LTU5MFBoNVQ3dXZBa1A1MWhYckRMR0s0Z0lzZlFMQW1tWkp2Yg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "キヤノン、ArFドライスキャナー「FPA-6300AS6」を受注開始",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "キヤノン、ArFドライスキャナー「FPA-6300AS6」を受注開始 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qeXZtVUo3SlozM1FRVHd2ZDFWeE94ZEY0TUV3dHlKMlRXQUhrTFZadkQzcl9YbUx4bFp3Nk00YWN1X3JnRHF4YnY1endxSTJXWWtLWE84Xy1HcFJOZG5TeUdkNG16Y1lVNWswZw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "◇ホドルワン（2345）第三者割当増資",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "◇ホドルワン（2345）第三者割当増資 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WblNCbklIcDNLOEhqelVLQmh0WHY2MEYzRXRheDdwYTl3SW1ucFhBdWFCS1NtNFozaEZpQTBHUUh5c0Exbk1EMS1qRllRcGRuNVZrLTlhLWtrdHVtcVZVc3NpMU9Fa1cyWmZVQQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "DeNAと米コグニション、国内スタートアップ向けプログラムで連携",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "DeNAと米コグニション、国内スタートアップ向けプログラムで連携 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVnJ6MmtMWmhQbGZDMlBfTHJuVmVIYklibUhCdlZubENNSm1YUV9yOTJ0Si1rTUFFejRQa0dMWDlOUG9yQlQwZW5NMXc3V0JZckpQN203OWpwaFIwV3pCV1RZc0tZRmFBUWtyeQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "◇ホドルワン（2345）第18回新株予約権発行",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "◇ホドルワン（2345）第18回新株予約権発行 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNnZtMFRwcTRMeE5wTE5KN3R2QXlZbE9CZExhbTZhUmpzYm4yWjZ5RFEyZ3VGaHpfMy1uRTNYTVRNLVJRM1AyN2NaUDllbHJpN0xGVVhDOXdxc1lPV0o2QXpFYjhrWFgzMkUxUA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "日本ケロッグ、「プリングルズ バターキャラメル」を発売",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "日本ケロッグ、「プリングルズ バターキャラメル」を発売 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWUpwLUdPd2NIMHlfUm4xaTFtUkR3LXVMaklXVXY2dlhaYmI1NV8ybDdWRnVxZEhFSEd3d205X0JSODNKNGxCazExZGlheU04ZmgyYVBXRUxPZU5BZmdRTS1zc1dNbS05cDVoZg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "ソフトクリエイト、「SCAssist Josys運用サービス」を提供開始",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "ソフトクリエイト、「SCAssist Josys運用サービス」を提供開始 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRU92amEzeWY5UUY0VFdCZ0lfWHRxVlVuTmdEUWpYd3lTQV94U3pRVm01OWZNSnUwUnRxT3JEakFCN3N3dTJ4Ty1VVHN6OXJiREVyMGRIbHZNME9vY0R0aG9ENDVFT3lrUFBDRQ?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "いい生活、「いい生活Square メンテナンス」を提供開始",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "いい生活、「いい生活Square メンテナンス」を提供開始 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0dC1ReUFKbzFEUDBXeEstTElmSVZJU2FxbHo4LUJfQXdDbnZXVFFzdlBZNVJGc0NCYmRCR2ZSTGp4U2hsaWdMR0FtN0NYTmJ5LVE5aHdMbnlQZFlROGtkSzNWMlA2WjdhMnJsSg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "ローソン、「MACHI cafe＋」で「濃厚ミルクココア」を発売",
+      "category": "日本",
+      "date": "2026-11-24",
+      "summary": "ローソン、「MACHI cafe＋」で「濃厚ミルクココア」を発売 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56MmJqZWtWMUhrbVJPczRKamw4dDctX0dWSGQzeGdJd3luNDhqOUNUVGMzOWY0T3YzUExCbmVscHhUN3oxbUF4QXJCd0R5bmhOdjRtbHIwWVBMNDhtc2V5NDFwbktfb0NmbUtXcw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること（BBC News）",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること（BBC News） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUU0tYnJvbXgxcDZzTzd4MzlteE5rMThvcHNpbU5LakFvS3FyWmlPZlVOT2pUUjVOa05nWWtDaWlUaTZRaHNLemtSVXJXYjYtRFVwOU5kd1I4Ml9RVTJydU1lVEVid2d4eTFXV1Bta1IyTjdFV2xTMXN1TUZSazA?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "ロシアとウクライナの紛争が続く2つの理由。",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "ロシアとウクライナの紛争が続く2つの理由。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9acVdHSzd5WlNjeTI2VFk4cEFkM25POUxlVEx0R0NTVEQweFBuVWhiZmtoWEg4bmRVTkNqOU9tN2VfM3FEYjZxV0t6eFNKNTk4MTUwTE9Bc2lLOHNWVlYtdWlRZ2tlUnJBN2duMUw4UWs2TEZKUGpCbkln?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "米国は、ウクライナに関する交渉で達成したい「大きな成果」について語っている。",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "米国は、ウクライナに関する交渉で達成したい「大きな成果」について語っている。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkhLZFdJR2xsUDFYdFV4S3Ztd1BKdTYxbzdHLXoxa1B3NzlPSk4tbjZDWkJtUVlTMmRiMzBGMGEzSkdQNUhwTXNkb3RKWU1KU1pVUWlXeUE5TWdVaTNkbXY1dllTbEFYQW43Slc4bmJRNmV5dk1wbHJyMFlDRVl5eHU5bFpHcEsySXNhdEVIMklIT2ZRTEE?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "米国特使が、ロシアとの紛争終結に向けたウクライナへの提案を明らかにした。",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "米国特使が、ロシアとの紛争終結に向けたウクライナへの提案を明らかにした。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMW9kYU9tTzJmRngxZGt6WGN1Nm50U2NGalVwWjFWWjRuUGFCM0VBdExQMUttUkhMOFhid3Z6VnVNZ3RqQ3dha29vZm9iMmE0MGlURk9DM05rNWNhV2dIQkFJQ3BQUUx6ZnBVMDdOelNLdEdBcXk1bFE1SHBtUkRhTFoxWG92VDBXcVBfVVpQVEZ3ZzlfZ1lZN1hRejgwbkhl?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "タラップ故障の可能性大 高市首相出迎え時―中国：時事ドットコム",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "タラップ故障の可能性大 高市首相出迎え時―中国：時事ドットコム 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVUkxEUENmLXV1SDBQTTNuTHJrQ21WNnJWVVhUVlNKVS1OTHNEUk9ldS1Vdl90dVh0WlBaQUxoV2V4dkR0ZWhRQXZlZzRLalNDc3RXWUJ4SDRKck96Q0tGQTltYw?oc=5",
+      "source": "時事ドットコム",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "トランプもプーチンも結局脇役だった…「習近平の習近平による習近平のためのAPEC」その深層",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "トランプもプーチンも結局脇役だった…「習近平の習近平による習近平のためのAPEC」その深層 現代ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JRkFJOE9tMmhWUUFaNjIyal9XSjZZdEJmOVNVWFBGMm5weVdPQzlKaHVPbllTZ0lmazRZMHpYa0hybFJPd3IwX1hhWUJwR2F3UVVkN0tUQ2s?oc=5",
+      "source": "現代ビジネス",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "多国籍企業、中国に一段と重点 「アジア太平洋や世界のために価値を創造」",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "多国籍企業、中国に一段と重点 「アジア太平洋や世界のために価値を創造」 人民網日本語版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vdk8xUzN2dHR0bUo5UWdMbWQ0ZldXOURRblVFNGR5Q3ctd3haR3hCbWNZaklVV2lLdk1LeklGUER2dHg0eTVvb0MyMkpTcXRabDNuSGtESzg4aEpLWmdwVk05dDRpZWs?oc=5",
+      "source": "人民網日本語版",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "中国商務部「米国は中国電気通信事業者の米国内での事業運営に悪意をもって圧力」",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "中国商務部「米国は中国電気通信事業者の米国内での事業運営に悪意をもって圧力」 人民網日本語版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pNEJkdUZnQ25rXzlRNm1zMXZ6ZjRpZ0UwS21uLWNwY3pfbHF3cGI4dVdxcFU0azRERFlnTHpUXzFsZGthYWJBa3FUYnoyRl80RXZZTG0xeVdrSm9rVkppT3ZsVmtiRDQ?oc=5",
+      "source": "人民網日本語版",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "中国1-9月における生成AI分野の新設企業、前年比28.1％増",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "中国1-9月における生成AI分野の新設企業、前年比28.1％増 人民網日本語版",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rLTBzOEdONlhMWjlFQkY3RUItSno1VzFYS0tFbE1tTGNIc0p0cnVmdkVUN2hwczZ6TVJFcjlnZ21kdVVtdGNGODlPMHRNZjhWWDRvYnVqMVZWcF9UVl9odnJOc2pPSlkt?oc=5",
+      "source": "人民網日本語版",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "中国の世帯の約6割が「2人以下」に",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "中国の世帯の約6割が「2人以下」に NET-IB NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MkN3YmVPcTRialRzQV9YZUhucXVVdHRCSjlMQkRnYWVhbEgtdldPdE50VUJyQTMyd3BsTlRTcnd4NjFrODk4QzA2d08wTlpBbUE?oc=5",
+      "source": "NET-IB NEWS",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "大港が帆を張り、世界各地へとつながる_中国網_日本語",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "大港が帆を張り、世界各地へとつながる_中国網_日本語 チャイナネット",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TRzR3bWRIMXlSQ2lRelZkTlFyMGJTOTRhSEg3UGN3UXlaU3BzNFBCLXFnTzZ5aTFranZYNS15dWtpbWwwcTBkXzdTZlVkV2o5anQzYTBreEhwQ0lER2Nkdm5icTZLaVJ2RVlPZC1iMGx0NmFk?oc=5",
+      "source": "チャイナネット",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "1-10月の電力消費量が前年比3．7％増、製造業の「新たな歩み」が加速―中国",
+      "category": "中国",
+      "date": "2026-11-24",
+      "summary": "1-10月の電力消費量が前年比3．7％増、製造業の「新たな歩み」が加速―中国 ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UMWdib3RXNHZ0UnpPVVBUV2JaZVRraUZrUDRsUElhQVBsRllNN1RKLXJ1S294Zl9qNFRZMU5iV09RemdrRGtIMk9kTWhwVFRYcFQ5aDBLbmpsdDRJSkM0THAtS1FUSmxG?oc=5",
+      "source": "ニコニコニュース",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "浜田港使ったロシアへの不正輸出、制裁の抜け穴か 韓国向け中古車輸出の急増に疑問 外為法違反で社長逮捕の背景",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "浜田港使ったロシアへの不正輸出、制裁の抜け穴か 韓国向け中古車輸出の急増に疑問 外為法違反で社長逮捕の背景 中国新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ODZxbTRzM3IySEF3QllBWWVxbEZyejRiSWtRWUV1VUY5RWI1QUxnVU83R2Y4LU5hVEl2aUcwZjU1ZGoxMWpXSDFieDlZWFY0YUxPc2Y5Yk0ydw?oc=5",
+      "source": "中国新聞デジタル",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "ＥＵがロシア選手の大会出場禁止を提示へ ロシア重鎮らは猛反発「これは差別的だ」「失敗に終わるだろう」（東スポWEB）",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "ＥＵがロシア選手の大会出場禁止を提示へ ロシア重鎮らは猛反発「これは差別的だ」「失敗に終わるだろう」（東スポWEB） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SR1RnUkNPamhqOXkteWl6ZjhkRlFxbFJ4WWtlbHpQVXJrMzVmUWVCVkFLbG5ZVjhIdjlvakkzUVNSR0V2dDkzRzh3azdONUVFZEtaemxyaDBSRDVGOXZBZmxZSERtY05laWpsNzdaVFFqOTBKck5JaEJEU3Nyb00?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "木原官房長官“ロシア側に即時解放など求めていく”拘束されている記者に大使面会",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "木原官房長官“ロシア側に即時解放など求めていく”拘束されている記者に大使面会 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YOXBMaEJUV214Qy1ITlRneW1VSmhNc3U2VXZvRWJCRG1FcTJFMmtGdnpSOW5wVEU0bEd0RTZNVEE4X2V4X0pTSl9Yemt0TGhxTU42a3hmSjhBSGQtMXhlVDh2YlZZUGxudDkzWXgwTVo5WEZLV1M4MEtfVVE3Zw?oc=5",
+      "source": "日テレNEWS NNN",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "高市首相 プーチン大統領と「30分会談」も指摘される“弱腰”外交…JTロシア事業接収で1.3兆円損失、現地社員は「人質」状態に",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "高市首相 プーチン大統領と「30分会談」も指摘される“弱腰”外交…JTロシア事業接収で1.3兆円損失、現地社員は「人質」状態に Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jamVUY0poa3psUngtS0xsS0NnTHZXRVZ1bXJTRks0aGphWHJaOUVHTWJLb0tlR0hFYTBnbkVaNEVFY0hCS3VyVTVkX1VxRFBrUW9qM2NuX0pnNHh3T0NkMkNxM1hsckRCUTF0YWFFTnBrM1FRckk3RTBVQVotdzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "EU、暗号資産と決済網の取り締まり強化へ──対ロシア制裁第22弾を提案",
+      "category": "ロシア",
+      "date": "2026-11-24",
+      "summary": "EU、暗号資産と決済網の取り締まり強化へ──対ロシア制裁第22弾を提案 JinaCoin",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbFFjYjZmdVdkSXdOa253VjlnZDRqbXlIS1d4aDZxNW5pWWFKU1liVjBSaHlTaGN2YlVkVkNuR0VFOF9Nd05CTTViYTdUTzNLRHlIbEs1YWJLQ1lic1pJdTAtWDBwN2hrZFA0?oc=5",
+      "source": "JinaCoin",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "「トランプ後」を見据えて米中間選挙を終えて",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "「トランプ後」を見据えて米中間選挙を終えて 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbUdzdkxUQmlEV01UeDhsTF9MRWlZYko2YlozajdaNnA0YmhSTVJYM1pRNFo1dWFOdEIyY3JWM2VQQ0ZJM3JHV1haaw?oc=5",
+      "source": "47NEWS",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "トランプ大統領、米国企業の海外データセンター建設を認めず、課税も示唆",
+      "category": "アメリカ",
+      "date": "2026-11-24",
+      "summary": "トランプ大統領、米国企業の海外データセンター建設を認めず、課税も示唆 Data Center Cafe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1FndU5CZ0dMSXIzWDlNSkJDdk9VZV9jX0gxVzZsMHJ0TU44VUdzYTI2NVJEaWxwNWRZWXB6NEVZVWo0dTVKaUhWVzc2T00wWnJOV3VuR3dZYS1JYXk3RnJiMFc5VnpVWkJBY3UtRTBwMUwyMzBJTGpDZkV0VmQxUXIxWXkwX2UzUWpZZXZVMnU2YTNzZDNjZGMwUm1FTXpqbGMzZEJiZ1JLUTFyb2duWFF2VGhwOGRp?oc=5",
+      "source": "Data Center Cafe",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "【為替】11/24～11/27の米ドル／円を予想する",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "【為替】11/24～11/27の米ドル／円を予想する マネクリ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iVnlubFQ3QjkyRHhfOUNlZEdURXNfV0xuZDVVRnF6aWtVakVvWDlOSVpyR01GRWZFWUpVQXJDTGpRQV84UWw5SF9zaXdXWUEyaWdaRtIBV0FVX3lxTE9nLU90MVVGdlpwbllMQjM0QTdqNVVPTTVDX1NVeGw4ZXpkeC1sdXR0VHp3bnRSVFNsUktqWlFISGdfanVSYzRBZ1loWnlvMzZRX3BYQTdLQQ?oc=5",
+      "source": "マネクリ",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "【為替】米「スタグフレーション」の前兆？",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "【為替】米「スタグフレーション」の前兆？ マネクリ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BTGEtV1dab1hJd2lVZDBvb0VlRWtSdldfb01JSEgza3B6MEdpSVJ4U2R0QkRfdFpiWWtrYkcxZFAxbndYTFhQWU0yOE8yd0RTTUJBadIBV0FVX3lxTE5kWGRRZDV6b0NtQkNzaVk4Ri1aaklJeWtEWVV1elBqVzJhY1VFX0J4bTVHWnZiY3dXTkEzMGR1ajU3cnZqQ0RnczE0clRuME1rVU1PV204WQ?oc=5",
+      "source": "マネクリ",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
+      "title": "金利上昇で変わる不動産の潮目（note）",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "金利上昇で変わる不動産の潮目（note） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSEVwRXAwYkZWd0VOVWNaeEg4MW0tYVVEM3hBcmFHVFhodC0wZi1MNXJrYjVkSXpDS25rWjlKV0ZwblRQQVhpZ21xYnd0TUpuME9RT1V3UWRaVTBuN2ItTUdxeW5HWUUwdG9oOFE0WlZVZG1KbllrU281MGtFRVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 15
+    },
+    {
       "title": "アックマン氏がFRBのインフレ目標に反論 3%がより現実的と主張、追加利上げは世界恐慌招くと警告",
       "category": "為替",
       "date": "2026-11-23",
@@ -8,7 +728,17 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xdDBrMHNCSEJ6a0dWc0xrQVBxZFVLU1diV2dXR0xFYlNocGQ1STh6eUpQRHdJYnZIekJpMmNDNVFES2dXZXFTQlRIcnY4MVctRWtjeU9pXzZha0xXTmlsWmk0TXp0OE5tM3FPbnB4VHlLNXpM?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 32
+      "importance_score": 30
+    },
+    {
+      "title": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」",
+      "category": "アメリカ",
+      "date": "2026-11-23",
+      "summary": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFJDb3JWeTFlNjJVMGFVQ2lhZTkzck9VMjNhdWRaWVBzTkdIeHRMT2dldmNpQnZnaFdEWmlkbEh1eHZsaWIyalI0bFZ4ZUpQS3VyQTlRMDJhbktjb25TRUxqUTk2bDB1YWc0MENOb2E1bDhsXzFjOW1OTllVck5OQmhlWjZOQW9OOEpXcGlZeW1kOWpUaEljeUZ1OA?oc=5",
+      "source": "Reuters",
+      "language": "ja",
+      "importance_score": 30
     },
     {
       "title": "日銀・浅田審議委員が出席 長崎県金融経済懇談会開催「県内経済は緩やかに成長」｜ニュース",
@@ -18,7 +748,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNGtHNERxTGpiNkpRMFV3Vk8zcEhJMjJ3RTMyMVk0S0RNZUMyV21lUk5VeHVROU5lQWpOMjY1Z3RBdmNMNm9wdzFucFRrSzRhbU52azA4S3A4ODFROTc3aXJB?oc=5",
       "source": "KTNテレビ長崎",
       "language": "ja",
-      "importance_score": 27
+      "importance_score": 25
     },
     {
       "title": "相場を動かす米経済指標 FRBは雇用と物価を重視",
@@ -28,7 +758,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBobGcyVWVONThZRklLd3RObTlkSm0tZU1MQXc1V3RHSmpHdTNIenYxYXRUdzV2U0FhY0dIaHgxcnAyMlg1UWVBcHd5T2FtNFVnWDdUckNwZ1hoZjNLMzlYN2lsVWxDSk5nNW9BXw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 27
+      "importance_score": 25
     },
     {
       "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番",
@@ -38,7 +768,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DREVlY0g3Y1VqQU92cTA1TGI1YTVGMUQzTHlCVmtwVHdZcjRPbTAzaDZaazVQTHRKaDJTSGJzTnNMc2lFSHF2T3FUWmM1OENROTlqMVg3OHJOTXpoNlJj?oc=5",
       "source": "東洋経済オンライン",
       "language": "ja",
-      "importance_score": 26
+      "importance_score": 24
     },
     {
       "title": "米国本土は南シナ海から射程内 原潜とミサイルは中国の生命線",
@@ -48,7 +778,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oODFRMUltVndqM3hmNERHWHM2MmcwTndCYTlIc1diVDRmQVdfSWJnN1BQdDhxX2trdGJ6NkQ5YzNqYmZuLU5LQUxPWUJKNEVkTFhxeWx1T1lnY3BhYXVJNDBwR2pDQnJVVDVicg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 26
+      "importance_score": 24
     },
     {
       "title": "経済安全保障に特別会計設置へ",
@@ -58,7 +788,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzOS1lZHp0Mmd6bWJMaC0td0tBaDR3SGdDT19uRWozaGdjWldHOE9NMDFXVDdpbncyY21fLTVUMlU0Nkttb0NQSHJvVDNWQmUzMmJOVnFMdm5Gdw?oc=5",
       "source": "中国新聞デジタル",
       "language": "ja",
-      "importance_score": 25
+      "importance_score": 23
     },
     {
       "title": "最大の勝者はプーチン氏か 米中ロ首脳会談の成果を強調 日本へ軍事的圧力強化 欧州にも揺さぶりか",
@@ -68,7 +798,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYalF4VnJYVXBlTFE4QWhZSmo0M3RqWjRfTlRMRzA2bGlYWC05MnpPVkJiRGJYb2pMN091WEN2c1F5UzdDYk1kWVlLWVNiSUhWRUw3bTVnVlN1RG52VmhNdXhxcVA5SGNGcjBEeDg0cEdEbGhjMWUydWpB?oc=5",
       "source": "テレ朝NEWS",
       "language": "ja",
-      "importance_score": 25
+      "importance_score": 23
     },
     {
       "title": "軍艦を無人水上艇で リビア・北欧沖でもウクライナ攻勢拡大 和平協議“安全の保証”は",
@@ -78,7 +808,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dVlSYS1SWjFqeVFieGFSTktSU2FOUXEtOFJVOW5JbnpOeTBrY3FkTkxRX1E0MzY3Tk5Wam10bTBZdXNlVGpNSlphdHZlcTQ5MWNadklHNEFxOWdhTlRtWDZtWlBRLWFTRjZwUDJCZE5ONFF0Z1B5azZn?oc=5",
       "source": "テレ朝NEWS",
       "language": "ja",
-      "importance_score": 25
+      "importance_score": 23
     },
     {
       "title": "リビアのロシア船へ長距離攻撃か ゼレンスキー大統領“ロ軍のミサイルに北朝鮮製”",
@@ -88,7 +818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEeTlHOGdsYTlDVVJPd0tycWRqVTFUdzhuY2taVmltd1A5RWxiSXR4MVhMbF9wWlp1YW1pRWVQSTNnUjUxY19OTGRKNURBZm91SjZTbnhwVWpyUGJSbm1FbmxaYTZtRlh3T3ZnVktabGl3MzBod1l2UVNR?oc=5",
       "source": "テレ朝NEWS",
       "language": "ja",
-      "importance_score": 25
+      "importance_score": 23
     },
     {
       "title": "米国の個人消費支出に注目 FRB利上げは？ 先週は大幅に下落した日経平均株価",
@@ -98,7 +828,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Yd01TcXQ2X3NYd2xOOHlXRmdkVE9ob0k5T0FDeUR0c3o0MDNZYUdqajh0dEw3NVhiOWNIS0JDc2NsQ1AzZnQxMHpoajhtNWk3QmlEZTdYNlVLTUp5ZWMtTEZSajlkNl9wemZUaU9MNlU3dw?oc=5",
       "source": "テレ朝NEWS",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
     },
     {
       "title": "ベッセント米財務長官、FRBにけん制球「過度な引き締めは政策ミスになりかねない」",
@@ -108,7 +838,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QX05Rdi1XVGtyTHQtZXl4ZXYwNG9tRjgzeXZleVlYWWJyUkNmSW9VSE4xTzFfQ1hWeDh5eFNDZUkydU9EVFp1TlRKYjlYR2p4UF9KbTJDc3VZNnJJc19tdzhTR2k5MFk?oc=5",
       "source": "TBS NEWS DIG",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
     },
     {
       "title": "FRBの12月利上げ確率が9割超に急上昇、アックマン氏とベッセント氏がそろって政策ミスを警告",
@@ -118,7 +848,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzXzJwMUxvOXRpUl9sSE5ibzVFeW5hQ0JGVURhdlg3ZHFCMktYQjBucGVFWUVRT0o2NC1jWElHQkVoYUJ5UnlQR01qcURwWjlpODY3czRjLW1jMmptcEZFa01ZdElmOXQ2V0xCQWU0ZDkzU045?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
     },
     {
       "title": "S&P500はあと1.2%下落で年初来ゼロに、トレーダーは来月のFRB利上げを確信できず",
@@ -128,7 +858,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NXlZTDZYdFI2aml5M0JyTWNMMER6Um9RZmhrclNqc0R3N0JHMzI2SjhxOXZ2T216MG5qMkZnT1U3YUktOW5jcTRXX25lQkFYRFhmcjBxc0hTTVdiQXYzeF9YSzkxYWFDOHh5V3hVZnlPNHR1?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
     },
     {
       "title": "米利上げ・ドル高転換は「新興国通貨」下落の始まりか？通貨危機への“耐性”を左右する3つの要因 | 為替ウォッチ",
@@ -138,7 +868,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SaHE2VWVCV19sTHJJN2xmbUNIaDlZVUttSnB4LWdxZ3hBRjh0ejBFdUpZTDQyNFJGSXRKUWtZRFk5aEZ0NFRCWTFvYzI?oc=5",
       "source": "ダイヤモンド・オンライン",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
     },
     {
       "title": "スマホやパソコンだけじゃない「消費者物価に半導体インフレ波及」など3本をお届けします",
@@ -148,7 +878,17 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OMXlEbDNxQ2NWbVlscWNSUzZONmk0V0IwdjY4ejROXy0yLU5PVy03cGdjWG9rTUVvNUdGcF9hbUI2bkpNREJBV2poWl9JUTBCdzJmZ1lkdmZnaW9RVV83anhreUZWRm44MWZqcjRlUF9vblhaTDhWYm5NR29NUQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 24
+      "importance_score": 22
+    },
+    {
+      "title": "消費者物価の家賃、民間データ採用で精度向上 2030年改定で検討",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "消費者物価の家賃、民間データ採用で精度向上 2030年改定で検討 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLVUZwaXBTQXhFMm1nVXZ4NS16YnZNNEFySE1qOE1FSTZSQW9pMzVBUDRKYThHd2FteVFTc2Q5cDd3U2tLT2t0QWhDVjl4Q096ajFvQ09KQmtsTjFUemVMZlNxeElaTEpWdFBweA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 22
     },
     {
       "title": "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】",
@@ -158,7 +898,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PRlhjNk44QjdXVEZuSVR3RTZ0NGQ1SmdNLURkUHlLTGhKZ3RXYy1Ndk1JUUFqMDAxS2hSeGgxV3NKcHkxVDEtaHZ4blFJcTgxS3JBcWNEUmRuUE9tR2pYanh1VQ?oc=5",
       "source": "外為どっとコム",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
@@ -168,7 +908,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaEFGOXdsNnk3VDB5SGltV2lIRndwNGtNSWU0a2hOSkcweE03dUxfUUgwSlJURnFhamxPS2p1Z252b0pPWUhhck1KQ2Fad3A4M1lZajJPSEdKVlBTWGh2cg?oc=5",
       "source": "株探",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "円安見透かすFX投資家「もう円高はないだろう」視線は高金利の外貨",
@@ -178,7 +918,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZ2dlZURMMTFRc1hxVjcwSWNuNGR1TFNaZFRZSzRRdFZmcWZ5cWlTdHdwcnh5R3VWcm94cTNZV2xxQUk5aHBGSjgyVXRFNFM0NGwtaHdHXzJZRkViOXdPWkszUkVGTDg?oc=5",
       "source": "朝日新聞",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "リスク回避の円高は一服 エヌビディアのフアン氏がＣＥＯに即時復帰＝ＮＹ為替概況",
@@ -188,7 +928,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ELS04MDRLdkNLODUyaUpnejd3Y1c5Qmg2bExVMWVyRzZNV19NUVBuRVFPSjhSblhJQ2owRXZwR201S0daTTlTWA?oc=5",
       "source": "みんかぶ FX/為替",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "【為替見通し】ユーロ円相場に見る円安修正",
@@ -198,7 +938,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vODZXZno4Zkg1bVZlSHhkb2JqX0xPejFjT2ZSZ1pyUWx2YTRzVkFnZm9Kb2dMU2NBcWpnSTV2TjN5TTdpWFhiTnRKZnhiSUpFWjBDYmh6SVU5QlFTakNzSg?oc=5",
       "source": "テレ東BIZ",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "ドル円、158.90円まで下押し 米長期金利が低下(トレーダーズ・ウェブ)",
@@ -208,7 +948,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWJPUmwwMDJXTEx3bXFYcC1hSW1EQzNLNjBXSzlpRkNvd01yNzhLX3Y1bk5pRGtEOWF1RktqM0ptTW8yRWxqSXVxR1JQT2JDY2x1Zm5DSGZUcVVUT1A4R3BOUFBhcEJIYlU4LUtWdy03N090NVVwZXhMNHE0eWFEdzRJd3VWYkU?oc=5",
       "source": "Yahoo!ファイナンス",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
     },
     {
       "title": "ドル円、１５９円台に戻す 米株上昇でリスク回避の円高一服＝ＮＹ為替序盤",
@@ -218,7 +958,17 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xc0lhT2xvTmtna0EyRm04bHhfZnkzRnBobWFZeXA2dDJ0bC1RRkJ3ZmdYajVNR01ZVzJNdGYtUmlzT2pUSk5SZQ?oc=5",
       "source": "みんかぶ FX/為替",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 20
+    },
+    {
+      "title": "円安が159円台に再突入、エヌビディアCEO復帰でリスク選好が急回復",
+      "category": "為替",
+      "date": "2026-11-23",
+      "summary": "円安が159円台に再突入、エヌビディアCEO復帰でリスク選好が急回復 BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yRk1IUElha0lIUjlPYUJKakQ1aGVkQTVBR1l2REk0cER4bHg2aV9tU09SS3NCXzE2MlhuRUlRVWlxUWJYVjBKRVg0QjZmaV9JWS1Ldk55TE5DOWR5SVZQT2liOFVxTlNEendwX0FMN3Q2eEtH?oc=5",
+      "source": "BigGo ファイナンス",
+      "language": "ja",
+      "importance_score": 20
     },
     {
       "title": "【三里河中国経済観察】中国・烏鎮のAI企業7社が注目 地方経済をけん引",
@@ -228,7 +978,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2UFc5bTQ0TVNHcllrZmFTVU43YnBvTVJ4Rm9uWFJWS2dveklaQVlIWXl5Z1lEZjhxNmJHZUkydWZOQi0zU0lXd01vMEZBSlRJSGfSAVRBVV95cUxOUVBrZ2tmb1I5S1N2ZWNMNVRBTGRBS3pGUlFOSE1MSFM5c29qZHE4eFlfNzR2TmVUdURrWDQzdGRGWHNKRmMyeW9OQ3FlbEdod1kwUUc?oc=5",
       "source": "AFPBB News",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "【三里河中国経済観察】中国発ショートドラマが海外で急成長 「duanju」も浸透",
@@ -238,7 +988,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QamZsaGUzek5xUnc1ZHFxc2Q2aVV6Ml9Oa1NpNGtNODVXbjBIS01UTTY1emM5Z09oR0FQS3VOZTdIZ0NWTlptc2lBYkNoRTFGR3fSAVRBVV95cUxQOUhoQ3I1Vlh5ajNORjI3SE9GU2ZSQ0daY2xQcnhnS3NOelUxWHVva25Hc0VMTmNUZnM0eWVOQk92WGVYTTVXQUN5aUpYb2M4b0Zsczc?oc=5",
       "source": "AFPBB News",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "米民主党が連邦議会上下両院を奪還、トランプ関税と減税政策の全面審査を計画",
@@ -248,7 +998,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tYkp5bnRVRUVzeEk1N3psaXI1VkxiUE5jWVVWTjJyTG9GMms0Yzc5SDJOVF9FTll6NFNidGR0SE9weEYzUVhzWmI3THRRUGh0cGpPVlQyTlhMWV9GbDYxSlNRMjFpUHlYWkFralhOWnBneVZD?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
@@ -258,7 +1008,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWM1N3hJdEViQ0wwZjh6ZElmN2d4aDNhREx5c2tiWGxqUUx4MXVTN1ptYV9KcDU0R19ab1VfOG44a3U3SVVxRzJYTnQ5OU55bDl6T3RLQzRDOWFyTFBLRVl1VTFTNDRMS3B6S3hmYzlIREltZ0RFSlBpRktpcHNGbWxibHI4NVZvU0pGUHVBZkpVM1U?oc=5",
       "source": "www.tv-tokyo.co.jp",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "「経済オンチにも程がある」高市首相の“税収過去最高”自慢ポストに専門家が激怒…物価高にあえぐ国民との酷すぎる乖離",
@@ -268,7 +1018,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZFotTHJ5NHg4UEZCZVlQUDZ0LXNIMkFZZmY1enBKWUdEQWc1d1RsVXRFV2Y5TjI4X0VKRHU5bndXXy1NU1ZYRVRqRGJadG9rMXE0TmwwaW9tUzZUMWlzTm8zNmVEYUk0N0x4NUFCUmhNZWdIMC1Ib2JldktNd2c?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "中国、金の買いだめで貿易黒字を「粉飾」…今年281兆ウォン相当を購入",
@@ -278,7 +1028,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZM0lqZVp4ZDlNRGs4aGJlaTl5cUFrYjNrVzlTeHN0eUVjdndhQ3VUbnZRNXMyeDVHYmZTSXVGYVFfckVtV2NXY3JDbC11N2p6YktEWmJubzQ2Zms3WVNiRERtWVB5T1JaS25yTGVRRjQzeEk3?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "「冷たい資源」が「熱い効果」 中国黒竜江省、氷雪経済に活気",
@@ -288,7 +1038,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iWEgybEJDMktjR0hNVEg1VV94VzNXLWZaSnJIOEZkRWJkUllBSnoxcDRkaEdaSHlrQXJjalpTNHRGTkZ0QkdHNVVaZmlPc19wTzFJUDdKN3hncC1nRkd3SE4xN0ROWUdSRndNYUl3?oc=5",
       "source": "au Webポータル",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
     },
     {
       "title": "欧州で広がるデモ・暴動と政治分断、低成長から抜け出せない「構造的な限界」の正体 | Diamond マーケットラボ",
@@ -298,7 +1048,67 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4NnJOeDFUbFNQbF94ZlJScGl0VklfaUhoVFdfN2I0aGZScVVmcDRzOWw1cnJtdXVDU3VEMzNZdGp0Z1VEOXRmUVZ2ajc?oc=5",
       "source": "ダイヤモンド・オンライン",
       "language": "ja",
-      "importance_score": 18
+      "importance_score": 16
+    },
+    {
+      "title": "経済プラス：自由貿易の「聖域」なのに 台湾の協定加入を阻む「中国の壁」",
+      "category": "中国",
+      "date": "2026-11-23",
+      "summary": "経済プラス：自由貿易の「聖域」なのに 台湾の協定加入を阻む「中国の壁」 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55enlIRGJ4akkxNW56VU1LQ0VZLUpOb2V4VlpYNGU4RnhZTEN6emVQQ3ZuMlowbm44bGxpM0h0UDc3VDg5TjFpWGQ5VFBBUmR1a3U1eDVEeHlVNFZuQ3pVMTRXb05jcWo3?oc=5",
+      "source": "毎日新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "韓国、中国製テスラとＢＹＤ輸入増、輸出は「急減」…大衆車は赤字４２億ドル : 経済",
+      "category": "中国",
+      "date": "2026-11-23",
+      "summary": "韓国、中国製テスラとＢＹＤ輸入増、輸出は「急減」…大衆車は赤字４２億ドル : 経済 ハンギョレ新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MMmFpUnRETmZReEQ2WXR2UTZyUEtsWTgzOWtiUE9JclpDM0pMb3R4OUZOZ0VLWEtzTXROMV9CY2NaTThGR2MzMS0yMzBQVlUzRXNKVTdtX0VoUmc0?oc=5",
+      "source": "ハンギョレ新聞",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "2027年に上がる株：インタビュー「AI投資の過熱で27年は調整局面へ 日本はAI活用モデル国に」今村卓・丸紅経済研究所社長",
+      "category": "アメリカ",
+      "date": "2026-11-23",
+      "summary": "2027年に上がる株：インタビュー「AI投資の過熱で27年は調整局面へ 日本はAI活用モデル国に」今村卓・丸紅経済研究所社長 週刊エコノミスト Online",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQkdqLWZ0ZW9IbnB4UXA2WGtNdlFmU0VIY2wxMEdkQ2ttUVdpRG9yRC0wZG1LRnNYNEdhdGQzdEstTzdxZFpCTmlLdmhxNGxDVmVlM1FTb3p4OUZnTlVBeHBnMHFLaXJQamtoSUMzTzhiQXBRdDBocnYtaWFFbDA?oc=5",
+      "source": "週刊エコノミスト Online",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "アウトドアレクリエーションが7042億ドルを米国経済にもたらす - 2025",
+      "category": "アメリカ",
+      "date": "2026-11-23",
+      "summary": "アウトドアレクリエーションが7042億ドルを米国経済にもたらす - 2025 Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkhqdWM0M1hjSER2bnVNYXlvVFhxUmFOTW5HeWJGQnZiRkNOS2dWbjdndWw2YXdIdWJFYjQ5bVFVemtXX0k5dDR1cElULTBRb1hqaUdaLWEtVWJjS2ZXWkg2TGpBcTJsZ2NpTm5zNEVqWUx3U0pDS2FoN0lScnlaMklaT002MllmWEx4TXZDUkF3MGFrSmVrQjB4U29xc0FvXzByWQ?oc=5",
+      "source": "Mezha.net",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "ドナルド·トランプ米国行政府が韓国と欧州連合(EU)、オーストラリアのデジタル貿易政策を狙った貿易法301条調査を準備しているという米国メディア報道が出てきて、韓国産製品に適用することにした「関税率マ..",
+      "category": "アメリカ",
+      "date": "2026-11-23",
+      "summary": "ドナルド·トランプ米国行政府が韓国と欧州連合(EU)、オーストラリアのデジタル貿易政策を狙った貿易法301条調査を準備しているという米国メディア報道が出てきて、韓国産製品に適用することにした「関税率マ.. 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2eEU4eVRaQkw5QUxwTTQyaXIxUWR2WGtiZG0wTGZIajQwNWtnM0E3ZWNHekR3YVc5MzI1TW9xY3R1SXkxUlpIT0pXeHA5ZkY1ZFFJ?oc=5",
+      "source": "매일경제",
+      "language": "ja",
+      "importance_score": 16
+    },
+    {
+      "title": "ねずみくんとわたしたち｜日本経済新聞 電子版特集（PR）",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "ねずみくんとわたしたち｜日本経済新聞 電子版特集（PR） ps.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yLXVEdnd0M3VoMzdjY3RxLW9fUGkyOW1zM25IRmNZa2JBdUhSaUxtcTNaVDk5SUlSRlRWYXp1TG5GR1dIZEIzR0piaWNKX2xMQ1Q4bEpYZmRuWlljZFJkV0dMWndwWGk5SlVVb3ZIbWtYQQ?oc=5",
+      "source": "ps.nikkei.com",
+      "language": "ja",
+      "importance_score": 16
     },
     {
       "title": "中国政府と輸出入銀、「台商」支援へ金融協定 台湾統一地方選にらむ",
@@ -308,7 +1118,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91a0FyUDJ6MVhpT0lMZGZXdmtQelA0R0VPOWVuQ3NKRlQxZEVUUlFCQXpReWZJcnp1eXRTMUVZMFU4VTNLcmhuZ0dvNWh3bC1TNm5xT3RBd1RDSzBEVHRjeS15UklCZWNsY05vMQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "ウクライナ、ロシア新型艦撃沈と発表",
@@ -318,7 +1128,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LV09vZXVGTzVnSERGVVM2aEtQU25kUk1zYVJsWENabXltRlh6akdCVnZEZE9Lc3kwdGtidlRxRzBkMmc0WUMyU2d1cUZObm5JSGc?oc=5",
       "source": "調布経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "ウクライナ、リビアでロシア軍艦攻撃か AP報道",
@@ -328,7 +1138,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNjNmNmREZlNmaDRFWUV3V0F2YW9aa0JlZVZ0akF2UmlQM3VFV0M1WHBSSFU3S3BNQ0w5Wm85QTZENExjMlFSQkVFSlZSVHcxaDNsdWtwYVFzbWxmY3NVWEdfZkZfQXBtd2xDaA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "［社説］美容医療は地域医療へ負担を",
@@ -338,7 +1148,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtT0p1bjVZcFhhUGRQelhOdkR5MGpVdk04NlZXU1B2UDExS2pyTlgxMElTbVVjRzFtVk9fLTlocXh1dDJZblpQYVVSSFl6NGV6WEFGV211SW5HWnlqY0pZc0x3ZUllUmxvbEo4ZA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "パリ、クリスマスの明かり輝く シャンゼリゼ通りにイルミネーション",
@@ -348,7 +1158,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcUdZU3Z5cE5keWhXRkxwRFQ2MnZjZWdXR2pQQzB0aXRPOEE4RWZvbmRueTQtamFjdkNPMlZELXFHVjdzeGh5MHlBWW04MlhIc05UV0l3V1VNSzM1M3BBMFQzTGdXRVlkdDdLSQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "駐ロシア大使が拘束邦人記者と面会 外務省「健康状態問題なし」",
@@ -358,7 +1168,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTkUzMkxRTnB5b2o2U0lfSU5iUHp6czVldzhOMzNmeXM2TVEwRDl3NUpkeWkwS2p3dkRjUTdKUEpscndXNkQ0ZWVCWVcwa1Q0dzJ1bUlSWXh4eVlKa3g4MzNxRGpMX2hPLTdUYw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "ロシア、核弾頭搭載の衛星を年内打ち上げか 情報機関が警告と独報道",
@@ -368,7 +1178,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rTVljenZDTUQtSDdONlczaEREY0tiUFI1dkZDVW5wUDRoeWNtcXJSZ2FWcDZuVGtNdzhMOHEtbzYwaGZfRmx5MVNGNUJUbDJpOEhCWmJ4UFdTYk5KMVZoUWVZRWZpNF9TN1Q1VA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "NVIDIA、CEOにジェンスン・ファン氏復帰 「安保上のリスクなし」",
@@ -378,7 +1188,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pam9JRnR2ODg3UkZkaXJxbnNLTWdkNDZ4Z1Fab1VuV1R4Y2dyVjZ5empVd0poUC1zQWIwZndFSjcyX3FBWFJibHFfTGt6MFlaZW9Ra3V6aWdpRHdPR3pwdWUyMDBBU25mMGlDRA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "介護テクノロジーの再設計 城岡秀彦氏",
@@ -388,7 +1198,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBTVdrYl9CSFctQ1l3XzN1aUk2SHlvOWlrV3FBSTd2dUtXRXVoVk1fYWFOdk1ZdUNKZVpDcmNyaXRULURGNzhGalNMV2otaldlM1NqSjMxUlJwbGlhTWlnVU9mSTNNYTNCLUowRw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "セブンティーンアイス、過去最高の売上高 進化する自販機市場",
@@ -398,7 +1208,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZjRhUWs4WVBOc0o3YjZfVVp5WHlvUXRLa3prdmZCaFVDTndscjBSbUMxQURWRGFyQ2xFRnFEWi1ZRkM0SF9WRXdaeXpxNGRJYUZ3eElhYW1qUW1LTmxhWFo4dDdEdHItMnZPRQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "国家が外国資産を没収する時代（The Economist）",
@@ -408,7 +1218,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CMTM2SDJjYUtCR0tORld0RFZkMEVkb1lCcHVydmFFLVpzOEduWlRVYm1sMkZhdEVaYzhBLTROQVVteHh5RXlxNWE2WkZMWnZ5NmQ0cDBtWVhXX1lsb2xIQUtjWFlqLWJjbUM5Sw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "澤田瞳子「江戸を隠してふところに」（221）",
@@ -418,7 +1228,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VkhESkRid0U2OWdURWFmNTZoalR6UnVDOFFFdmt1UWpjU0R4OEp3VnZPcV9GaThlSTAzUVZoYmplN0c4MW1MTzhGd01ORU5oOFAwLW9UWU9HUE9kY1FremhqbDZhQm41UnM3eg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "みんなの一休さん（3） 「一休骸骨」",
@@ -428,7 +1238,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d052UVJKTkZfcXZselRhQ3RBczlXb3l5cnJZT0RkVkNxbGw2R1NLRkNvUUVFRmU5WDhlSTFMT3dKd1hzcE82ZlUzazFLNHhCTmpaT1YwV1BnZFFNbHNNbm9md3hCVzJCa3pfOQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "23日の高市首相の動静",
@@ -438,7 +1248,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xS0FMVzJrTnBNVGQ5QU4yd1NCZFdCUzRUU2QtdXcyWHc0eDBfUFFyNWYtZ1RIaEIwRGFzUGYxMU5XVzJYVXpnOERoelNJZnlRWkF1M1FzeW4yczFuckJGUWRiUjNoY29hX2hVSg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
     },
     {
       "title": "SDGsへの取り組み評価、豊田通商やソフトバンクなど上位",
@@ -448,7 +1258,67 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRG4wcjhldUVDRnhsbzNtWk5HWnYwZFVYWGQxZVlKendHME1CQUxfeGNsbUhjMkRiQjREbkNaeW94bzY4T2VPSGVFbzd4bWd4aVo0NHo2RFBlb19sZzhjeTlpR08zaVp1MHJacA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 14
+    },
+    {
+      "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃",
+      "category": "ロシア",
+      "date": "2026-11-23",
+      "summary": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
+    },
+    {
+      "title": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
+    },
+    {
+      "title": "イギリスは8人に1人がニート 政府が就労支援、若者採用の企業に助成",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "イギリスは8人に1人がニート 政府が就労支援、若者採用の企業に助成 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qXzZUOVJldTFzaEtFcVV4UHVtb0xlRl9HcVg4Sjk4UUx4aFJyZWxwZ0NnWGxNMG9nelpTOFZxS0VoQVhwQzZRM2s2X1VHdGdMQ2twc1h1Q0FjR252TTU1WEhkcXdlQ2ZSNzk1cw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
+    },
+    {
+      "title": "「今度はもっといいCEOになる」NVIDIAファン氏 社員が本社で出迎え",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "「今度はもっといいCEOになる」NVIDIAファン氏 社員が本社で出迎え 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JQlVBWlh1LW4xZE8tQmpnbmRUTWw1Ylk0S0tFME5lSkg3XzRxbFVacTN5RFpDbFVUbllscmJ6SWRtM0l0eHNNdFZyUGNUU1dNYkdiUUJKelA2UjM1SUktaENiOTEtZmotUGZDaw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
+    },
+    {
+      "title": "海上保安庁、尖閣で巡視船・無人機増強へ 中国海警船の急増受け方針",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "海上保安庁、尖閣で巡視船・無人機増強へ 中国海警船の急増受け方針 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ZjByakcxSUxIVkVsUHlIYXJKM25QODBRWXk3ZjB1Y1NUUThpTGtwWlhaQV9HU1Vtd3VGQkpVVkhsZXZSN0lrU0F2UHdCRzhPR0VIbVhhNGlPbFEzd1M0d1NGR0pWQUh0dFJsQw?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
+    },
+    {
+      "title": "東芝や日立、重要インフラ防衛に専門組織 ホワイトハッカーも活用",
+      "category": "日本",
+      "date": "2026-11-23",
+      "summary": "東芝や日立、重要インフラ防衛に専門組織 ホワイトハッカーも活用 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWEEyQThMLUpNdV9uWkNPTm1SYmgtQmlGQlRHekpnN2pGa0ZYa3hFREJqNnAycGp1MDdVZjBob2VXLV9BZjJld2pHemFibjlYQUtBX1Uwd1hKQVZ3OVlJd2hPNlQ1YnE4OUcycg?oc=5",
+      "source": "日本経済新聞",
+      "language": "ja",
+      "importance_score": 14
     },
     {
       "title": "ロシア艦船が連日の攻撃被害、ウクライナから遠く離れた海域で",
@@ -458,7 +1328,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa21PSDdRcGRabzc4LXFpUFQtYmpaanAtMmV4Ty1uc0FDU2xkUkRaY1E4Rzk3U0FpekNGWU8xU1gzTllTZzhHei1MdjVKdzZxbjA3cnd2QlctUGN5LXVqYXIxaWVZRzhlOVJVVlZnS2VlTFZxY0pIaUVsZXRpemthYW9vWURscHZwVmNpcFd6UU1xbjNqNG0zRTBNSUY5bjR3bU5kSmszankxdnEtSXc?oc=5",
       "source": "WSJ",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナは、リビア沿岸付近でロシアのフリゲート艦を撃沈したと主張している。",
@@ -468,7 +1338,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblhNajVmUnpaNk8wRXNYblhDcW5ITzBZVEZwYlQ4dVBuY3ZYdG53SUNDU3BQOG9pUWN4RTM1WHA3ZXZnZFkzWG9FbVlOTXpJMUIybDJrSTVvcnV5R1dFQU93MzRnMGVfWnllREFWci1ZNy1Rc1MxbDFxU3dpQ3B5dU9YRHEyWFRyY3E0Zw?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "EUは米国に譲歩すべきではなく、ロシアと直接交渉すべきだ。",
@@ -478,7 +1348,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNll5WjdRUnVUZ1pJUnAzNFJQSllLVnhYM1hoeUVYQnNNREFfSHlUQzRZUER1VnhhVnFEVHFESUtPaXV1eTB6UW15QUluZkhTc2dSY0huYnBPWUdIMnBKUzV0N1FsVmFPODhybkc4UFVoSWNEMUphWXRGV215bUR4UVdraXptY08zdEE?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "中国が狙うのは「高市政権の孤立」 識者が見る「握手と冷遇」の意味",
@@ -488,7 +1358,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTGJSOEdJX2FaNzN3NG9ueGwyLWg0MVlSZWxRRTdndHAza0FBVHhja1dyaWhHVnp5WEdwYW5iTHhfbXRKdGtwbUE1TFFTejRkV1ladF90Vk9sQ1dwZHZoWE5xdTk0QTA?oc=5",
       "source": "朝日新聞",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "中国、株式市場安定に向け3つの措置を発表",
@@ -498,7 +1368,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MTXc2bms2RW1FYmZITU9kTEhFcWFBaU1HdllTX2QyS0kyOVV5UDZXaTNRNDVLNjduODhranp5Sm85WFNfSDdORkczV1dqRHd1Y211dHJoQm1WdXd0QWl3UHVza3FPbU0?oc=5",
       "source": "人民網日本語版",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "APEC首脳会議の会場で中国の習近平国家主席（左）の出迎えを受けた高市首相＝18日、中国・深セン（共同） - 過去の文書引用、対話探る 中国、答弁撤回要求変えず - 写真・画像(1/2)",
@@ -508,7 +1378,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YNnlEdGVra3N1eThkWC1kdVhoSHZvd3BhQjdCa2NzZG5YZmFOTDRkZW9kT1FqTzg0bVZOMnhfa0tQTVNnT3d6V0FGejR0dml4dTRZUkZpWQ?oc=5",
       "source": "西日本新聞me",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "台湾・永豐金控、前三季利益が過去最高を更新 年換算ROE 18.32% も洋上風力・中国不動産の貸倒引当が資産品質を圧迫",
@@ -518,7 +1388,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jeExoTzB1Zl9xS2lQRUJra1hOLU1Bel84U19DY0t0QVhCUl9hX1Z4VE5Kbmc0NjdqZUh4ZXUxcEpaYVc0cUY4REdRSk4yUHptYzMySVVZZ1BRQlh5dElRSQ?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "中国最大の「国家機密」は習近平の足元に…トランプに対抗する「特注シークレットブーツ」15センチ底上げの「疑惑写真」",
@@ -528,7 +1398,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xaFM1a1BsQ2tTTWo2UmRUcEs4R1BYY05FdnFhRXBlRDF6TkY5WEVDMjloel9WNE5hbktIVlUxWFYyYmtaTU5XaFNtZmVrNEh1WU50OU50UDBhd19PMGtwMHAxVC03VnlHcUlrSml3?oc=5",
       "source": "au Webポータル",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア、核衛星を年内打ち上げか／弾頭搭載、情報機関警戒と独報道",
@@ -538,7 +1408,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxTVlaNXh4RkNlbFdsVkpkLWxDMzlYRk1SWDlRX3lyZEJrRWFVS0pRQWpadXNaaDlWWklrOXc2TFRlZ29yTXVIY3hiSXIzN3NXQTFlMThJVE5Qc2JSWDV0RkJ2bk5RVWZlOEZkN3lqU2tpQU0?oc=5",
       "source": "四国新聞",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "クレムリン：プーチン大統領とトランプ大統領は、駐米ロシア大使の任命について話し合わなかった。",
@@ -548,7 +1418,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmkyN3M3TGI3WVVuM2RmczF4ajNJT2lVUl9JZGd2Uy1UUmtVLTBhVEJIU185dU1idHV2N1JoZ0NQRkkxVGZWNDdIOWE4WVg1Qmhnb3hMcTNJVVVQYXR6eWJxQmF3RVBVNERLc09KeFJmRUJjMFhpOWloOFZIRllndzhTdUsyVlRfNHh6aTBGT1hQS2RKaEktOGxDX0YyUm1RblY5bjBuUTNiNTEyZEE?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "トランプ大統領がロシアの指導者を「友人」と呼んだことを受け、米情報機関関係者が発言した。",
@@ -558,7 +1428,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnVOYTdoWno0emFnOWF0TkI1TWxlODhQNTkxYzVya1RNX3p0M2VmcWRVUFRQTUs1LTRQYXNSOWpYeU0xRkFyUFNndGlQV1NrZFd0dGs3V3VRU2J4T0g5S2hNb3FBYnBFS1RmWTlJWVl6V09QVTVINld3a29Oa1ZwVHdIMzkzNWxSTmtTaWNLcXBpbE5MeXVLQXFES1o4NXNocHRQOQ?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "米民主、「オバマ旋風」超えの258議席確保 下院で34年ぶり大勝 [アメリカ中間選挙]",
@@ -568,7 +1438,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdjh1VjNRaWlGNW9UbzF4QldOTUhadnlGMUZKdFAtVkJweFc0SXZidXBVdUg0d2t5cnllVmpWaWlVdFFkMTdTeTkwYmQxUkFSM3ZvTENETE5LbDM1eHE1UEg5eV9IY1k?oc=5",
       "source": "朝日新聞",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "米国の生活費は2027年も上昇の恐れ、物価・金利・食費・公的支援縮小・家賃の5要因",
@@ -578,7 +1448,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkT09LS0hRemxmZnZnY2g1SS1lS1Y0dmZGd3VNMWlfclRkQXlFNVhSYlNZMFNCai1ZS1hWeUU2eFp4UGhnOWxNVWJTWDJCQVN6aS1JTGFMUENsZw?oc=5",
       "source": "Forbes JAPAN",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "民主党は米下院選挙で地滑り的な勝利を収め、1992年以来の記録を更新した。",
@@ -588,7 +1458,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzNnTndLbHJxcF8xZE5TTW0tTjF6X3VtU01QSW9veDZUS3NudmJpbjRmcXN3Y1U4d2Rtc1B2Y3RiME12QUI0WDU2Z0NkQkpQRHo4Xy1WTTVrbHJlRHJLNmJIb0kyWjFocDgyZXctWVVTU21YdUEzbHBMcHotMVBZSUYybHN6OHRnVDI5MzROWjFzbFU?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "欧米為替：デイリー見通し 豪ドル・円／豪政策を注視(フィスコ)",
@@ -598,7 +1468,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTW5VcUEyb3Bfek1fVWdBZ0tDcEJWNk0xalBVN0NIeHNySjJuTUYxTVFvbmVpM1pvUUVJQkk3MlR3SVhlU3BkUm4tRC1XOXhGcE9Ud1gwNWYzcEN0YWhZOWxfMkRmcXVRRy1OTUhiQTRGRWlxVEVVRG1LZTdOVlFBZng4bmNFU3M?oc=5",
       "source": "Yahoo!ファイナンス",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "欧米為替：デイリー見通し ランド・円／南ア政策を消化(フィスコ)",
@@ -608,7 +1478,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlBiM1N4bEp6c24zVl9kMzlJcWpTYVVMUjhlRDVpTFdHQjlYeTNBVWx3YWREUFBjajZPeVZxbTJMSXFIWGhnWXpGSWlFdXQwWmR2WnhYS0FLNUpTbWdjYWtOT21CQ3lhbW9UWVpGY1B5SUJ0WXA3Y3JVOUVtZTJTNEU2ZDVkems?oc=5",
       "source": "Yahoo!ファイナンス",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシアが新たな攻撃準備、ゼレンスキー氏が防空支援訴え",
@@ -618,7 +1488,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGFVelY3cll4NFFTc080OWgwZTR4WGM5TTNPc3hIQ0RydUZMZF9Sd05iS0ZjbEthSmFxc05wSmpYUy0tVXB5SmxYd1pQY3pUZHVPZnF0YXA4WHNiclVka3VJME1qNHFBd1B1SGdZWFhNZF9xOWJUSWhkemdlTU1tWEY5bDkxUQ?oc=5",
       "source": "Reuters",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア軍兵士、ウクライナで50万人近く死亡－新データでさらに増加",
@@ -628,7 +1498,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nV2c5T1Voc0RJd1RaQWRyRjlaRDROQWRodkZIbVJ2SnRUVm1Wbm5VbFFyZFdZYnlsbHhpemNIc2YxaXhHRmV1dE5TOEVtNDg0dXZUaEVfejdHV2dNUmJ0cGQzcUZzUDA?oc=5",
       "source": "TBS NEWS DIG",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナは戦争終結のための４者交渉の早期開催を期待＝ゼレンシキー宇大統領",
@@ -638,7 +1508,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY3VHQnJnUzJzWmRhWTJvRHl0Zi1yS2ZDQjNoWjF6SjBJYThsVU5TbVk2MVlNMGhjV2c0QzN5dWl1ZWFKcldBZjRMZ0VmSkl0MHVsQ01YaXJ1RVFKbzVLOWtqZGEwaWtuN2o4SUJpZU9aWDFScjN6RXpmNmlBQnJYQ29jcjdIaUxqX0xISXBVVWxBbmUtcUpIMEJ4akg5VDNxM1ZkWHkzdzdkVEtGUHJsNy1ZT2hKVEpMYzFRRUpPQU01QzRIbDR6WE1JM2ROd2c1M09IUG4tUkhLSi1ZQkJtbmllMmx5d2pHQmhHREtn0gHzAUFVX3lxTFByQjFEQjRfLWRGMGdVcUc4UjZ5VzJVWVRUTkVKSGl1bXFlSm43bHMyY0xjeWJTbUxQMTFXNEVlY0hWYkVGd3EzUFpBR244bHdNZnJicFo4alNWYWVTQW5MVXNpOVJUbnJxd1k4NTlCVlA2TDZaR3NpbFpFWGFrRzlIck44bVJGTjc3SmJPS2JTV3cxMDBONUdMbGJBa0hrLVFTZE5nZHJERnNVTl9PMXVrZHMzekVoTjQxc2N2TXB4UE5Ucll1LTFyME8ycWhLWDd1c3h6NExlUGtaekVQajlwSk9IWkdyNnB0T2JpdWFOM0RIMA?oc=5",
       "source": "ウクルインフォルム通信",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナ、リビア沖でロシア艦船2隻を攻撃 1隻撃沈と主張",
@@ -648,7 +1518,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TY1ZHV0wwY1BOY0FSWjhOTFZzRUllSnV4al80Qjd3ZWtub3Fqd055cEd4ZTN1RWJMQjkwWFpYQWhMTnFfV3otSk5fOGxlQUFDT0HSAVRBVV95cUxOTUNlTjdTMzRWTDlieGQwbU1GNEdTUUlwamM0UG9VSllwOG0yRjlUN1dZeEVjR3BFLU5rd2s5cGw3WDd6T2gtNjFMLXp5LUdXdGRaUVA?oc=5",
       "source": "AFPBB News",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ＥＵ、ロシア選手の大会参加禁止を提案 第22弾制裁案",
@@ -658,7 +1528,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNk82MHE5S2lrU29BWUtwMVNBUTdreU5WYjhaMGZGMk8td2phdENSMEJkVDJpQ3hXdDRWRDVWVEpkcjdqVnBBODg1ZlpRRE9rSTlfYnJoOHdYd25aLTV3bS1na3NNTEp1T2NKazZOZWNVc1pUVmxwUjlkdWFaOGhiT3k3eUVJZw?oc=5",
       "source": "Reuters",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナ支援の「有志連合」諸国の部隊、ポーランドで初の大規模演習を実施",
@@ -668,7 +1538,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbUgyVjFBSXFQYVgzQ25jekhWcW1FV0NROUF3Ny1BTjZBeTRsZlVLdzljTy03OC1DcGtaeE5MQU1WRk9yNEJvdV8xMEM3Z1kyaEx0clNWV2VfWkhFR2F6eG91VWszVHFHY3ltMGRjeTdQS1I0dlNqZ2Fwd1RCUnp0Yi1Fd05tSU9RbEZfOGM2V3hmUTNIMEhBYmxDRmJaYTRoUmhQWHlnWndWNWtfRVBYeVBtQmxzc1JmN0xaYkgxODNFNHFiYUxTb2VadWhZdFNtZXZESE85dER5aDA0YnBLR9IB5gFBVV95cUxQUGZxbFp4SGRNc2NZcEpfeVkxbi1oMEF0S3hLOXRVcmp4YktMUWdlWmpVTGtOLVdKR09TNkx4eXZJbDNxOC15V1NSQmk3NmRJWFlCOVR2YnEwLUQzQ1BCSDhENXphQm83OGx2WUp0WDB0MTVadmxHTTVudmwwb0ZibU15UUJaVGJ2X2s1ZGxUd3Y2SGsxQnhxTC1DN09Scm1LY0JDSVo5WGJMQVh3RG5UbGg2d0tiQlctYVRVYTBoWGdQb01xS0d6b1JmQVdRY2RjXzltYXVOQ3k0by1HYWI4c2FuZ3FDZw?oc=5",
       "source": "ウクルインフォルム通信",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表",
@@ -678,7 +1548,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU13REptd3cxazFWaTdRenZTM2JhMjB2eDNXcmt1WGJYWkZBZktkZmVJZ2g3VUM0N0dabVIyRmlaYVpSblFPUW9CcnF6WndwRXlVNUZ3bnlUY284YkNpVmpVRjlCV2NqMlppWkpUUlJlT2p4dWpKMUZ6WUYzNVhSVGNNVWZEcG14QUluQkpR?oc=5",
       "source": "Bloomberg.com",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ガーディアン、ウクライナ戦争中に自殺したロシア軍関係者1,087人を特定",
@@ -688,7 +1558,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUY4cmlZZVNIMF9uUWpoTWtoSWF2aUJTSTd1cHhpWkMySXlrVm5kNW92SVFEOFJLNWU1ejNvMFJpakNJZGN5dFBZSGEtNkdTUEFEdDJFQThJWVNpa21CZlVRRy1yUzJ3Mm5UaGpPbnFfN0lPbGg2Z3ptanRoMDhKUlhZTTQ2M2c0Wk1KaVV6WFJ4R1d5LXgxSEZTOXlvRXZkTHc?oc=5",
       "source": "Mezha.net",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナ大統領は、ロシアとの4者協議をできるだけ早く開催するよう呼びかけた。",
@@ -698,7 +1568,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWdoTy0ycXBLX0tIb1pLZjVsMzRlT0F5NVZKOEhNckdjV0dXeENiSVZSV2tDWEJ6QzFUZXg5NnUwLUZwWmE3NDI1VXRDOVBiblVXWUdKVGk2akV2ZDlsMDc5SUpWWjNfbmlKbEZnZVdKbHdsMVZLR1lENlFvX0lLX3hESURjRDNEYWlLYXVQMzhvWU40dzBvTTJwZw?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ウクライナは、紛争解決のため、ロシアとの4者協議を「早ければ明日にも」行う用意がある。",
@@ -708,7 +1578,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDZFWHJjbVFaZURJRVZBSFBDbFQ0Y0t0VXZyU1VvVjNmb1QzNDgxOGFZbEZyQWlCMUdZUDN1dlUweE01Z0RrV2JfeUhzWVkzVHZySEN2bnZiQ1BvakxPYzhDMG5zOEdubnFBVjFSZG5rRGVCOEtkOWhNY2tLTGlpWTZGeHhOZWtZN0lfRTB1eDBMZ1pWRFNUVjFtSTV5MzF4?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "高市首相がAPECで直面した「中国の冷遇」は過去の「非礼」の報い 中国が許せなかった習近平氏の“顔に泥を塗る”行為とは 古賀茂明（AERA DIGITAL）",
@@ -718,7 +1588,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdHF2Q09yZHZQSzRKTGRvekY5VDF3TkdfWDQ5RnBwTFlQM2JnSUpWZWczZkpUWDJ5ckJFR1A1Mnc4cmhiTm44U2VQWUM5QmJRZnROMGI4eGdOR0ZjdEVFRmdBbTBBemZqcmNoREpVWEstWFJWaWplU3ZQa0d2UGs?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "APEC首脳会議の会場で中国の習近平国家主席（右）の出迎えを受ける高市首相＝18日、中国・深圳（共同） - 逸した好機、遠い日中対話 共同声明引用で立場踏襲 中国は答弁撤回要求かたくな - 写真・画像(1/3)",
@@ -728,7 +1598,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XNTAxMWZBdE5zWWwzWUFiRWgtdlZQekFyQTl5ZVlBQUF1SWpBTkllRkxraURidWFRS2JSZ3VGRzlDNHV3aG1oc3lMT2I5NlpuMnVsVmE3cw?oc=5",
       "source": "西日本新聞me",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "中国とのＣＥＰＡ、交渉開始で合意",
@@ -738,7 +1608,7 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yYTdvZXBnNi13ZDdNalMwM01YVnNKWE1xYTdsd2dtYWNmLVllWndYd1V2U2VXcFJWc1NIQ0t2Rko0Y3pCYVE?oc=5",
       "source": "NNAアジア",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア同盟国がICC脱退を通告 プーチン大統領の訪問と同じ日に（朝日新聞）",
@@ -748,7 +1618,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTG4xS3dfQmxLdUtJTWhEYVhkMkZNZjhfMDFTY1lwZThkblQ1bTM4U0Z0amd0NzIwNXZRV2lqd0VVd2ViZU1EaWxEOGtTMTVNeHRKNEtwVUg4LWtfVmtZaGU0WWhIN1BHckYxVTQwQ0x5NFJqX1NLeE1GQUdFZ3M?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "【速報】駐ロシア大使 拘束中の北海道新聞・今井記者と約1か月ぶり面会「健康状態に問題なし」 政府側2回目 高市総理も先日プーチン大統領に解放要求",
@@ -758,7 +1628,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CZGxObjdzS2Q4ZjVvdmN3U2RDVW1iaE1Rc2RBRE15S20wSGJkVzQ5S0VwaDdLeVk5TzdHTXMyakV5MU1lNnVudUlDRWtwTWhEMWZ1V0FRaw?oc=5",
       "source": "TBS NEWS DIG",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ＥＵ、ロシア選手の大会参加禁止を提案 第22弾制裁案",
@@ -768,7 +1638,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56cGZhb2dYc2h0NkE5U01oakZzTjdHS1lUY1FMTnUyQU13ZXRpLTZyUF9Na2pVcGpKWXdKRENmcG5wQklSeC1PeXUzbXVxdTdWbld5YWRtTkJndw?oc=5",
       "source": "ニューズウィーク日本版",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア代表参加禁止の制裁案",
@@ -778,7 +1648,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1QlB6bldhZC1YOVM1b0lvZEl5MkI3YXIydnNWejRPWnZsSU5IYTh4S3JpRW9jcFBiUHlaemg3cFhmS0lzcjVpdGdta293bm84RzI5X3E5MkR3cENuaXc?oc=5",
       "source": "下野新聞社",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "北海道新聞記者に大使面会 ロシア拘置所、健康問題なし（共同通信）",
@@ -788,7 +1658,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjbGNqWENYdjBBYXVTUnJpZkR4aDZhZThidU1PVUpOUlRNTXZjaDRySER4R1VLYU50cUVCcVlOOWFHZFVpbkFicTZEOEl5cHhxdHNCbVdwYUFqSmZoZHJzUFMwQl9TOVZFLThMQUNMRnIwaHJGR1NleDVDQzFFV2c?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア選手の大会出場禁止へ＝第２２弾制裁案を提示―ＥＵ",
@@ -798,7 +1668,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vNVplZVV2MEZDS213cUNjNFd1NlpRLWN3Y1ZyRDdVTGRmU2R6Y092dlRGRDZnWTcyRkVCbWItdXVwWG9xaHBlbWM1dmFCQTRfOVY3QndMdjJtcUpsWWFrOWpWRExlUdIBa0FVX3lxTE55MDJRWjd5N0VkZFpkeWRLalBSeDhaS01UcTN4R1Qza2JBWVY5SXAzcUhqX1BqaU5Xd0REai1kdnZZUXFiNXJfT3RZZWlYdk5pZXhtSmk4NHlDYlZCbnJYM2JLNWF6dFREWlRj?oc=5",
       "source": "Infoseek",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ロシア、核衛星を年内打ち上げか",
@@ -808,7 +1678,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS25KQ1ZxYUtJMDI3ZllwTnM2VU1wZ3VUeXEzMUN0aHlGN01MaXpydWRJbThzbC1aVWFxUlFCRi1vNWVzd2FJaGxxYXRadDBNYjRaRGpPS1ozVWZsTE1pR0pWMHBzVjJ0MDlQb2Q2Skk?oc=5",
       "source": "カナロコ",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "【米中間選挙2026】 民主党、連邦下院で1992年以来最多の議席確保 ノースカロライナで現職に勝利",
@@ -818,7 +1688,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IcHR4WVpBbFFReXRkeXJ0alBnOER1YW5MMy1PajE1bXZSVUxkajVObTRwMlR6VWZYTENqTTJ4R1VTR2I0T0ZfNVFTVWVhQ2t0dkFvZVB6dXp5YzVYanZjQdIBZkFVX3lxTFBlMjk4ajhydW1HYkRheFNyUzNjTTZzd29LSVFiZFNzbVphZWtTME5PT1djdlAxTGRFYVNHcndLeTZOQkdHWnJnVVBFQktxT2habkUzekRYRDRRUi1Zc3pzN0Z3aGdtUQ?oc=5",
       "source": "BBC",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "米国の住宅ローン金利が7%台に乗せる、売り出し物件1件当たりの潜在買い手は3.5人に減少し過去最低",
@@ -828,7 +1698,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oVnVxNm9sRWhmWFFPNlpUOFFhRFU5bHUxUlRsSTJNdmJ4NUU3NXktWXZkbWJHYmVtSTNneFpEV3ZEVVBTbXNDTXBfalMxR1h1RU9kS0d3WjBDTmFOLVpGbHdUVGNnQXhmX0UtRG9iZG5xMzNq?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "〈社説〉米中間選挙を終えて 「トランプ後」を見据えて",
@@ -838,7 +1708,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85RU0wLXpESmhRSElMX2RwNzJSQ2ZQX1poTDVRU011LUpQcXZWU25TblB5QkpQWk1tTEYzYzR5aWo2M21JUlZmT3J2eHlmbmNCU1BWOGNFTjBrOGxlZzBFYkc2eTI4Zw?oc=5",
       "source": "東京新聞",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "ユーロドル、来年にかけても下押し圧力が続く可能性＝ＮＹ為替",
@@ -848,7 +1718,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSHZDc0psS0I4SDczdnRvQnFITmdRZVQzNDVTdjV0Umw4T2Mtem44Rm5VTWNoUU9pbUhzeXlveTc3QVhjMExMUA?oc=5",
       "source": "みんかぶ FX/為替",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "まもなくイスラエル基準金利の発表",
@@ -858,7 +1728,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPeHdGQmRpNDFwU1hoNjhaYWhUMnZXdmhCMlQ4RWowdy04Yl85OEU5X3RWczBlaDRRVkRKVFk2dUNhZWlzXy1MVA?oc=5",
       "source": "みんかぶ FX/為替",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
     },
     {
       "title": "仏27年成長率下振れの恐れ、財政赤字は抑制維持＝財務相",
@@ -868,7 +1738,77 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ejVaMHp1NmhFNWIyNlNHX1FLZnNvbkY5bzVGcnBKUlpwUjI3LWwyczYwUEx3V2FJTU9pQThuNERJS2x5ampTZm5LeG91aTd6MDFYdXZHVnk2dw?oc=5",
       "source": "ニューズウィーク日本版",
       "language": "ja",
-      "importance_score": 15
+      "importance_score": 13
+    },
+    {
+      "title": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開",
+      "category": "ウクライナ",
+      "date": "2026-11-23",
+      "summary": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOUtGczlTWDlmMXhmQ21PSDRrS0Y4VFFsR1Vad2Zwa1pYMVJBaWhpQXZNQjBtWnlQZ215eDJrTTZtWTlIMThiUlM5R2RqenVrTVl2akxSelNyNU0wR0xMR2FWZUxXTEVENjVFNXc0MnFPbEwxUzdXM1Rn?oc=5",
+      "source": "テレ朝NEWS",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "ロシアがエストニア非難、国境閉鎖受け「戦争瀬戸際の行為」と反発",
+      "category": "ウクライナ",
+      "date": "2026-11-23",
+      "summary": "ロシアがエストニア非難、国境閉鎖受け「戦争瀬戸際の行為」と反発 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbWJVWEc5SzJRcXlHV0l1WUxGZG95dDEtcWZBY002V09UUzl0SUZxc0U1LThub3RXMktOME8tYmNrZEcyb3pJclNCYUJFWVFpNEQxcDdyUWcxWFo3S0lvcFVmZHktRHNKOFdfbFBtZTVBZTBNLW1FSm9lX1BXSHU5Q2dKX1ZwQQ?oc=5",
+      "source": "Reuters",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "ゼレンスキー、ウクライナ軍がリビアでロシア巡洋艦を標的にしたことを確認",
+      "category": "ウクライナ",
+      "date": "2026-11-23",
+      "summary": "ゼレンスキー、ウクライナ軍がリビアでロシア巡洋艦を標的にしたことを確認 アラブニュース",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcDJ5VDdZVmx0TExKNWJDaDhpMnNsV09Bd2QzTWJTT0tHc3RCWDBFSGJxRklIMDA0Y1lKSmVDRkFvU0w0MTRpNFBVb0hndm5mbTNwYjRIeUEyaTA1UUs5LS1wOVZzOXJaNWpFd3pNaF9zdXEyajQxOGx3RDd6NEVTQ0xnWlJPcU9xeG5DZUJfaTZiRGFPRk5wVWlvQTlYbmRfZm1TNGwwUUMxaGdwNFFydFlBSFRKcXFZTjhXYmNDZDVDUGRXbUlkOGliVVhaRUh6UzcwazZFRGluRTJPWmpjVFVUcjFXWElyQ3NybkdUTlhOWTlBaEhHal9uZE9YdkxuTTZfTmpnVTVHQURTREpKMjJERDlpWEk1TnJfc0E4dnM4R21YdC1OV1pDZWFBdkk0NG1DS2RiWjF6NlM1cGVNRU1sallRbFZBajJSbDE1YVo5Rk1VLUlyLUJpVHNHNWpFcWlLRjMzTWk3eDRDaWhsOUk4OHdQdVJlMFhXR0pXR0E2dVRvaFoweFVnQlF1NlFzU2REYjlxd0ZYNER2NmZjX2tDeVdLVEtwM3hrMnIzN0RjRkNUTnVNVUVybzI2WkFfWktBQ3plb2RfeUYtcGZ0LU9nM0I0R2lUQ1lSV0ViM3ltTjM5RmZXUGowQVdncVk?oc=5",
+      "source": "アラブニュース",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "「救いようがない」トランプ氏、習近平氏の前での“まさかの行動”に米国民からも呆れ声。会場の一角では異様な光景も",
+      "category": "中国",
+      "date": "2026-11-23",
+      "summary": "「救いようがない」トランプ氏、習近平氏の前での“まさかの行動”に米国民からも呆れ声。会場の一角では異様な光景も Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VLVZGNmJ6Z2Q1Q1VqN2dUeUJRaWRBNkxYZ29zMjB4dGU2UlFobkctclNPaUJVbXo0NU4wMXpVaUw0RGxjb3hfRlQ4WTVpYXRXaDNBMXhGQzg2Z1pQdEFuMmRCdVBIMFhCY183N3J3QXpHUjlnVm1kNHVXOVNzZEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "タジクがＩＣＣ脱退を通告 プーチン氏訪問も拘束せず",
+      "category": "ロシア",
+      "date": "2026-11-23",
+      "summary": "タジクがＩＣＣ脱退を通告 プーチン氏訪問も拘束せず 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVFpHMDJnRVEzZDNycEl1UkY5NElPUlJIS2lNR0dVWGpCZThKMkVzNWplN0UyYkRLeU1aWFN5aWgwbUJReGVLZHphMkJldWttbm9VZHZQc2xKU3dOeS1sVkhkdw?oc=5",
+      "source": "時事ドットコム",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "FX・為替相場の注目指標や予想を解説 - 11月24日(火)■『米ドル、日本円、ユーロの方向性』と『直近で大きく上下している米国の株価指数の行方』、そして『米国の長期金利の動向(米国債利回りの動向)』に注目！",
+      "category": "アメリカ",
+      "date": "2026-11-23",
+      "summary": "FX・為替相場の注目指標や予想を解説 - 11月24日(火)■『米ドル、日本円、ユーロの方向性』と『直近で大きく上下している米国の株価指数の行方』、そして『米国の長期金利の動向(米国債利回りの動向)』に注目！ ザイFX！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RamxRbUh3dHNxeHlHRnNxQXdLU1BHczI1THhCR0NaamM4UE9oc0xyR2JzTE5xVWhaRlZTci15VS1vOWRNSktEYWs4WDlBX3NFOVE?oc=5",
+      "source": "ザイFX！",
+      "language": "ja",
+      "importance_score": 13
+    },
+    {
+      "title": "【本日の見通し】ドル高の流れ継続か",
+      "category": "為替",
+      "date": "2026-11-23",
+      "summary": "【本日の見通し】ドル高の流れ継続か みんかぶ FX/為替",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYRzBqUG5NandieG5GUlVZa3lRQ3h1cXFEdVNfT3FGdDJqcXhscjNYM1ZpVk93RGdrVXZOR1VrM0h5bjRLQlYwUA?oc=5",
+      "source": "みんかぶ FX/為替",
+      "language": "ja",
+      "importance_score": 13
     },
     {
       "title": "高市外交75点、中国の冷遇に「大人の対応」米中露首脳会談前「クワッド実現」 松井一郎 以心伝心",
@@ -878,7 +1818,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkJrUGVMNzFqT29KNWIwOGkxbFFORTctLXpJM3BBTlFNVTU3b0ZrcjMycXJvYldfYkJmam1OWWY2eENSSnJJTFJnZUp1NkRRUTVCcXc1RExVU3NZZjBjUHpRcGx6OHU2RXkteGZTM2NfcVNGNVR4dXdhNWRMaE5tQmVDUkFrbFpDd004YkY2SlluT1UyTjJWMS1ocnA?oc=5",
       "source": "産経ニュース",
       "language": "ja",
-      "importance_score": 23
+      "importance_score": 20
     },
     {
       "title": "「プーチン氏は第2のヤルタ実現できず」ゼレンスキー大統領が指摘 史上初の米中露首脳会談「ロシアにとって失敗」",
@@ -888,7 +1828,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aYjEyLVpWdkJwNE11N0lGTFlJT3VOZ3h2eHhEeGdmV05sRVBuUFhQRGRaZWdPaWpUZURuYWdVd0pYVmJYWERCaUhSUVlDZw?oc=5",
       "source": "FNNプライムオンライン",
       "language": "ja",
-      "importance_score": 23
+      "importance_score": 20
     },
     {
       "title": "トランプ大統領は、ロシアとウクライナの間で大規模な停戦合意が成立する可能性を示唆した。",
@@ -898,7 +1838,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWhyanB1WnVrY21meC02WG1hWllYN3BBbEQtUEU1VWZScG83by13OU43bXdCS19jQnpzRllIcEtLWnVlWU1RZ0lmdU9QVk1QVWstUmJDaFlVeGN6bURHNF92SWY1OUlnY0Z6d3dJcEFHTFJTTlM2c2lQTWMweUY1bVd3VkJIOVZ5RDJqUm91ai0xejh2LWxOUzM5Nlh5Zw?oc=5",
       "source": "Vietnam.vn",
       "language": "ja",
-      "importance_score": 23
+      "importance_score": 20
     },
     {
       "title": "プーチンは実は、ロシアの埋没を恐れている…「3カ国首脳会談」の本当の意味",
@@ -908,7 +1848,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PVGdsQS13TFhnNkxnalZJeV9uY0Y5RjJBSC1jWGdaNEFIbTRfZFpWRUk1TEJPYkU5QUZ0N0JMT25rb2dqOG1yVG1qdExtWGs?oc=5",
       "source": "現代ビジネス",
       "language": "ja",
-      "importance_score": 23
+      "importance_score": 20
     },
     {
       "title": "米中露3首脳会談を世界はどう伝えた？「ヤルタ2.0」、欧州は蚊帳の外、冷遇された高市首相、報道をチェックする",
@@ -918,7 +1858,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iZWdIeUhzbDQ3ZnVKSmpoZW1BRkk0Sms1azBaYnZNd19wNDNUS21HekZNd1ZmbjRhdHhUc1loY1VoQ3JmY2FFMFBKNXRabXVtLWlxbVhyQTZMV1Q3Q3Uw?oc=5",
       "source": "JBpress",
       "language": "ja",
-      "importance_score": 23
+      "importance_score": 20
     },
     {
       "title": "FRBの利上げ確率は100％だが必ず悪い結果を招く。その理由とは",
@@ -928,7 +1868,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14WE94Z0FJN3oybnprb1I1MVRvN1puLXRPeUhHbHlpTGQwaEE1djZ0S0hkajhiUmQ0ZW45SG93QTlmOHVhRnllazZVd3ZqUQ?oc=5",
       "source": "バロンズ・ダイジェスト",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 19
     },
     {
       "title": "トランプ大統領、世界最低水準への利下げを要求 市場はFRBの12月利上げ確率9割超を織り込む",
@@ -938,7 +1878,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05bzdQQnpZUVZwNWs5WFVma1VxM1F4TEMzZXlfcHFUWG91a29HR0M3dE0zVnRLLV92ejc5MGpENlZXVEdTV21Cd0NxbzVvWERKSTR6dXFlVDRERS1NdzRFOUQyOE9ObUdJTTRlQV8zN1RsaFZR?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 19
     },
     {
       "title": "暗号資産上昇は5％のみ、米FRB利上げ懸念強まる",
@@ -948,7 +1888,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWjFfcW5jVzRTVTdNaXZlMUFsYVJ5WmpLWGhTUnJ5R2VmeW0yTTR5Q2tGUzJTTGhUb2FTRzlZWFh4Z3NRRWI1ellfMkxITFFXQkZGNHVtelo3YlZBNGhFOV9tTWNackE1YXAxT1hRaU4wY2JVSkwyT3A2amJxYzg?oc=5",
       "source": "BeInCrypto",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 19
     },
     {
       "title": "【展望】【展望】気候変動オペ見直しに映る日銀の「静かなQT」 ～脚注に込められた意図？",
@@ -958,7 +1898,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Cc0RZNlpJVDRkTjAzdTFha0ZWM3M2TmJ1TEc1aUJwUjFraEpCUG1hdVl0Nl9ieVRScVBzSlhNSXU2ek90TjFvdFZvQzhTRmdHQ0ppSWd2Qm9vdE1hajNKbmtLY2pES2pIOWc?oc=5",
       "source": "ニッキンONLINE",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 19
     },
     {
       "title": "米財務長官「FRBの過度な引き締めは政策ミス」…ウォール街の緊張高まる",
@@ -968,7 +1908,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZHotOFpoY0MzUFExQ25nOHl1LTZiX2JEcEd3WU5uYWdpWGphUHFZUk5vZDZ6Vl9FZk50WmhlR0ZsTkZ0a3FVdmJTYUFBa1ZFdlU2bnhOd1VfM2p2V0NnQnV5THFZVGdjQURmd3lvcDJCYVQ3?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 22
+      "importance_score": 19
     },
     {
       "title": "【焦点】米個人消費、インフレ加速でも底堅さ維持か－年末商戦控え",
@@ -978,7 +1918,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YSUZ3ZVNuZTFtS21Jb1U5X0h0cTFzbVhfSEpnQzAxazM4Nnd0amRuMTE5QTNzT2VSX0ViMmhsUmR4WEY3SGZlMjRoclpCU1RZcC1FbUd3N1FLRUdBMnhmNnJHQkstYjA?oc=5",
       "source": "TBS NEWS DIG",
       "language": "ja",
-      "importance_score": 21
+      "importance_score": 18
     },
     {
       "title": "【今週の注目材料】東京都区部消費者物価指数はしっかりとした伸びを期待",
@@ -988,7 +1928,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84ZnFKYXA1b2ZNUWhkSVhFSXpwaUJhZTZVc1NrTlBZaGlOVnBuX0ZtN1ZzR1VXV1l3ZVE4QUEzVjdxSFhka0dtZw?oc=5",
       "source": "みんかぶ FX/為替",
       "language": "ja",
-      "importance_score": 21
+      "importance_score": 18
     },
     {
       "title": "中国製Teslaの猛進で韓国の対中自動車貿易赤字が6兆ウォン迫る…過去最大",
@@ -998,7 +1938,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bHdnUTVTaXA1em5lWDJRdVlPWWRXMmZwRWlWX2VJQVZreUluNXljUFYyTVlQSmlEWDZ5Y3JDZ2ViREg0c2JTa2IyR0FCcjVhTlJNb1o2bGNVMWhjeWN2OEJYNll0OF9IOUZTelh3VnRpT3Zv?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "日中両国の経済・産業協力の課題と希望",
@@ -1008,7 +1948,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02UmlpZ1pPbDVVdTNSWGVnUG9EN2FEUzdISVRfMWdCbW9pMmtZQksxUVNnLUdreGFBclVfNzN1WVlrU0FIWGs1VWVRTQ?oc=5",
       "source": "中国経済新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "経済プラス：ターゲットは「キダルト」？ リカちゃん人形、米国に再進出",
@@ -1018,7 +1958,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNZFNOMDNDMFZiU2hGVDJ3WXJVX29ERkhhcUZYRGtibHpGekxjdGhqOTdJcjBEdUdraGE5Uk95RnZJM2FlNzJvUnZxNUlsUDEzVkRqdXJsMXhQd3JsYnFLOGxnSU1mQTZx?oc=5",
       "source": "毎日新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "日本経済新聞社、日経平均の基礎情報をSnowflakeマーケットプレイスで提供開始",
@@ -1028,7 +1968,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNTVkQTBxVlBWUWZKYnE5QmpQd3BBemxNbk5ObHRSalUwblBLQUg3eGdOOGgyVFFGdU0tS3dkd1RDVjJneTZJdXdIZWRJTUktSThob2Y2d3REeWlKUmQtZXh1STFKaFYwdEE?oc=5",
       "source": "Media Innovation",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "中国江蘇省、APEC地域との貿易が過去最高に",
@@ -1038,7 +1978,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81S3lsX1d0VXpqUS1CU0Y1d2xpMFFQendDZHZJcm5pYWNlUEdjQ2VCRTloellZVk15V1ZYYjVzRVprQXo4TS0tMXBPMHFoOUNMRUdjZWR6QXYyTF9xaERxX1hyWW5NWmdEaldvWl93?oc=5",
       "source": "au Webポータル",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "韓国、４年ぶりの対中国貿易黒字のパラドックス…半導体除けば赤字幅が拡大 : 経済",
@@ -1048,7 +1988,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjOVRuUm1YdWdLU2RFc0lteWNCa3d2TmhBeXBKSzkxZDZOZ1Z4YXJHUjd6aEJXYlZUUmEtVk9oSkNDMXFqMWFGM0tYTkFxblhqaHBtSDQ0a2kxdmN6?oc=5",
       "source": "ハンギョレ新聞",
       "language": "ja",
-      "importance_score": 16
+      "importance_score": 13
     },
     {
       "title": "14億人に家電や車の｢買い換え｣を迫る中国政府…巨額マネーで誘導する強引な\"消費振興策\"に｢ドーピング｣の声も",
@@ -1058,7 +1998,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNcXRtckFsNEE2b3ZpbUdRTUIzUnNNNndiSGRRcWVkRTJNWC1TN2lMemdGMV93M2NNT0pIcnMzVFJOckREOG5DNy11bnBUVS0zTXNZWVdEQURYX1k?oc=5",
       "source": "東洋経済オンライン",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "中国車39カ国で日本車超え、ドイツなどで販売数逆転 EVが切り崩し",
@@ -1068,7 +2008,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZbHJVRFJxMTEzXzNZWXEyV1VXc3BQczlHbGNFd2JXZlZTRWY3cGVWWDdjOGE1ZThiYTlMUjZTV0w2MWhfZkdCd2tNZC1scy0wbVQ0eUtZQ3dJaktuUjUyVXlZOFpnQ1l1UnBxbw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "［社説］南米との関係をさらに厚く",
@@ -1078,7 +2018,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTFJYMVkzN2FlWWpzSk94QWlRdVBnUEU4eldzRS1ydy1FUUk5X3RjRmpaSy1IdzZNOGt3bW9VNmhrX3VzLVZ5a1l0TXpNQm5XRWt3RlZtcHFBQzcycm0yUW9OUTNmVWJVVTVhaQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "［社説］ITインフラ障害に社会全体で備えよう",
@@ -1088,7 +2028,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUTB3VXoxNmk1eTVtenJpRnhKM01xb3NubzRrWlgxTjBoTlZBY25naEp1dFNLMkZpQnZEMmxRT2F1amJqQk9pLUJpdk0tV3RpNTVpeUNmS0ZCV0VlejVKS216WUprSWozcGp1UA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "ラグビー日本、スコットランドに5-67で大敗 ネーションズ選手権",
@@ -1098,7 +2038,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNGV3dmYzMlI2NEd4cmxCNkYwNF80WUdEWlAzQS1sNEtTeFo0Q1lDU2R4ZURfWTFlalVCbXp1bDM3MmN2MWlkOTk0bnpyZTlyejJUR0FBak1ZT2NJOXZ5bDFQWXcxQXlyUi1oZw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "中国、薬局彩る「ドンキ風」手書きポスター 広告規制くぐりぬけ？",
@@ -1108,7 +2048,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaVRNd1JMZWZaVk5pNDhVRG9xZVNmNENzRzgzWUhBVERSMUpURVZMQUhtWnVOcUZ4NFpjN1JmdHF4ajVzaXpEUHI3S0Zlem1GNlpRaE1qOThrSG9pNFoxdHhXTFl1TV90LWw4dA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "子どものメンタルヘルス支えるオーストラリアの教育",
@@ -1118,7 +2058,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZXRUWXYtTkZrOHhmTHFrZUg0Sl9vNkxBQTJDYXZQNUJtWXkxYU1VTWhmZ2U5bTFFMS0yVFhwdHotNkhjQzJ0VDRXRVVEeTNIMnBtZWpXc0FUVk9xZEszWXFQSHhJT0E4bzM3bw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "邸宅の贈り物 カンディハウス会長・藤田哲也",
@@ -1128,7 +2068,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaWFBVXRtSzdkYy1CamtFbTZ1WWtqdU1uLTI1V1BEZ3ZKakp5NEEzZzNFUE9CM1huWGVTcHZZZ3p6alo1S29KYU9WNDJxOVBQVjNNTDZwUlRmOXhZOVBERFYwMGlxRjFDSjJBMA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "コンサルからエンジニアまで 遊んで知る防災の仕事",
@@ -1138,7 +2078,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JcU5DUjl2MDFZUy1IdGY2aDBrU3dXdWJINlZCNFo5V0RpZFNxdVN3dWJ0RDBtRHFpWWlCYmU4S3REQUxYMHY2Z2pnSFI5RUt3SDROd21KTmhBRE05WTJTNDdfSm5XMTFoZVRxQw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "春秋（11月23日）首里城再建",
@@ -1148,7 +2088,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zT20wSjBFaVotWDI1djg5cG1FcU5RQnluTjYwV1gwVEd5a0pURWtfMnM1OWZVLUE5NU9aT1JmR1NNQzYwZDBEYkNQSGdtR0xYcVJtTjRnRVVHS2lVb0FPdGwyQWxzeG5KYWVqWQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
@@ -1158,7 +2098,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "公費が育てた医師、地域医療を支えぬ危機感 「直美」に財務省が一石",
@@ -1168,7 +2108,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SdEJfU3oxdE91Tkwxa2FYN2sweF9Rbm5yem9OUmR6WS1QSDVXNEF5SEZDcXc0cUpZNzNOV0s0c3JMYThQMkxSSFNJb0p4NGxxRGNiTmxNVWNEUlRpU2MwYkxua1FQSGZ0V0VlVw?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "最新ウォークマンは65万円、｢初代比20倍｣に映るソニーのブランド戦略",
@@ -1178,7 +2118,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kb0Q2YUdGZzdBOVV0bzhMTmQwSjluOFRsVkpHMFB0c2cxVlNINEN1R2Z3SUNtazlSMXdxSkhxU3NpdkZjTWVmcGhxZXNScjFNQ2JfUzhLTi1YX2xFU1VmdmREY01KUVVwbG5IUA?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "消費税減税、防衛費増と「トレードオフ」 成長投資は財源を先行確保",
@@ -1188,7 +2128,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTZmhzQk1uQWZsVWJmSTloZDFrd0RxY3FzdnRqZHRZWEVvNFRkR19ENUVjZUp4WWNMZ3JNUzhYSDFyWDM0VDVZeHh0RDIxWEZvU3d6QVZYM05YV0hxU2dNenNhSlRJbkIyVUg1Sg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "アンソロピックのClaude、日本の導入企業10倍に IPO資金でアジア開拓",
@@ -1198,7 +2138,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUUF3blJLNDBIR1VIVXhZRTNUc0E5ZnJvTGZiNzhKeW1vUHlrMkFFR2tsMGdVODRDUjhUejh0djNOcEFBZkZDbzh0QVBacjRzQklDSHVnNmpMbGhnNFV3dnVHU0N6RkpfdWhTeQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "重要鉱物の政府備蓄、放出額が尖閣危機の4倍超 中国規制で取り崩し",
@@ -1208,7 +2148,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4T0M1QmxWVUJTNzlBXzBLOUdrYk1KcHBaR1AxbWdmQ0I1d1c5TUtNV2piQXpqdU1tekdkUXRpdzJDQkFTbk1iaWN3VHRfTzRMNUhrckNxbmlXUmVmbzFtRHlBNndLaGFIakdiYg?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "不正アクセス、パッチ適用は数時間で ブレット・ゴールドスタイン氏",
@@ -1218,7 +2158,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UFZaRnJJNUdvRUY2eUptQzJya1RUX0s1bHRKXzNOSDNuSkVrUFJMVlRGeW5mWGRyZHN6VE02LUhGakR0YURCdmdnM0VoaVQ3NThSQV9xM2tvMzB4c1NHcEdfTVpGWmNvOTBfaQ?oc=5",
       "source": "日本経済新聞",
       "language": "ja",
-      "importance_score": 14
+      "importance_score": 11
     },
     {
       "title": "ロシア情報機関、ウクライナ出身ラッパー標的か…デンマーク、ロシア人へのビザ発給停止",
@@ -1228,7 +2168,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkpmTURGeUpRaWJQTm9URl9LcWFwa3FLeE02M2diOWxKcjdPTVV6WkFYYjB2TTYtT3FySS1pX1NyOGxBT2lwQ2dEdzJtUE1rYlN0enVHZ1VLMFVHZ3JNVHBfemNweHNXSVc3TWNMMUw1dXhYQjMyN2c5dnlraWstdmlVR1FGNmJ1?oc=5",
       "source": "조선일보",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "フィンランド湾でロシア商船にドローン攻撃、火災発生 フィンランド国防軍「ウクライナによる可能性高い」（FNNプライムオンライン）",
@@ -1238,7 +2178,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYVZvb1NNRjJWNmVPV0dtVGpIRlB4RjhfTV92YlVPYWtJWkU2RDZuZW9YZllTbFBja19xZDhtTHBaWFpCM2daazlRMlVBM2xZRDJjNEtOS3R6WkxSc3oxcWVCc3FaZUZQaEpDcVp3?oc=5",
       "source": "ｄメニューニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "習主席が高市総理に返した“一言” APECでの中国訪問で花束も演奏もなし…政府関係者「最低限の礼儀もない」 プーチン氏とは30分対話【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
@@ -1248,7 +2188,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeGR0VGctdWNwSHVZV2JqRWFCMXBDN3d1WmdiWTIyemo5aEdPcFJPVFAyMlM4a1ZoQ3JWbElFYXJla09NSWdSazJKRks1QVlyQUxMMjY1SzFCQllCYkNJYzBGcnNZNG1nY2lfc0lLcXZmZ2haVDNLclZyVm1TZTQ?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "習近平新時代の中国の特色ある社会主義思想海外研究国際フォーラム開催 中央宣伝部の李書磊部長が基調演説",
@@ -1258,7 +2198,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRDdIMTE0LXFTbDVOQnk0UXkwQ0F6R2JZazdfVWlGYUhSZ0tRQm50elg4RmRnOUVudTFxZUpkZ1Bqc21id0pVSGg4TXA4aTZVdUE4SmxRR1dYMmVjbTh2WG1yUkxkUQ?oc=5",
       "source": "CGTN Japanese",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "中国の優秀な卒業生はテック系や金融分野ではなく、製造業やエネルギー分野を選ぶ",
@@ -1268,7 +2208,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2JQME1wVklOdVBHTHpZdXg2X2NqaU9TWGxoYVVveUROLUNCZk9BZ1c1aUh2bkcxeF9tc3dqWV9fWXRnSExteWZNN2lkaDV4Vjl2cGdKWktoeFd5M3JaQ0pDWE91SEU3N3BvbGlXMER4ekVYb0R4OHlwRWNtakNjWUpBcw?oc=5",
       "source": "Gizmodo",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "米国に押し寄せた民主党勝利の「青い波」 物価高は分断を超えたのか [アメリカ中間選挙]",
@@ -1278,7 +2218,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNFBrejNYZmo4QUUwRWwxbS1FUUEwdkJFTHZ5S1p4ZGItOHBKRmFUcGkzWm5fQ0ZDdEdLRmNBTGszQmlqNnlKRlJNeFFQa0x3dk5LQ2FoS2FWRzlYOW9vT0dJcTRJaUE?oc=5",
       "source": "朝日新聞",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "民主主義支える「当選請負人」 国際通年企画「はたらく世界地図」米国編 選挙コンサルタント、動く巨額資金",
@@ -1288,7 +2228,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkRGlhc1ZzTGRfZWE2cnNCbDRoNzVIZm5sX3NWZkVCNzdwOHJZVUNCWmxnOVJvWjZON3ZJeFhEQjVIODNBeHA4dTJjUQ?oc=5",
       "source": "47NEWS",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "ロシア大統領「集団防衛」容認か",
@@ -1298,7 +2238,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWnpnM1E2NnRLSDNXMlBtMHktbUZJN0FRLTN4cEJsZG53b3dUUzh2c05JaW5rTnRyV0NMdkNPMWFTMWNNeU1wOVdwQy1vNmJ2eUg0Z1d5VGVsVXM?oc=5",
       "source": "下野新聞社",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "バルト海から地中海まで…ウクライナのドローンが猛攻",
@@ -1308,7 +2248,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUlOQWVzSmFiaWlqSWwwRXBvNHRpZzVxUzBSZXFWaTZPTldJU3d6TFVaR2RvTzBfYVI3UEJJQnRlTDBQZ0VjMGUwdmxKSlc1TmhEOXVtZG9qS3pPbEpEWExINUFqVnpHYVBjQXNIelhhY2U3WW40X0tOeVhTT2U1MWVtT1ZxU2xF?oc=5",
       "source": "조선일보",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "リビアの港に停泊中のロシア軍艦で爆発…ウクライナのドローン攻撃の可能性",
@@ -1318,7 +2258,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84RkxuajZ1OVdWdmV6czloWV9Qbjh2Z3V1Qk9iZmVsSlBwS2tqZFZ2enJxNWphR3FZbC10bmxEbWxpVjNnUGlpZGlHNW1xNU1PUlBuNVlFR1doSklhNnk5eXlDSlQ3XzTSAWxBVV95cUxNcVlQblVqVE1MS0Z4MmJGRjJFTVEyZEdzWk00MjJHcTVja2ZkQTBkZmcwb2J2Q2Q3cC1tNC1sMzB4VEJwTTF0NHpWMWF3cGRLNFZ6Y1MxcFktbTBEdlBHcnBMSEd3LXk0MEpkeGk?oc=5",
       "source": "Infoseek",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "ロシアのプーチン大統領＝6日、モスクワ（Sputnik／Vyacheslav Prokofyev提供・AP＝共同） - ロシア大統領「集団防衛」容認か 欧米の軍駐留なしが条件と米紙 - 写真・画像(1/1)",
@@ -1328,7 +2268,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aTHBRcVVVMVFxYWI3bWhXSTBUMmh4RGp4VUxEcVRHRjZYN1ZIdHpYWnIzbTZTWDNBOVo0TEV5R1REM0lwWDE1NXhXZ0NodTEtd0QwWDYzRQ?oc=5",
       "source": "西日本新聞me",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "ロシア大統領「集団防衛」容認か",
@@ -1338,7 +2278,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVXprWDdKOFNzYi1mSHZjd3I2N2FBN01tcVhUSFhJaU8xd1MxdURJeWZWd1RaN0hkS2dfeWxJVTV4Yk5QQ09FVzFyX0ZMYlExVDVobzg0QQ?oc=5",
       "source": "埼玉新聞",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "ロシア大統領「集団防衛」容認か 欧米の軍駐留なしが条件と米紙",
@@ -1348,7 +2288,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBacm9kRmNrSEwxU0JidEh1SWg3c1FQSEozSHVmVnhQT3VmNHpDNTMxZWJ0U3lLSmhfUDVaTmM3R1F3eE5GNnNmbVZIOVZZUlhNbnh0UkZwLVZUYzZxZU9OY3lUY2R2Y0lnd0RPQWVn?oc=5",
       "source": "au Webポータル",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "韓国は関税が低い…シェア拡大する「中国製格安電気自動車」（中央日報日本語版）",
@@ -1358,7 +2298,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNjRBWDFKQlkwRDlXaHZrbkQtN1ZwMGVtblVFbTR4ZTZkREZfTmc2N2x1d2hiNF96LXpjTmt4NE1LSmxxT2JUc1RlTy11MVNNd0pKNUwwUmNpYzZNcnFDSmZUQ2N5d3J3TFQ5RV9GOVhIcFhHNW5WSEl1MFFlVVk?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "米中露の歴史的会談で「世界の中心にいる中国」を演出 習主席が主導権握る“したたか外交”",
@@ -1368,7 +2308,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNThvM0dCNzc1TkZWSVpVQ0dkSlc4Vi1RVDZxODdEVWZYeWo3UmVBakcyaWphZ3k1dVVyT0ZNaVBtNnIxMjBRdmZfcURtbnVnWURXRXpiWC1NOXBLOTJvWEJhdk1weXZid3RVckJPakZCRUphZ2l4T2JIcHVFSzA?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "プーチン政権の「記念碑」の橋、修復作業は長期化か…ウクライナ攻撃で一部崩落・ロシア軍の補給混乱",
@@ -1378,7 +2318,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vcUp5Yjc5ZllvTldhUDlGMmFPdGQxb0VOano4b1dkbklYN0pzSVZDOFJUTVVFcThhSm01cElkZk1KaFRnRXRoVmZENUt6YjNSTXZQbkxsdzdBQkh5ZTJhczBB?oc=5",
       "source": "読売新聞",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "露プーチン大統領が集団防衛容認か ウクライナ領内への欧米軍駐留なし条件 米紙報道",
@@ -1388,7 +2328,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMjBiYkpRb21xcE1KS0M2cWZmZkJPMENZenpTbFdlblUtQ3FKbmZJaXRiNEFmbUxqMWo4TUxWOW5ncEtORm1PWGFTMWgtS19wdzZoU25jVTV2amM2S3lBOVlBWkNuQjNYdVlwelNhdlZ3MDItMFE?oc=5",
       "source": "産経ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "なぜ今？ プーチン大統領がJTを“狙い撃ち”…株価は2営業日連続ストップ安に 専門家が語る「買い時」は（デイリー新潮）",
@@ -1398,7 +2338,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnOHFzQUpPSHJUTkpRODd5UGRPRzQwMXROX3h3eS1tbElER2R5eFNZUV9BT3h5ZkxGV1ZDQzE3em8xWm5lZEZEZTdhSk9BN1NtMjVxTkdnYnU3SzM5dUlJQnJaZVh5NWEyeGVYZ2otSGZoYWc5dDVYX0ZyTE9Bd3c?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局",
@@ -1408,7 +2348,7 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HTDJmM3FTLWV4M3AxYzBpbEF2emFORUhNOXZxOUNPNWUyVE9DajBQdWoxQzU5SmVQSXR5UW15U0FQTUxMS2pNRE1zb21zZEVtallv?oc=5",
       "source": "CNN",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "ロシア貨物船に無人機攻撃、ウクライナ関与か フィンランド領海で火災",
@@ -1418,7 +2358,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDZlamRvbXJrZGR5cU00MEphNEVSYThKMEdDYXNwbjIwUUtmYlVJRGFIY3FMR09KZnN0dkFnaXFvUzQtOUNCYm0wNF9nV2FidEZSS0lwWkhFc092azVfLS0tdmlpMi1GMlFwNjR2OWQwUmJWcm1HYm5TOHg3Wm9PSlFnUXoydw?oc=5",
       "source": "Reuters",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
     },
     {
       "title": "フィンランド沖でロシアの貨物船が炎上 ドローン攻撃により 軍は「ウクライナが背後にいる」可能性指摘 貨物船には武器積載か",
@@ -1428,7 +2368,17 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05dUR2bU5EczZyV0EyRmN6R1I5SnNkUXF3QTdOb2xQUHV3UV9KWkxWc3ZLOE1yMjViRFhJY0lxdGJ6ZDM5d1JrX2FiOGZuR2hDLVl2RF9ON3YyVHVySGdwclJaTnRnTE9MdEdseDRuOU5kOEFsUVFnRWgwMXhycVE?oc=5",
       "source": "Yahoo!ニュース",
       "language": "ja",
-      "importance_score": 13
+      "importance_score": 10
+    },
+    {
+      "title": "「高市首相が冷遇された」は騒ぎすぎ？ 「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘（J-CASTニュース）",
+      "category": "中国",
+      "date": "2026-11-22",
+      "summary": "「高市首相が冷遇された」は騒ぎすぎ？ 「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘（J-CASTニュース） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOd0dDZGc1NGRabVhNZnJmMDZ2RXp6VTh3d0VTVHJKSVFXdVNtV2lfdzFlQnN1VGpxc2JxWjNSRF8tb3A2R0NvT1N6Q3B6aTNxTTBJdzZmSHMyQllaS09HZnc0SnQ1RUtDWHBGaDI4UWU4OUZkU21qbHdwdF9IVjg?oc=5",
+      "source": "Yahoo!ニュース",
+      "language": "ja",
+      "importance_score": 10
     },
     {
       "title": "豪ドル/円 見通し「10カ月ぶり安値へ下落...利上げ終了の見方強まる中、10月CPIに注目」注目の高金利通貨 11月22日号",
@@ -1881,16 +2831,6 @@
       "importance_score": 10
     },
     {
-      "title": "「高市首相が冷遇された」は騒ぎすぎ？ 「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘（J-CASTニュース）",
-      "category": "中国",
-      "date": "2026-11-21",
-      "summary": "「高市首相が冷遇された」は騒ぎすぎ？ 「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘（J-CASTニュース） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOd0dDZGc1NGRabVhNZnJmMDZ2RXp6VTh3d0VTVHJKSVFXdVNtV2lfdzFlQnN1VGpxc2JxWjNSRF8tb3A2R0NvT1N6Q3B6aTNxTTBJdzZmSHMyQllaS09HZnc0SnQ1RUtDWHBGaDI4UWU4OUZkU21qbHdwdF9IVjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 10
-    },
-    {
       "title": "中国の「シンガポール・ウォッシング」が揺るがす中立国家の信用（ニューズウィーク日本版）",
       "category": "中国",
       "date": "2026-11-21",
@@ -2059,968 +2999,18 @@
       "source": "BigGo ファイナンス",
       "language": "ja",
       "importance_score": 10
-    },
-    {
-      "title": "トランプ米大統領、FBIデータベース侵害の懸念を一蹴 選挙不正の「発見」に期待感",
-      "category": "アメリカ",
-      "date": "2026-11-21",
-      "summary": "トランプ米大統領、FBIデータベース侵害の懸念を一蹴 選挙不正の「発見」に期待感 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMUx3dHRtWXJVb3ZqZG04WldqblYweVlYdDk0YzRTaGxnZklHeHQtV3RfTHc5VENXUklYM0Z5NF9BNUJudUcwU29sc19UeWl0cXBZYlFfTk9hN1l6OVYxVmFmNG8yTFMyVUZEZmd0b0JQN3BX?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 10
-    },
-    {
-      "title": "米国で高まる超富裕層への課税強化論…中間選挙で示された「富の偏在」への国民の不満【国際税理士が解説】",
-      "category": "アメリカ",
-      "date": "2026-11-21",
-      "summary": "米国で高まる超富裕層への課税強化論…中間選挙で示された「富の偏在」への国民の不満【国際税理士が解説】 ゴールドオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hYkV1NnVoMTV1N2R1aXNxUDNnWi1GcFNTWjRhanJ2YUdVS0R2NHFLRkJ0N1dWR3otME1COGx2Zzd1MGNzNk9WZ1VSbEoyTmJFSWc?oc=5",
-      "source": "ゴールドオンライン",
-      "language": "ja",
-      "importance_score": 10
-    },
-    {
-      "title": "関税問題への懸念が緩和されるにつれ、米国からの銅の流れは中国へとシフトし始めている。",
-      "category": "アメリカ",
-      "date": "2026-11-21",
-      "summary": "関税問題への懸念が緩和されるにつれ、米国からの銅の流れは中国へとシフトし始めている。 Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2NudURSWWloTm5tVmhhN0UybTFyZGJselZLUklReE00XzRqT3M4aHdTa3A2VF9Va25FLWdIMjh2VWg1Vl90bEtBSl8tYUcxQlZVaWZybjlCUC0zVzR0SDhXYzlCQTlIYWZlX1AxX2I3dHNOWWowc1J1aTJlZTBuenY4XzFHTjBSeXM1NURyMjV1Z1VNLUllYmhsTHhYYnk5dmxDMF9ZSVo1OVFCcFE?oc=5",
-      "source": "Vietnam.vn",
-      "language": "ja",
-      "importance_score": 10
-    },
-    {
-      "title": "トランプ敗北で日本の「給料」と「物価」はどうなる…専門家が警告する家計へのダブルパンチ（週刊女性PRIME）",
-      "category": "日本",
-      "date": "2026-11-21",
-      "summary": "トランプ敗北で日本の「給料」と「物価」はどうなる…専門家が警告する家計へのダブルパンチ（週刊女性PRIME） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUVpqa3R2c0lvU1NLdUlHQXZjV0NsRWtIUkRrU3p3dl9yLW4wbURzbkk3eGxCVV9kd1psTzEtQ1NyQ0NtaE93Y0lLTHZtbDdfd096NzVwbWJzckR3QkszMWJXMU9BcVlQZElwVE5zbW5ZNG43VW0xR3VnY0kwVWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 10
-    },
-    {
-      "title": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目 https://kabu-ir.com/",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "source": "https://kabu-ir.com/",
-      "language": "ja",
-      "importance_score": 34
-    },
-    {
-      "title": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 34
-    },
-    {
-      "title": "インフレ抑制へ追加利上げ必要＝米フィラデルフィア連銀総裁",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "インフレ抑制へ追加利上げ必要＝米フィラデルフィア連銀総裁 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNlJwRkFIQmVGTWRDc0FWNnZfYUFGRUhYclJvblVqdzVwdk1rcDVjRFBQVXVNWmMtdk10LVE2Ni01UnJHaE50YWVzR2dmOTVoRzdtVUc1Snp4LXUtNXpmOHJqTWlLYnFxZDdTcmZYV3FkdE10Mzg3dWZGeVVJLU0?oc=5",
-      "source": "Reuters",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "FRB副議長ジェファーソン氏：AIインフラ熱潮は短期的にインフレを押し上げ、生産性の恩恵は先送り BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1ODBldElfQW03VkVkQkRMU01nNHlwZFd5SWZrcEtjMnFHZUVISVR5WXFJU2tkb0RKdXp4WTIyNmNVZTJlOVNNX3lMdmUtdDZ3bEt4RGVHYmxWT2pXZFJEbDlrVXgxeEVDb3JOUE9kcVpTMUtF?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "25日の米PCE、FRBの利上げ占う 円安に傾けば再び介入の議論も",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "25日の米PCE、FRBの利上げ占う 円安に傾けば再び介入の議論も 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfcUI0SjZwS09YNFFjRGZkUHY5ZnpUeUFFVm5HdjZPOWdQeERDXzl1aFF2ZzFpOHhaSTNMUnkzM2NDaEVzRk9IRUxSLTJYSlhBdllwN21BNXo0OWFfZTFSc0tBc0JvelpOdXdwaHJ6b3M2S0JPQWpIYllGeW5rZw?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "高インフレ抑制に追加利上げ必要、現行の金利水準は不十分＝クックＦＲＢ理事（ロイター）",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "高インフレ抑制に追加利上げ必要、現行の金利水準は不十分＝クックＦＲＢ理事（ロイター） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NRnBGMndKMTZyMVh1VnQ3c0FWNEVfenRUdExQWkZyMWNod29VRmlUWEJ5eE1pb2hjMXhiVDZleDlfbjFSN3Ria2FyMW9jbUJOOURmdjJxeDh5eXdhQ05zVTdYOWQ2by0tNFNsVmpYdU16WUdObEZXazlwOUprMkE?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "FRB理事クック氏が警告：利上げ先送りなら情勢に後れ、インフレは5年半超も目標超過",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "FRB理事クック氏が警告：利上げ先送りなら情勢に後れ、インフレは5年半超も目標超過 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94RUJraF9RNGttbEZ5SHc1SEpqa2FIa3d0c1EwSU9GYnRvVVc3d215YVBNOW16QXlrRFF0YmFXVFVGckxUeWxSNWlxSFFWVkFEQ1ZrN3BkcmY2NUxxSm9nMU54bjFyY2dyd2I0cDVhQVZiY3c5?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "FRB理事クック氏、異例の反対票を擁護 「3.75〜4%ではインフレ抑制に不十分」",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "FRB理事クック氏、異例の反対票を擁護 「3.75〜4%ではインフレ抑制に不十分」 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMzF3M2Jna2htTDFlakIzRjBWczJkLTVKSEt5SWhVVjMwQnlHSUJsODdmY0paNmgyem1rRnBtR2IxN2xUdlZBNTRsZmJiNmFKcnVtaVhVZ2o1ZWw0YmV2MGxVOHhPa3VoRFgzMDRQdERVWE5N?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "米FRBのクック理事、インフレ高止まりで「待つ余裕はない」と利上げ主張",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "米FRBのクック理事、インフレ高止まりで「待つ余裕はない」と利上げ主張 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYODNPNHl3SXFxOFRZeUVoUTdZYjdJU3kwX3dPcHVRQzNwZkxpWVY5Nkx2VGk0T29tcVBrWmh5V2l2LVJIZ3V2LVpEem1tdS1VMkxlSFJCX0lmdFFvZGJ6bTBrUzZ0VjFSYkwxYXNWNjEwZ3hC?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "米CPI下振れはインフレ率の減速見通しを裏付け 野村は2027年末まで米利上げはないと予想 米国野村證券・雨宮愛知",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "米CPI下振れはインフレ率の減速見通しを裏付け 野村は2027年末まで米利上げはないと予想 米国野村證券・雨宮愛知 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3NTgwRjNEam02SXdfcXVXV01Rb3VuNHIyb01SbUNXYkhPSm0zT1V5WmtlbGlGc3BUaHVMVDhPenllNG1odlN0b25KZUlyOEpOMnpTek9ZSlNzNjRKemZZ?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "FOMCは金利据え置き、12月に追加利上げか 雇用とインフレで利上げリスク続く 野村證券・小清水直和",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "FOMCは金利据え置き、12月に追加利上げか 雇用とインフレで利上げリスク続く 野村證券・小清水直和 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGaklTdm93Vk5YZHpOMVBkeDZ1VmFuRnN6QlhXZWpjTXlieU5kSUMxX1NKOGVJa3pNTXgtM0pXaG5yMXc5ODB0WE9QVWpDd2xQNE1qWE1jMi1XbFdzQUVz?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "米イランが戦闘終結で合意 市場の焦点は米インフレ圧力と利上げのリスクへ 野村證券・小清水直和",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "米イランが戦闘終結で合意 市場の焦点は米インフレ圧力と利上げのリスクへ 野村證券・小清水直和 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mb3czUlBPZlI4dU43ZHRTaFYwemZTa2FJQlUxa05NRDAwVFJrZFJ0NlY3SEhwTFBJT2pUT0ZaQ3RucnpTS3VYdWUzWGZieXNtWHd5WTJXbDdPR0VFaGtZ?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "日銀、基調インフレ2%到達と判断 野村證券は12月追加利上げのメインシナリオ維持 野村證券・森田京平",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀、基調インフレ2%到達と判断 野村證券は12月追加利上げのメインシナリオ維持 野村證券・森田京平 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QWF9CWlVUME14Z3VLNmtJOHRoVkQ1c3RtSEtpQ3ppQzRqMDlFQUN3VFQwYmVyenZzWWxZaV9KZkVfMnRKS2tXV0FwZFdsdmVTNmVlclNhTXZMTW5XTFhr?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 27
-    },
-    {
-      "title": "AI関連株の下落は止まらないのか？大川智宏氏がFRBの金融政策と今後の米国株・日本株・ドル円見通しを解説 2026年11月20日",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "AI関連株の下落は止まらないのか？大川智宏氏がFRBの金融政策と今後の米国株・日本株・ドル円見通しを解説 2026年11月20日 外為どっとコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhZjFjbEpvTHVxenlVMzk3WDhnZnJWcElzLUJNOE5XbU8xWVZjdzN1TU93dDRtRkJhQkc4SmF1S292ZGdNczdpWnpNa2hucmgxaTVuMmJiSnBPS2ZwVFBtalFKSQ?oc=5",
-      "source": "外為どっとコム",
-      "language": "ja",
-      "importance_score": 26
-    },
-    {
-      "title": "急激な円高の背景と今後の見通し 米利上げで155円台回復、原油価格下落で150円割れの可能性も 野村證券・後藤祐二朗",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "急激な円高の背景と今後の見通し 米利上げで155円台回復、原油価格下落で150円割れの可能性も 野村證券・後藤祐二朗 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FekQ1UDVsRW9oR255UFdOS1ZiTGVtT01xeGtLck9HclZjaWNXbERGUVE1RktOOGpfLWpLNzVGTEhWSWo1VTR4TEIwTHJPV1p2RF9md1BLYVFuYXFla3d3?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 26
-    },
-    {
-      "title": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRmdVMnUxSVFUSEgwTlRScllIaHVveXhEQ09rVmpzQlg2X2JCRlFEY090ZXk2ZktQbUlIWXJvcHNpbGRGdGx4TTQ3V3FFcHNEd25xMllxblVadXpGV0pz?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 26
-    },
-    {
-      "title": "日米協調為替介入で円安是正は新局面入り 日銀利上げ圧力が高まる可能性 野村證券・後藤祐二朗",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日米協調為替介入で円安是正は新局面入り 日銀利上げ圧力が高まる可能性 野村證券・後藤祐二朗 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4S1B6OG5Wb0M1dlUyWElHUGZvZ0dxTXRibWlSaHJlY19fckxNRUJSWTk2TmFaZXBfREt5SlRwSkd1cTM4VHdUQUZOYmlwcEUyTHpjbnk1MVhhU0hCQW1F?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 26
-    },
-    {
-      "title": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター）",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議（ロイター） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tLVpVanRTS1N5aWl2TjhRRWJESVJzTmJQcnBzM0EzTVZnUHJnUW9XTkpYU2Z6UTVwRlZVbVVaOE9HOFZ6ME1rU1VGZ0tRak9JOEJ0dWZYbG1zUGhQTkxMX00wSENqUVZIcUFuM3dFcDhKMkJ1cU03NW01UFFaZlE?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 23
-    },
-    {
-      "title": "高橋洋一・政治経済ホントのところ【米中ロ首脳会談】自分勝手な国際秩序｜政治｜石川のニュース",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "高橋洋一・政治経済ホントのところ【米中ロ首脳会談】自分勝手な国際秩序｜政治｜石川のニュース 北國新聞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMYThyNFFEZVl3dzdtR3dmOW9SS0J0NFV1bTNvanhITk1BM0haNlpZTkI5WXlQTnZTQklvWWpYTHR6c2tKdGpKZDB4X2hrS19wWUxqQkJ4TQ?oc=5",
-      "source": "北國新聞",
-      "language": "ja",
-      "importance_score": 23
-    },
-    {
-      "title": "米国「1強」時代に終わり告げた米中露首脳会談 日本は「防衛国債」発行を解禁せよ 田村秀男の経済正解",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "米国「1強」時代に終わり告げた米中露首脳会談 日本は「防衛国債」発行を解禁せよ 田村秀男の経済正解 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80OFJMM0tWRHFlV28xZXlrSEk0Q21PUHFfVXlVRTJJNXRBdlQ4VWFLWEZjNEpaWkJ6RGctUFNVd1NxdVl5WWR1WmlCWWdzSk1XZlpmM2w0UFZBOWtCZkN1YnJIM2VtQlhWUFNPZ2pFQzlSbHExZGc?oc=5",
-      "source": "産経ニュース",
-      "language": "ja",
-      "importance_score": 23
-    },
-    {
-      "title": "東京短資、経済セミナー開催 内外経済や金融政策の行方展望",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "東京短資、経済セミナー開催 内外経済や金融政策の行方展望 ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5raXJOaFRKZGNDalN5Tk5ZOUpvQ2RMcDZkNzRRVjNFMXpDbncydVcxQzhMUzlRbkhlam9pMHlGYkJZVkV3dDJLMnV4RldjR1ZEc2kybUNB?oc=5",
-      "source": "ニッキンONLINE",
-      "language": "ja",
-      "importance_score": 22
-    },
-    {
-      "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
-      "category": "ロシア",
-      "date": "2026-11-20",
-      "summary": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 21
-    },
-    {
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き）",
-      "category": "ウクライナ",
-      "date": "2026-11-20",
-      "summary": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き） NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14UVFVTXk0NUl0cTRXbTdwSVk1MW1vS3hiZU84U0tnSjR2VUFDc0NDMW05bTF5a0NyZXZ6WHV0NzNxVUt4TXBuRThIaUo0VDhsaGROZVZzM1ZjTTVvVExn?oc=5",
-      "source": "NHKニュース",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "トランプ政権,習近平の中国,ウクライナ侵攻：戦争中に「平和宣言」出す不遜 4項目に透ける米中露の身勝手",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "トランプ政権,習近平の中国,ウクライナ侵攻：戦争中に「平和宣言」出す不遜 4項目に透ける米中露の身勝手 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kS1dYOFpkb2lUMmNUZ3g5VzE2T2R5T2pYazlpUG9SRlRkVlpDa1hpdzNpNlhaTFlWRENZM24wVkU1VThpQ210UWhTY2F2YlRRWm1rM002Z2lSUXE0T0lBZG8zUXpNbTFJ?oc=5",
-      "source": "毎日新聞",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "中国主席、豪州との関係「全面的に好転」 首脳会談で評価",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "中国主席、豪州との関係「全面的に好転」 首脳会談で評価 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQW9BVjJWOWx3Um4tVHRBNHB5aUh5OHJIR0MweWtYc3lhZllmYnFQRFFKZFVYT3VyTEppLUJBZ1F0ZHA2RnQtM1FRUU1RUjFFYkdHU2Jsamw3S2V3dkpHSHQwUVpMeGlITDNiaU1sM1ZHcmRleVpqUWpIMkgtTUtNZzF0MA?oc=5",
-      "source": "Reuters",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "プーチン外交の限界浮き彫り 米中ロ首脳会談",
-      "category": "ロシア",
-      "date": "2026-11-20",
-      "summary": "プーチン外交の限界浮き彫り 米中ロ首脳会談 WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJjX2RQYmx5X2QtTU5mejRfaXRuMm5OREFVaW5UTFNlazJmX29ZQzN4TzNvaWVQdWxkRFdyaXQwUDBPUkpWRnNYMmczUEl1dDVJdVNmVmJLckNqTTZvbXIxdEMweF9kTzVTVXZjdDR1Q01VZ25DeXl0R3MzOHUyUzROR20taGFueTFrYU4zeGZfazBtMmhIeTFBczkzZDU3SEZVZGRNVQ?oc=5",
-      "source": "WSJ",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "ポーランド首相、ロシア軍のミサイル落はウクライナ支援国の軍事演習場付近に落下したと報告 「意図的な挑発だ」",
-      "category": "ウクライナ",
-      "date": "2026-11-20",
-      "summary": "ポーランド首相、ロシア軍のミサイル落はウクライナ支援国の軍事演習場付近に落下したと報告 「意図的な挑発だ」 ウクルインフォルム通信",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHpPVXBSTFpUXzluZUFmZjFXcUtVcHZQZ3V0eklNQjhPXzRydTlBc2oyZDZ2bXI2ZmVHUFhBYUN3R0pkZmtSVFlfQUh0VXZsRzhURW1IYlBGTnJaUlBBbE82N19jenBpVUZvVkxlZk8tNGtDbWdsWTFwbEYxMENQbEttRUcxdzlUa2pTWkhIQ3Q5dG95ejhYeDZLc1J1TktoNFpTY3pReENkUmF4T2xGQnZURDdzMVF2NzBqcThkS1pwT21PS08yOFJxTjJaSXRCbEJ3a0FLSzNHd3VSV28wM2FPbXFQVmpfS09YOER6aDFGU2hKdmx4RHJwWXVoY1phRzRFZnJKWV9PZVJFbHFrTEh2d0xEckdnMnZ1cmR30gGjAkFVX3lxTE9MVzRsNXJxcC1JVWpvNTRsVXo5V2I1ODNNUlFqV1lQTE11Q0dqZVhRd3FfNE5lbTYxbE9FTnN4RmM3eUxLN1BwbHNkbExZXzAxNzE3akd3VkxBNlBDWVhwQ1F2czA1MWViT200RHdHbkI2eHFoVXV5VXNrdXVOLTNBOFpTVzlnczFnR0xlVTBCSVFaa0YtQ0UyWDA2THRIWjA3eWxMUklLbU1BOUlTQ2pOQS1XZEdRVU5zYmVfRFdtbkg1NUtqLXFsR2gtUHdsVWM3SzE0eS1jMktNLTVHb09ZODRoa1FCdF9aXzdxZ01icTZMakQ1RkJKOU5yOW83bUR4a2xRX1BtaVRJT2JoLWhJeGVsbHJWdVVYV1BYZHd5d01Hbw?oc=5",
-      "source": "ウクルインフォルム通信",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "焦点：トランプ氏の個人外交に限界、3カ国首脳会談で浮き彫り（ロイター）",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "焦点：トランプ氏の個人外交に限界、3カ国首脳会談で浮き彫り（ロイター） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmYkZialdSUHY0NWN3bkdQM2ZzRjRFMFk5S1hCLXp0bWk1b3BqQVZxXzFZTWRMelFVWVJjUW0yV0NmaHlhaE9KT2ViM2M3SjczLU9VUFJLRUFVTW9zUU1SaWtpS1NFZkVjUDNHSlg5dUF2TlViMHNSay1lcnVjcVU?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "ロシア、キーウの3つの橋にミサイル攻撃 3人死亡",
-      "category": "ロシア",
-      "date": "2026-11-20",
-      "summary": "ロシア、キーウの3つの橋にミサイル攻撃 3人死亡 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3RST1UzV0xpR1BRai1wXzVORTRLbzJlaW9lOU5EQWF5OGtvVEN6eUhYZlZaVWF5bUVVZjBWS09vZnpUdjU2ZTktWlEyV1BESDVYRmhkWW50R1Q2VlpEamx4S1pDTXdqQjl3SktueUlJMno4YkhGal9pQ1hiN0RNWVFoSnotQQ?oc=5",
-      "source": "Reuters",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "3カ国首脳会談終えたプーチン氏、ウクライナに過去最大級の攻撃",
-      "category": "ロシア",
-      "date": "2026-11-20",
-      "summary": "3カ国首脳会談終えたプーチン氏、ウクライナに過去最大級の攻撃 Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZeDFsYzl0OUsyaWxKSVZOQmdORXp3eE1vYWk5UlJkOEVSOXhGYk5hNzlRZ2tVS2FLRUtmOGlueXJtMDhka2tjbjV3VmtRSW9DOGpoeU5VMlVEYm1iRW5vbndJb1BFV09CamJpUGhRbHlfZzM4MHVB?oc=5",
-      "source": "Bloomberg.com",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "日銀大阪支店、関西の11月景気判断据え置き 28カ月連続",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "日銀大阪支店、関西の11月景気判断据え置き 28カ月連続 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOWVZdy1tNWktcTczV3R4dWUtQ3lBVVFPUFZLTno4ZGpSTFpLSEM0a0hGUGE4dldEeklLbG1lcXU2bkJYc2o2c2JiRGFJa1puOXNqckg3a0xKTlhXZ1dwN2pNMk5XeWp0TWtRaQ?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "ポーランドにミサイル落下 ロシアのウクライナ攻撃で侵入（共同通信）",
-      "category": "ウクライナ",
-      "date": "2026-11-20",
-      "summary": "ポーランドにミサイル落下 ロシアのウクライナ攻撃で侵入（共同通信） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TY2xfblA3UzIxSjVXalFuQ01oRTNTaHFTRklzV3BkWGpjRjB3YWthLTd5STBWdmhvMzJ1S2xxU3BtdklLZFp2UnVrWk5ncjNaNmNtOWk5ZG5uSEdoaXZ5Z3huVnA1eno4NlQ5a2J0TFVDMFhKT2hQaVZNMklRRlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "「政権は銃口から生まれる」の思想を継ぐ習近平の軍拡、高市首相は冷遇、米中ロ首脳会談でも歯止めかからず 【舛添直言】選挙で大敗し外交的成果を欲するトランプと、米中と同格と誇示したいプーチンを従え、世界の中心に立った習近平(3/3)",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "「政権は銃口から生まれる」の思想を継ぐ習近平の軍拡、高市首相は冷遇、米中ロ首脳会談でも歯止めかからず 【舛添直言】選挙で大敗し外交的成果を欲するトランプと、米中と同格と誇示したいプーチンを従え、世界の中心に立った習近平(3/3) JBpress",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBneWFpR3VNZlZTMmVZSjZPQUt4RXlVVjFNWWN3S0NHSjQycFdnSUFzcGtmVW5jcTZCckJuOExFMFpQejBZdnh5c1NmX2VBc0E4ZjBfdDVzVmdvazNxckg4?oc=5",
-      "source": "JBpress",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "ウクライナ、ロシアの弾道ミサイル発射装置を破壊し、巡航ミサイル79発を迎撃。",
-      "category": "ウクライナ",
-      "date": "2026-11-20",
-      "summary": "ウクライナ、ロシアの弾道ミサイル発射装置を破壊し、巡航ミサイル79発を迎撃。 Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFJROTY0cklRVE5DZzJ5SmpYUHFUTUZNNVkwNjVoUWdibmlSQU5FMmdSZjBWeEJab3J5MDd3UjF3S0Y3aEdFdjdRVWVnYnFwR0JCRnBBVm5xNFV0YzZCUUMtdTJOajB1NEFzRU9zTExMVmxhZkY5QUdsRnl6VS16Z050T0dpQ2JLa3RaR2JlUXpfYzdjY181cXM3c2NNVUw5RENpYg?oc=5",
-      "source": "Vietnam.vn",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdUpKY2tHOVlvaVpqbk9UY0gzQ1U1NGdNQ2dnTXpWQTZ2SktTS1JxcFZkVHdkemJEMXRXamx6dENCZS10cjZHaDZnMlEzOHVMaE5pOTNEcjN1UFhiVXNv?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "原油価格上昇と米国経済 エネルギーショックへの耐性は十分にある 米国野村證券・雨宮愛知",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "原油価格上昇と米国経済 エネルギーショックへの耐性は十分にある 米国野村證券・雨宮愛知 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WYWxQdUhmbWRtaGFoYkxwejUwd1RUeGxNWFh5TzN2VURWdUZCZzFrMkhNNFVLYkROYkUxTHVvS0pZcUltazBWTnh1U1BBR2RRaXZnVkpUYVU3Z2pDcDZB?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（遠藤誉） - エキスパート",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（遠藤誉） - エキスパート Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk4zRng5VUFyVlZ0cmM3a2lLWEY2YkF2SmF0cXVfdW9CczlzaEdnNnI0NEltQUJZcUR3QmIzV1BCMDlsTFhFTk5zTFh6ckxVRlcyS09ucG53YUVCaV92V1FSSmtBbHlNenVrMUtTdmZjbHlRRno4cGFXenhZdExjc3hjUHk5X3pG?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 20
-    },
-    {
-      "title": "日銀タカ派が示す「政策金利2％」の意義／欧米の12月利上げは確実になるか",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀タカ派が示す「政策金利2％」の意義／欧米の12月利上げは確実になるか 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BYjk0SmF6aDR2b2NIc3lNekwzQ3dTVGRNcXQzYVVsM1FTY0NXWUVMTXZBUGszckRfV29yUy1ncXpaUFhvSXI5YVZtS1BkTXFYbzRLNE5sdVdIaDEyMGR0NGM0VU5Dc1U?oc=5",
-      "source": "日経ビジネス電子版",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "ドル・円は159円台で底堅く、FRB高官タカ派発言で金利優位続く AI株安の円買いと綱引き",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル・円は159円台で底堅く、FRB高官タカ派発言で金利優位続く AI株安の円買いと綱引き BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GbGRyelFmYUpKbGR2M0NNcnhIN3JZdWt3cUlrVFljaEhGTEI4VUNpOVJOaDRhSXlLektmNXpLdFRUSGxlOE16QWR2OFh1bzdPTV9Xa2VuV2EtNTc2SUhKdVdwV2tZd2RtRUdpc2JFUEhNbjBC?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "FRBの12月会合接近、2027年の金利経路でウォール街の見方割れる",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "FRBの12月会合接近、2027年の金利経路でウォール街の見方割れる BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VRFI0NWsxRUx6d0tLUFJPVjJLOFhIaGs0UC1SclQ0Nno2Y2w1LWN3c1FhbVdRTTAyTmdaZlVrX2xLWllsRVRjMlVwbjY5cG11NTU4Xzc2WS0tYW9BckZKaW9XUXdKVklKQm5NTzU5cW9IM3kt?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "日銀の12月利上げはほぼ確実視 最終到達金利の見方割れで円売り圧力再燃の恐れ",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀の12月利上げはほぼ確実視 最終到達金利の見方割れで円売り圧力再燃の恐れ BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa2dZeUMtVW5jTlZPRGhjbU1QOW9sQ1dYekFZYkpmVDdvaW5kaGFERjdDckpVLUgxd1lKcUVaSlM4cnJPN3lYT1JOYWZVZ3lGckI4OENjakpkRUhmbUZONnZldHJVZFl5YmFEMmRrQTd1cUQy?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "日銀・利上げのロジック再考（NRI研究員の時事解説）",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀・利上げのロジック再考（NRI研究員の時事解説） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81c2tQaWVmbjRPWlZNcFkzckVaVE9zYVppS3k5alFKQ0cwWElNR2I1ZUFmb0FjQktnSUNETFJrRklONi14WkxqUUpCYmlFaEpIWWxjR0tBeE0yd3ItRWo5Tk9Nd1VINkdnTlY5ODQ5cHREMk50YjdBOW1KQUJ3N2M?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "米JPモルガン、FRBが3会合連続利上げで2027年3月に4.75%到達と予想",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "米JPモルガン、FRBが3会合連続利上げで2027年3月に4.75%到達と予想 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyejZKYWxIaGdHTjYxV2RzcHZPSFcybWFYeHNWRnVtdHRXTDhxM3M5dGlRV08tczNtNDJJdnhzbmkzUXI4ak1vUFRLT1RHMnppdkt5dThnVnJRVEoxcWZmTXctUTFMMkI3VllkajdyaFRLRXpW?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "消費者物価2.2%上昇、半導体インフレが波及 デジタル製品1割高",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "消費者物価2.2%上昇、半導体インフレが波及 デジタル製品1割高 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wVGEtVjBDeDNkYTFWWVRQZnVYUjNaTlg3WHk0dnltWnhINC00OFdOdjhjMU15M05lU3RzR1BZVGZaOTBFNEw5LTdCNEgtclV6QTdkTzVKRmVmVHBSanlLLTJjSVY5emwyWW1LVw?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "米国株は一段安の可能性、FRBの金融引き締めを米投資大手が警戒",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "米国株は一段安の可能性、FRBの金融引き締めを米投資大手が警戒 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMDdBdzdvSzF5ZFlIT2RaNmpUc1ViQTJJR3RzZjRJYlgxUmRwM2FzWTRsNld3b21MZ2t2ZXRkVjBxR3BubXQxM0xUNHFxY0pUSHkxRWp6WmlZOUhtbmtoWUkwbE1wOUl0cXROMEFFOTY?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "ベセント米財務長官、FRBの0.5%利上げに異論 「方針が揺れている」と牽制",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ベセント米財務長官、FRBの0.5%利上げに異論 「方針が揺れている」と牽制 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUdnZodmpyYjRZY0UxUTl4VlFXdzBGR1Y0NFp1MDltX00zLUlYYmxyZnNSU2YxbWF1a1U1QzVvOVh0ZWoxdDBUYWdQUXlhdWJBeklLT3dPbWpRX3JUUFpWaHdmalRJMVd2VlBVaG1DYjZoRzlQ?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "ベッセント米財務長官、FRBの0.5ポイント利上げに反対 ビットコインは6万ドル割れ",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ベッセント米財務長官、FRBの0.5ポイント利上げに反対 ビットコインは6万ドル割れ BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONTFUVEs1YUI2T1hISTRzNFNzT1ZCeU5aem9VbkRZcFJwTlpOVUNhVEtyaEVqVnVsbEhRYmlVY2sxYXZ2Y1J4S2YzVFo5OGZyTV9JV3lyRE5Vb2pYSV94OWdxMTkxZERsOW5QdGJLd0dPVlVQ?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "日本の10年国債金利、上昇局面終了の可能性 FRB利上げの効果確認で日銀の追随大幅利上げリスク後退 野村證券・宍戸知暁 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "日本の10年国債金利、上昇局面終了の可能性 FRB利上げの効果確認で日銀の追随大幅利上げリスク後退 野村證券・宍戸知暁 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMWEgxVk5faC1EYklKM1VHZVhSeFRwTUJkQjAwTm9wRzhHbHYxa3Q5Tm5WdTlJVEhJYndIT2M1TldvM0NRSVRnTzhNUFhKNk8tRWp2YlNlT3FBTUZ2UVB3?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "ウォーシュFRB議長の「レジームチェンジ」が市場に与える影響とは ジャクソンホール講演経て9月FOMCに注目 野村證券・小清水直和 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "ウォーシュFRB議長の「レジームチェンジ」が市場に与える影響とは ジャクソンホール講演経て9月FOMCに注目 野村證券・小清水直和 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRi1yazlwMlJRUjkySk5vZWRweThjN19XNnU1a1NleEgyM2NIa2c4N3V0cFo3SVFQVlR0VHBTMndkbWNGMjc3TjQ1Z181UU9NajJuSTNtQmNnUzlMVkQ4?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "日銀、予想通り利上げを決定 次の利上げは12月メイン、10月リスクシナリオに 野村證券・森田京平",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀、予想通り利上げを決定 次の利上げは12月メイン、10月リスクシナリオに 野村證券・森田京平 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ta3NxdUJxVDRhY2dnWHh3bExMNHg4QWhLQjZQYVVvci1vNVg4X2VCSXZpa3FLbm51eXhFOElFams0UTk0dW80VDFXaXVIRWJXZ3R5S1lkVzVSd1pOZmRJ?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "野村證券の日銀見通しを変更 9月利上げをメインシナリオに、年内2回利上げのリスクシナリオも 野村證券・森田京平",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "野村證券の日銀見通しを変更 9月利上げをメインシナリオに、年内2回利上げのリスクシナリオも 野村證券・森田京平 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qcWlQazVUY21CSFBwZXVoLTc1Ylp5WXBHSW9ZdkJMemR2eU11TG9GV1RpYUFNVF9GUkV2UXhPaFVmeHlEZXhiUXo3TGVRU3VhQXR1TXVkN09FalE1R3pV?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "日銀審議委員候補にリフレ派 金融政策の方向性は変わらないと見る理由 野村證券・森田京平",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日銀審議委員候補にリフレ派 金融政策の方向性は変わらないと見る理由 野村證券・森田京平 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHbHM4TUk1NTZPd1JweGl5bXNnZEh1WEtqSHp1aklXVDZKRDctcDFHSlpOdGxZck9qMHZQTjRyMUdIYUdGQW9qNW1kTHRkUnNoZ3hVWUJnazkwb19sRnVN?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 19
-    },
-    {
-      "title": "【見通し】週間為替展望（豪ドル／ZAR）-豪ドル、10月CPIに注目",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "【見通し】週間為替展望（豪ドル／ZAR）-豪ドル、10月CPIに注目 外為どっとコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTZkNLbHVYdVdReHlJem04ZzdicjdUMVBXZzZ4ZDNIc0NMbkpEMzR6MlRUdF9NRW1WbzNwT283NGJXaWJHb0RKdHpRTm41d0tmeUl2dkZtZ29ORTBfZWNncDhUaw?oc=5",
-      "source": "外為どっとコム",
-      "language": "ja",
-      "importance_score": 18
-    },
-    {
-      "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 18
-    },
-    {
-      "title": "個人消費の下振れリスクに警戒 インフレは2027年度に「加速期」から「減速期」へ 野村證券・森田京平",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "個人消費の下振れリスクに警戒 インフレは2027年度に「加速期」から「減速期」へ 野村證券・森田京平 野村證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQjRHa0ZRdW8zVjk1N2ZCaDVXSGltdzAtQ1kycVZCQnNRU1FxSnlSOElPcWFkS1JnX21XU2tZMHBUcjY5YlRZUTJtbGM4UDhRUW5xRk5rNTZOUE85M3lF?oc=5",
-      "source": "野村證券",
-      "language": "ja",
-      "importance_score": 18
-    },
-    {
-      "title": "週間為替展望（豪ドル／ZAR）-豪ドル、10月CPIに注目",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "週間為替展望（豪ドル／ZAR）-豪ドル、10月CPIに注目 OANDA証券",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOUFpcHVKZ2FPYnBnMEV5X1pJYndnb0g0SWNPd3RRalhob3BxQWZsT3UtdlJMZnhEVVM3LUNhNGdGa0lOcXA4RTFOUjMwWDROUkZPY3FsRGx3b2hpSUVkbFVMYVVpRlhwTGJVdGJlSG9oeUlmRFMtV1A3aw?oc=5",
-      "source": "OANDA証券",
-      "language": "ja",
-      "importance_score": 18
-    },
-    {
-      "title": "株安・円高でドル円の159円後半には売オーダーが並ぶ 今日の外為注文情報 2026/11/20 17:00",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "株安・円高でドル円の159円後半には売オーダーが並ぶ 今日の外為注文情報 2026/11/20 17:00 外為どっとコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwa3BKTDZFeTFzTS15X1lrc2FZT0xzbV9maE94bU1BTm1DX3JEbkhnTkw0QTJVNzE4M0h1b0N3YWp3ak5NU0dQV2dtMVZ5enRFa0M1NWtnZkZxalpmeG5mUmxPbw?oc=5",
-      "source": "外為どっとコム",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "【為替】変わらなかった「経常黒字＝円安」",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "【為替】変わらなかった「経常黒字＝円安」 マネクリ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JRjFHMkZIMkJneEVmTFJMYWFNblE1VVQ1WUxYR0JWcXZ4LWR5T3pERzRLdTVJa2JZYjh0NE5rbnFIOVZYUEcxYThJMHFFQmFvWkdCZ9IBV0FVX3lxTE13QXNRR1hMbm1PclJmRWU0Q1lBOW1Rdnh0SWtjLWNCOE9wa3dGbTlDeVo4ejZ6cHNXM2pqd0QtU3JGenpVQXRqTlhjVkdGZVNENVhFbnZodw?oc=5",
-      "source": "マネクリ",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "【これからの見通し】週末を控えて、株式市場の調整圧力と円高の継続性をチェック",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "【これからの見通し】週末を控えて、株式市場の調整圧力と円高の継続性をチェック みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1eDA4RXJrQzNoLVBLQThxM2ZfUWFHUjJObWdnVEhpdDc5ZDRER0liQVhjUEw0bXExRlh3WGUyNE9GU0lCZkJCVw?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "慢性円安「通貨防衛する気あるのか」ちぐはぐ政策、ディーラーの絶望",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "慢性円安「通貨防衛する気あるのか」ちぐはぐ政策、ディーラーの絶望 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udS1DaWhpempZNzV2SlVzRndXN3pnWDF4aFpKb2hyZ1BaNklhSEtyWFlUaVdwOVZKNlJCNkgzdWhYSVlsQXBtYzhjbThjYUw1QWN6RS16a0FaQ2JuVm5BQnVDcC1BOFk?oc=5",
-      "source": "朝日新聞",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "【FX】11/20 株価急落でドル円反落！円高は進む？ ｜為替市場ニュースの振り返り、今日の見通し",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "【FX】11/20 株価急落でドル円反落！円高は進む？ ｜為替市場ニュースの振り返り、今日の見通し 外為どっとコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Nb3ZadXRRajNOU0R5ckRTQVF4dVRTdVNETmJmdUZGTXVlQklvZnRqNEhjUFFXcjA4X1dFV3U0Tl9PX01oVmk2dXJEV3Y5RkxZemxXN2s0OTBBcC04ZUVXMDFYTQ?oc=5",
-      "source": "外為どっとコム",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円159円台前半で下値もみ合い、日経平均3000円安で円買い優勢",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円159円台前半で下値もみ合い、日経平均3000円安で円買い優勢 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ULVVlLVBQbFpWRng3enV6bnRDUTRIeHlEbm5oV0laVl9yMEl5VTVKR1U1QVg5LW4yNi02djZHRVZJY1VOalRWRzBPT29jaktOYXdhNUNjVWRHRDZqQlFhLXRWOWxpVDV5d056UlIwa3E2ZnRD?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "日経平均2000円安、アンソロピック時間外で下落",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日経平均2000円安、アンソロピック時間外で下落 みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qYUJlbjBpa0pQQ29tLVpFMGhRVF80VndTS191ZjdpdmFqemJjaC1GRHpDWUNlYjNPaHppdVpVRWp1TFZYNUYwaQ?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "日経平均2800円安、韓国株1月来安値 このあとの台湾市場に身構える",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "日経平均2800円安、韓国株1月来安値 このあとの台湾市場に身構える みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VRkpGOW5kQ3NsbEpVZ1VJLXJkTG0wZ3I1WG43UzFFajc0RUZsYmVQVWgxNmUyYUpORjNyZl9yVnJuS2hZV29OeQ?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円、158.75円まで下げ幅拡大 米長期金利が低下(トレーダーズ・ウェブ)",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円、158.75円まで下げ幅拡大 米長期金利が低下(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaExTOV82Rjg0b0ZfbXMyZGJHSU5hRk95M1MxVzloOXluU29aaEp4RUpyU1dtT18xaUZrQnMzYWw0RU9mMzVLZjF6dXFuYkN6My1HUEZiNUJjak1YbFFaOE1VTUFaOFJSLWFRczJTa2o2TElkZm5CQklXOWo1M1lrdHpyVWVuQ0U?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円、１５８円台半ばまで下落 リスク回避の円高が強まる＝ＮＹ為替概況",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円、１５８円台半ばまで下落 リスク回避の円高が強まる＝ＮＹ為替概況 みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xV21HYjBmOU5ya0t6bzFCVEdRamlkbEdQWTRacGVWZHdTYlkxckhDUHFBMzVSM2dlem5lYXJKUGhhOUZkQ0Z0ZQ?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "（慢性円安）介入しても、個人投資家円売り 「マーケットは見透かしている」",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "（慢性円安）介入しても、個人投資家円売り 「マーケットは見透かしている」 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQ0dvWHNxdkJfLUZ6TFRQME80Ym1tUURsdEtZZFVLcDNxbWdRMDUyY0l1cnh3bjFQT2p1TERyalNhX1l0a2VQMmVETmdmeUw0aGRwdzlkekcxZ2Mw?oc=5",
-      "source": "朝日新聞",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円、NY市場で158円台後半に小反発 米長期金利の下げ渋りが支え",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円、NY市場で158円台後半に小反発 米長期金利の下げ渋りが支え BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DLTRsRUZmWUVQcFZPMHEtUmxGQUlLY3NNWGtsbkk2VHRfSDItOVRqTlg2YXl0Y3I1MUl6WkhManhzNE5RVmVGRjNfQ1dFbVBoVWs0d3oyd0MxelFwbVMza0pQN0pGSllpLXVLaWxzbVk1WWk3?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円、１５８円台に下落 リスク回避の円高が強まる＝ＮＹ為替序盤",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円、１５８円台に下落 リスク回避の円高が強まる＝ＮＹ為替序盤 みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zaTdSQmdwdUpLcjRlUUFLN3JZS2FqbWEtMFR2ZEFtZThPWm93MmlmaWZhRDNKRFFvcTJuREpYT0ctRDRHUFgtVA?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "円買い再燃、ドル円一時１５８円台に軟化＝ロンドン為替",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "円買い再燃、ドル円一時１５８円台に軟化＝ロンドン為替 みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zdXI4RU1Mbk5DZWNab3ZCMEUtLWFGa0Jwd01iOWlFd011cXB4SkxSNm9ZNDdZWEJsZkxzMjFEUkdKMUJGQ2tDYg?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "ドル円、一時158.51円まで下落 株急落と金利低下で｜FX・為替ニュース",
-      "category": "為替",
-      "date": "2026-11-20",
-      "summary": "ドル円、一時158.51円まで下落 株急落と金利低下で｜FX・為替ニュース ザイFX！",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GTm10X0ZQRWptZHdVZWZneS1MUld4bUM0M2hXVkx6cXhfQXl2RE9yWHI5NE9NZ0JBQkNHV3U2MjB4dnNOdFVwallxbFMybzlKWEE?oc=5",
-      "source": "ザイFX！",
-      "language": "ja",
-      "importance_score": 17
-    },
-    {
-      "title": "COMMENTARY: コラム：トランプ氏の弱み突けぬ習氏、輸出頼みの中国経済はデフレ長期化",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "COMMENTARY: コラム：トランプ氏の弱み突けぬ習氏、輸出頼みの中国経済はデフレ長期化 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82YUVwcFpuTFlsejB4RjNSVnFTU1dwVVZuRTJJTEVqV3JlUmdwTm91dG4xV2VsUzA1cWljLVFpOEpDNnN4cjVZVEVXVjF2Z2FxYlJSN2lGazV4ZmdPc2pyYUpxODZsS3ViZmFoVl9uQkR0WENuc01yVDVNNkVsQQ?oc=5",
-      "source": "Reuters",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "中国の成長を左右する外需とAI関連貿易の論点",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "中国の成長を左右する外需とAI関連貿易の論点 ピクテ・ジャパン",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5URmlCN3p4RVpZc2Z5VzJuVEZrWWt0WWNudl8ydnc5MGNjb00xSkhHc0tYTkQ0R0pSekMxOGRyR2gtODAwdVVieTRpR00tQnlEbFptUXZmaHJJMy1oVWZFOXFPWnUzYzRmVmFqME9BNzJMT0pwMFFHbVZoRW56UFE?oc=5",
-      "source": "ピクテ・ジャパン",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "中国経済指標【中国最優遇貸出金利（ローンプライムレート）】",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "中国経済指標【中国最優遇貸出金利（ローンプライムレート）】 みんかぶ FX/為替",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JOHBqclZMUTBKeUluQUFwU3A0ZUF0UF8xLS1Gc1VreHFpelF4UmV4Z2g1dExXZ25mdW9ySy11T2pjZzAybHh1MA?oc=5",
-      "source": "みんかぶ FX/為替",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "「二極化」進む 中国経済の行方 - エコノミー・ウォッチ",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "「二極化」進む 中国経済の行方 - エコノミー・ウォッチ 日経CNBC online",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rME5PUm96Vk41ZDJaYTdvRTZtWjdoMmV1dF9BVVRvLWRIZTdwM0o3ZE1KVmxtMXZGRmhDU2x0NTk0THJJU3VCVC1TRzhDRk9FR3VCMA?oc=5",
-      "source": "日経CNBC online",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "【三里河中国経済観察】中国・深セン、開放と技術革新でAPEC協力を推進",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "【三里河中国経済観察】中国・深セン、開放と技術革新でAPEC協力を推進 AFPBB News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RdUhzeVhmbUZ3Uk50MzdQc1E1WkZ3bHhqdy12X2lpdU54Tl9mV0JVNFdqeFk2am1aR09KZ1NaRGN1Tmtsd3pfVHoySWhCcmlrMFHSAVRBVV95cUxOdktJaTdxaHl3Wk1XRkV3UEJQZFQya1BSQi1PU3pUaUlrNDVyYWJsaFM1VWtXVmlLckp1VlpuMHBJUmFyNDVnOVkwOVprODRsempDeGQ?oc=5",
-      "source": "AFPBB News",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "【AGU LiFE】＜経済学科＞「中国から青学へ。主体的に学び続け、IT企業への進路を切り拓く」公開",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "【AGU LiFE】＜経済学科＞「中国から青学へ。主体的に学び続け、IT企業への進路を切り拓く」公開 青山学院大学",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14VXJnLVFXeEYxSno5V2tZOTlRbWxNLWRuV3dXTzdUQzNoZENSbHoyNkwyX2Ntci1OWEUyczNnMTZudm1NaFpsakRuVWl6QmlmcFRXM0tDVUJRVnI0R0pqUnlSU1FfYkhr?oc=5",
-      "source": "青山学院大学",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "中国建機大手担当者「ＡＰＥＣは地域経済界の効率的な対話の場」",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "中国建機大手担当者「ＡＰＥＣは地域経済界の効率的な対話の場」 新華網日本語",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92N2ZqN0hZOTBVWVJibjZkUTYtdm1qTm9sb0l1N3FoRkMyYWY5YUtrdnQ1dXJkdHVkNmVHZkRfSnlNdFVvSE1VX1gtQWxPTjY4NVEtNFFZek04OTJyUHpPZ2huT1M5WDQ0dzBIbWE2NGoxWm9FZVE?oc=5",
-      "source": "新華網日本語",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "ロシア中央銀行、個人のビットコイン信用取引を30万ルーブルまで認める計画",
-      "category": "ロシア",
-      "date": "2026-11-20",
-      "summary": "ロシア中央銀行、個人のビットコイン信用取引を30万ルーブルまで認める計画 bitbank",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNGJjVzQwdkQ3VFh3QkgyN2VQZHNIbEJXNjk3UndOd3BfR1AtM0FSM2F3bmZkWlhITkJfWVhxd2Q5aFVsc0NORXF2SXRJVFM0dGRpVkQzVngtdUdHcXJuUERlTVo0Y2s?oc=5",
-      "source": "bitbank",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "【注目セクターを読み解く】米中間選挙後の米国経済と米国株の見通しをアナリストが解説",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "【注目セクターを読み解く】米中間選挙後の米国経済と米国株の見通しをアナリストが解説 Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82UVpabVZyTG1DY3Nyb3Yxb1M1MkhmdW9MSW9OOUhNLUlobnJ0RnEta1pIZTNkZEtIQ0dqRjJGempwQWFGRFpGeVRYVjRzM3N4Nl92OE1ReGJHMjVpam8zbFBPUXFzUXZwSkppa1hob0N4dw?oc=5",
-      "source": "Infoseek",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "宮本経済産業副大臣が安永日本ブラジル経済委員会委員長及びオリヴェイラ ブラジル日本経済委員会委員長代理による表敬を受けました（METI",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "宮本経済産業副大臣が安永日本ブラジル経済委員会委員長及びオリヴェイラ ブラジル日本経済委員会委員長代理による表敬を受けました（METI 経済産業省",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBUndOUUllTnNWMjVxaGpsNTJqY08tWkJHdlZabzBZYUFNdGRaLWpnWUdnbnNBcjc2bnhTMjFhY0VpeXoxbEFzcU13ZS1IS1hZOUM3VXZOUjE4WGR3NXRaVl9Zcw?oc=5",
-      "source": "経済産業省",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "日本ブラジル経済合同委員会メンバーによる表敬",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "日本ブラジル経済合同委員会メンバーによる表敬 首相官邸",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybmNXN09rdTNwYUE5QWlmWUdGNW5fQ3EwMzV3ZV9FdFU3c3lhdEFDbXJYZ1ZJQXdRYmhlNVdTeXlaS2VwMjVYeTcyaGlVSDlOZ1lfODA5X3R6bjFhREhfNlk0RTZ2NkRtYmZzR05n?oc=5",
-      "source": "首相官邸",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "野口ゼミ「日本政治法律学会主催の学生コンペ」で優秀賞を受賞",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "野口ゼミ「日本政治法律学会主催の学生コンペ」で優秀賞を受賞 中央学院大学",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbUNac29iYlZOQkpENnhNOHZTS1ZyWU1qMlRoZmdoN0NLVFdDTFBnMy1HZWo5VUw3MFZHRS1lMmR5eU5vY1NkWFp0WGRTeWZMOTlUckNR?oc=5",
-      "source": "中央学院大学",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wSzVZY0Y0YzNwN3B0TU9XN3ZVZDlCelpJWlVIRFRDUEd2cEV1enBoOGlSbFE4QnhwaTNETUdqSEhqQVVOQ1Bnd28zdktVSDhCTTBQNGJuN2Z4NlRhVjFmYl82c2d6ZFVOcFJ2OA?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "長野県、11月補正予算案92億円",
-      "category": "日本",
-      "date": "2026-11-20",
-      "summary": "長野県、11月補正予算案92億円 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVOXZtenRBZU9YWk9HNm9iRlZxdWJILXY1YndYTkJESmU3Y0lhelR1OXJyN1RMbW04U2ZCcGoyUlBZSFhuM1RXbEFVVW1mYzN5cVhhbTZVcThpYWc4UzdDbHJXZDhEdzkzd1otZA?oc=5",
-      "source": "日本経済新聞",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "広東省、アジア太平洋経済体との投資協力マッチング会を開催(中国) | ビジネス短信",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "広東省、アジア太平洋経済体との投資協力マッチング会を開催(中国) | ビジネス短信 ジェトロ（日本貿易振興機構）",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiaWxxbVVaWU1vZEx6MW9oUmJpcXFQY0RSSFdLcElxRTlyS09HTll6U05Sd1RLbGhkVXF2OVlaTFcyUlBGTzFCblg1UVJiNG8zZHlIaHJSNHVabEI1T1FBMG1obUFMYXl6ZG9TQ2NR?oc=5",
-      "source": "ジェトロ（日本貿易振興機構）",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "米中「貿易休戦」延長も…巨額の貿易黒字が新たな摩擦を生む可能性も",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "米中「貿易休戦」延長も…巨額の貿易黒字が新たな摩擦を生む可能性も TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uOHBKVGtPQVZPdU1uRGtua3BMa2lfdmk4YkRxcDRTODhSN1FScDhnaFoycExVa0x2MHFBcnY1SkFMS3ZFaGUzQm10emJaNHVsbDFGd1RKbUoxcllPN2tFeUpiVmtGWms?oc=5",
-      "source": "TBS NEWS DIG",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "夢展望、中国「W11」で流通総額約6600万円 小紅書は前年比31.3%増（日本ネット経済新聞）",
-      "category": "中国",
-      "date": "2026-11-20",
-      "summary": "夢展望、中国「W11」で流通総額約6600万円 小紅書は前年比31.3%増（日本ネット経済新聞） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMVh6YXpST2t2bUJ3VGxmTDloSDdMUERJaGRJSjd4emJYY1gwLVprR212emh1U2tvWS1XWTdVd1hKN1NRTHY1MlF6Nnhzc2FlNXJkM0xlb0RlWDZPQjdueUtwRUQ5MjIyYlZlQ2pkbGs3QmlQSnNacWctaVFCQ0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "トランプ氏、金利高すぎ ＦＲＢは「政治的」と主張",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "トランプ氏、金利高すぎ ＦＲＢは「政治的」と主張 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVFVxTEVOS1h4U3JxRlVZOW4tYlV3RTdJTXFKWkJHdkxhbDY1M0RWMksyRlZCT0F0bmtnREsyQ0lPeU5EakVkekhYVXZnNG5HU0pPMkpJVXQxVmJQRURKdHlMbl92eVhENzdJRjN2UUJNdjAxRE5YU2VGcFVUbVk?oc=5",
-      "source": "Reuters",
-      "language": "ja",
-      "importance_score": 13
-    },
-    {
-      "title": "米国株・社債・銅・原油が同時に警報、米経済の繁栄期は終盤に近づく可能性",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "米国株・社債・銅・原油が同時に警報、米経済の繁栄期は終盤に近づく可能性 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTcHBZNE5fc2dFd1dVLTVUblZFaWZyMzdiWWNTWm1zWW4wZXRQMlZYRTQtci11Ni1NUDNlM0Rwa3dVUkYwc2JpZHFETVNESkYzTXlIQks0cTZlTmVUelo0OHIya3hjZTZ6NmtpdFJ0ZWpmajNB?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 13
     }
   ],
   "top_news": [
     {
-      "title": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目 https://kabu-ir.com/",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "source": "https://kabu-ir.com/",
+      "title": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安",
+      "category": "為替",
+      "date": "2026-11-24",
+      "summary": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安 みんかぶ",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mRHEzTEkxbG1pSGdsRVhzLWp2RWJqcnFVcnc3RlU1ZGdqT0xXaGRzczhkMEtnZHdDZlpzYlJ5ZGJTUG9xLXd1Qg?oc=5",
+      "source": "みんかぶ",
       "language": "ja",
-      "importance_score": 34
-    },
-    {
-      "title": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退",
-      "category": "アメリカ",
-      "date": "2026-11-20",
-      "summary": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退 BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
-      "source": "BigGo ファイナンス",
-      "language": "ja",
-      "importance_score": 34
+      "importance_score": 31
     },
     {
       "title": "アックマン氏がFRBのインフレ目標に反論 3%がより現実的と主張、追加利上げは世界恐慌招くと警告",
@@ -3030,27 +3020,37 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xdDBrMHNCSEJ6a0dWc0xrQVBxZFVLU1diV2dXR0xFYlNocGQ1STh6eUpQRHdJYnZIekJpMmNDNVFES2dXZXFTQlRIcnY4MVctRWtjeU9pXzZha0xXTmlsWmk0TXp0OE5tM3FPbnB4VHlLNXpM?oc=5",
       "source": "BigGo ファイナンス",
       "language": "ja",
-      "importance_score": 32
+      "importance_score": 30
     },
     {
-      "title": "日銀・浅田審議委員が出席 長崎県金融経済懇談会開催「県内経済は緩やかに成長」｜ニュース",
-      "category": "為替",
+      "title": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」",
+      "category": "アメリカ",
       "date": "2026-11-23",
-      "summary": "日銀・浅田審議委員が出席 長崎県金融経済懇談会開催「県内経済は緩やかに成長」｜ニュース KTNテレビ長崎",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNGtHNERxTGpiNkpRMFV3Vk8zcEhJMjJ3RTMyMVk0S0RNZUMyV21lUk5VeHVROU5lQWpOMjY1Z3RBdmNMNm9wdzFucFRrSzRhbU52azA4S3A4ODFROTc3aXJB?oc=5",
-      "source": "KTNテレビ長崎",
+      "summary": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFJDb3JWeTFlNjJVMGFVQ2lhZTkzck9VMjNhdWRaWVBzTkdIeHRMT2dldmNpQnZnaFdEWmlkbEh1eHZsaWIyalI0bFZ4ZUpQS3VyQTlRMDJhbktjb25TRUxqUTk2bDB1YWc0MENOb2E1bDhsXzFjOW1OTllVck5OQmhlWjZOQW9OOEpXcGlZeW1kOWpUaEljeUZ1OA?oc=5",
+      "source": "Reuters",
       "language": "ja",
-      "importance_score": 27
+      "importance_score": 30
     },
     {
-      "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番",
-      "category": "中国",
-      "date": "2026-11-23",
-      "summary": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DREVlY0g3Y1VqQU92cTA1TGI1YTVGMUQzTHlCVmtwVHdZcjRPbTAzaDZaazVQTHRKaDJTSGJzTnNMc2lFSHF2T3FUWmM1OENROTlqMVg3OHJOTXpoNlJj?oc=5",
-      "source": "東洋経済オンライン",
+      "title": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目",
+      "category": "アメリカ",
+      "date": "2026-11-20",
+      "summary": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目 https://kabu-ir.com/",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
+      "source": "https://kabu-ir.com/",
       "language": "ja",
-      "importance_score": 26
+      "importance_score": 30
+    },
+    {
+      "title": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。",
+      "category": "ウクライナ",
+      "date": "2026-11-24",
+      "summary": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlhGRFRrSTgydENfVWFFRXo2eEZja1BwNXFrdkpnZXRYZFExc1VHbGlZM01RQXNkNmNCd05NWXE0YjQ1VUkxRXQ3amhRYmdhNlhlbl9ia21QSmhGZFVDV1lHTjJVT0gxU2Z0QmFWMnpqOXFlUEJwVjZURUpFQjJfRGhyMW5WUHp6MEY0WV9TX28taDJyczFWanJxR09uai1tOFdHUmtYMkRsZw?oc=5",
+      "source": "Vietnam.vn",
+      "language": "ja",
+      "importance_score": 25
     }
   ],
   "indicators": [
@@ -6390,53 +6390,44 @@
     {
       "pair": "USDJPY",
       "name": "ドル円",
-      "date": "2026-11-23",
-      "rate": 159.08368,
+      "date": "2026-11-24",
+      "rate": 159.12418,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
-      "previous_date": "2026-11-22",
-      "previous_rate": 159.22046,
-      "change": -0.13678,
-      "change_pct": -0.086
+      "previous_date": "2026-11-23",
+      "previous_rate": 159.06849,
+      "change": 0.05569,
+      "change_pct": 0.035
     },
     {
       "pair": "EURJPY",
       "name": "ユーロ円",
-      "date": "2026-11-23",
-      "rate": 174.68775,
+      "date": "2026-11-24",
+      "rate": 174.48353,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
-      "previous_date": "2026-11-22",
-      "previous_rate": 174.9108,
-      "change": -0.22305,
-      "change_pct": -0.128
+      "previous_date": "2026-11-23",
+      "previous_rate": 174.66029,
+      "change": -0.17676,
+      "change_pct": -0.101
     },
     {
       "pair": "CNYJPY",
       "name": "人民元円",
-      "date": "2026-11-23",
-      "rate": 23.8561,
+      "date": "2026-11-24",
+      "rate": 23.87604,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
-      "previous_date": "2026-11-22",
-      "previous_rate": 23.86692,
-      "change": -0.01082,
-      "change_pct": -0.045
+      "previous_date": "2026-11-23",
+      "previous_rate": 23.85439,
+      "change": 0.02165,
+      "change_pct": 0.091
     }
   ],
   "fx_history": [
-    {
-      "pair": "CNYJPY",
-      "name": "人民元円",
-      "date": "2026-08-15",
-      "rate": 23.64234,
-      "unit": "JPY",
-      "source": "Frankfurter",
-      "source_url": "https://frankfurter.dev/"
-    },
     {
       "pair": "CNYJPY",
       "name": "人民元円",
@@ -7278,7 +7269,7 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-17",
-      "rate": 23.93948,
+      "rate": 23.93891,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -7296,7 +7287,7 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-19",
-      "rate": 23.9653,
+      "rate": 23.96587,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -7305,7 +7296,7 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-20",
-      "rate": 23.90172,
+      "rate": 23.90057,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -7314,7 +7305,7 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-21",
-      "rate": 23.87946,
+      "rate": 23.87832,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -7323,7 +7314,7 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-22",
-      "rate": 23.86692,
+      "rate": 23.86293,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -7332,16 +7323,16 @@
       "pair": "CNYJPY",
       "name": "人民元円",
       "date": "2026-11-23",
-      "rate": 23.8561,
+      "rate": 23.85439,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
     },
     {
-      "pair": "EURJPY",
-      "name": "ユーロ円",
-      "date": "2026-08-15",
-      "rate": 184.01973,
+      "pair": "CNYJPY",
+      "name": "人民元円",
+      "date": "2026-11-24",
+      "rate": 23.87604,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8187,7 +8178,7 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-17",
-      "rate": 175.48478,
+      "rate": 175.47862,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8196,7 +8187,7 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-18",
-      "rate": 175.23876,
+      "rate": 175.23262,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8214,7 +8205,7 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-20",
-      "rate": 175.13442,
+      "rate": 175.12215,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8223,7 +8214,7 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-21",
-      "rate": 175.00569,
+      "rate": 174.99344,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8232,7 +8223,7 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-22",
-      "rate": 174.9108,
+      "rate": 174.88327,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -8241,16 +8232,16 @@
       "pair": "EURJPY",
       "name": "ユーロ円",
       "date": "2026-11-23",
-      "rate": 174.68775,
+      "rate": 174.66029,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
     },
     {
-      "pair": "USDJPY",
-      "name": "ドル円",
-      "date": "2026-08-15",
-      "rate": 159.29147,
+      "pair": "EURJPY",
+      "name": "ユーロ円",
+      "date": "2026-11-24",
+      "rate": 174.48353,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9096,7 +9087,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-17",
-      "rate": 159.44894,
+      "rate": 159.4464,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9105,7 +9096,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-18",
-      "rate": 159.40828,
+      "rate": 159.40574,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9114,7 +9105,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-19",
-      "rate": 159.69084,
+      "rate": 159.69339,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9123,7 +9114,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-20",
-      "rate": 159.39049,
+      "rate": 159.38287,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9132,7 +9123,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-21",
-      "rate": 159.29401,
+      "rate": 159.28893,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9141,7 +9132,7 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-22",
-      "rate": 159.22046,
+      "rate": 159.19764,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
@@ -9150,24 +9141,37 @@
       "pair": "USDJPY",
       "name": "ドル円",
       "date": "2026-11-23",
-      "rate": 159.08368,
+      "rate": 159.06849,
+      "unit": "JPY",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/"
+    },
+    {
+      "pair": "USDJPY",
+      "name": "ドル円",
+      "date": "2026-11-24",
+      "rate": 159.12418,
       "unit": "JPY",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/"
     }
   ],
   "meta": {
-    "updated_at": "2026-11-23T22:44:12.119121+00:00",
-    "new_articles": 252,
+    "updated_at": "2026-11-24T10:51:01.985810+00:00",
+    "new_articles": 267,
     "new_indicators": 0,
     "article_count": 300,
-    "archived_article_count": 3500,
-    "duplicate_removed": 201,
+    "archived_article_count": 3601,
+    "duplicate_removed": 166,
     "top_news_count": 5,
     "indicator_count": 370,
     "fx_count": 3,
     "new_fx_points": 303,
-    "errors": [],
+    "errors": [
+      "World Bank CHN/FP.CPI.TOTL.ZG: TimeoutError: The read operation timed out",
+      "World Bank RUS/SL.UEM.TOTL.ZS: TimeoutError: The read operation timed out",
+      "World Bank UKR/NY.GDP.MKTP.KD.ZG: TimeoutError: The read operation timed out"
+    ],
     "notes": [
       "重要度はキーワードと新しさに基づく自動評価です。AI分析ではありません。",
       "重複は同一URLと類似見出しで判定しています。別事件の誤統合の可能性があります。",
