@@ -1,79 +1,78 @@
 {
-  "generated_at": "2026-11-24T11:11:56.693235+00:00",
+  "generated_at": "2026-11-25T11:16:33.441602+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
-      "title": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安",
-      "summary": "日銀為替市況 午後５時時点、１５９円３４～３６銭のドル高・円安 みんかぶ",
-      "source": "みんかぶ",
-      "date": "2026-11-24",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mRHEzTEkxbG1pSGdsRVhzLWp2RWJqcnFVcnc3RlU1ZGdqT0xXaGRzczhkMEtnZHdDZlpzYlJ5ZGJTUG9xLXd1Qg?oc=5",
-      "overview": "日銀為替市況の午後５時時点において、１ドル＝１５９円３４～３６銭のドル高・円安水準となっている。",
-      "background": "一般論として、日米金利差や市場の金融政策動向が為替に影響を与える。今回の確認済み情報としては、提示された見出しと概要の数値（159円台半ば）のみが確認されている。",
-      "japan_impact": "輸入コストの上昇や円安に伴う国内経済への影響が懸念されるが、詳細な影響は今回の見出し・概要だけでは確認できない。",
+      "title": "日銀利上げでも円安地獄が終わらない…住宅ローンは苦しいのになぜ円は買われない？ | ニュースな本",
+      "summary": "日銀利上げでも円安地獄が終わらない…住宅ローンは苦しいのになぜ円は買われない？ | ニュースな本 ダイヤモンド・オンライン",
+      "source": "ダイヤモンド・オンライン",
+      "date": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GVjVCbWM1ZmUzblFic1BwbjgwOEp4OTNvMlQ5SmpvR1pCeUdZNVJ5d3dZRDNIaHBpNW0xOXhzT2JybmF3T2xpcTRVZXo?oc=5",
+      "overview": "日銀の利上げにもかかわらず円安が収まらない現状と、住宅ローンなどへの影響、円が買われない理由についての疑問が提起されている。",
+      "background": "一般論として、金利上昇は通貨高要因とされるが、実態経済や内外金利差、市場の期待値によって異なる動きをする。確認された情報としては、日銀の利上げが行われても円安が継続しているという見出し・概要の事実のみである。",
+      "japan_impact": "住宅ローンの負担感が意識されているほか、円安の長期化が国内経済や生活コストに影響を与えていることが示唆されている。",
       "scenarios": {
-        "optimistic": "日銀の政策方針や市場介入への警戒感から円安の進行が抑制され、159円近辺で安定する。",
-        "base": "米FRBの追加利上げ警戒や金利差を背景に、160円目前のドル高・円安水準が継続・意識される。",
-        "pessimistic": "一段のドル高・円安が進み、160円の大台を超える展開となる。"
+        "optimistic": "日銀の追加的な政策対応や市場環境の変化により、円安基調が和らぎ、国内のインフレ圧力やローン負担への懸念が緩和する。",
+        "base": "日銀の利上げが行われても円安基調が続き、住宅ローン利用者などの生活コストへの警戒感が継続する。",
+        "pessimistic": "円安がさらに進行し、輸入物価の高騰と金利負担の双方が国内経済を圧迫する。"
       },
       "watch_points": [
-        "160円の節目に向けた為替変動の動向",
-        "日銀の金融政策に関する方針",
-        "米国の金利・インフレ関連指標"
+        "日銀の今後の利上げ方針と金融政策",
+        "住宅ローン金利の動向",
+        "為替市場における円の売買動向"
       ],
       "importance": 4,
-      "uncertainty": "為替介入の有無や詳細な政府・日銀のスタンスは、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力情報には日時（2026-11-24）とレート（159円34～36銭）のみが含まれており、背景の経済指標や政策決定の詳細は含まれていない。"
+      "uncertainty": "円が買われない具体的な市場背景や日銀の政策決定の詳細なメカニズムは、見出しと概要だけでは確認できない。",
+      "evidence_limits": "提供された情報は短文の見出し・概要のみであり、統計データや専門家の詳細な分析根拠は含まれていない。"
     },
     {
       "id": "2",
-      "title": "アックマン氏がFRBのインフレ目標に反論 3%がより現実的と主張、追加利上げは世界恐慌招くと警告",
-      "summary": "アックマン氏がFRBのインフレ目標に反論 3%がより現実的と主張、追加利上げは世界恐慌招くと警告 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xdDBrMHNCSEJ6a0dWc0xrQVBxZFVLU1diV2dXR0xFYlNocGQ1STh6eUpQRHdJYnZIekJpMmNDNVFES2dXZXFTQlRIcnY4MVctRWtjeU9pXzZha0xXTmlsWmk0TXp0OE5tM3FPbnB4VHlLNXpM?oc=5",
-      "overview": "アックマン氏がFRBのインフレ目標に反論し、3%がより現実的と主張するとともに、追加利上げが世界恐慌を招くおそれがあると警告している。",
-      "background": "一般論として、高インフレ期における中央銀行の目標設定や利上げの是非は市場参加者の間で議論される。今回の確認済み情報としては、アックマン氏の発言内容（3%目標の提案、追加利上げへの警告）のみが確認されている。",
-      "japan_impact": "米国の金融政策の方向性が変更された場合、グローバルな金融市場や為替を通じて日本経済にも波及する可能性があるが、直接的な影響は入力情報からは確認できない。",
+      "title": "日銀為替市況 午後５時時点、１５９円２１～２３銭のドル安・円高",
+      "summary": "日銀為替市況 午後５時時点、１５９円２１～２３銭のドル安・円高 みんかぶ",
+      "source": "みんかぶ",
+      "date": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBlZ19Sa0I4Ml9sQlZCT1MxV2dVQ2xFYTFEaEFDZTZ3eDJINDBNODdmbFJFV2hPY3RIU3VFZUY4RWRBQzVDN0E?oc=5",
+      "overview": "日銀の為替市況において、午後5時時点で159円21〜23銭のドル安・円高を記録した。",
+      "background": "一般論として、外国為替市場は日々の経済指標や市場参加者の取引によって変動する。確認された情報としては、特定の日の午後5時時点でのレートが159円台前半であったという事実のみである。",
+      "japan_impact": "短期的な為替の変動により、輸入企業や輸出企業の業績、および国内の物価動向に影響を与える。",
       "scenarios": {
-        "optimistic": "市場の議論がFRBの柔軟な姿勢を引き出し、急激な引き締めへの過度な懸念が和らぐ。",
-        "base": "FRBは従来のインフレ目標を維持し、市場の一部で引き締め継続に対する警戒感と議論が並行する。",
-        "pessimistic": "利上げ継続を巡る米国市場の対立や懸念が強まり、金融市場全体に不安定要因をもたらす。"
+        "optimistic": "円高方向への修正が進み、輸入コストの上昇圧力が和らぐ。",
+        "base": "159円台を中心とした推移が続き、一進一退の展開となる。",
+        "pessimistic": "再び円安方向へ大きく振れ、160円突破に向けた動きが再燃する。"
       },
       "watch_points": [
-        "FRB高官のインフレ目標や利上げに関する発言",
-        "著名投資家による金融政策への批判や提言の広がり",
-        "米国債市場および株式市場の反応"
+        "夕方時点の為替レートの推移",
+        "ドル円相場のトレンド変化"
       ],
       "importance": 3,
-      "uncertainty": "アックマン氏の発言がFRBの実際の政策決定や市場全体にどの程度のインパクトを与えるかは、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力情報は発言の主張と警告の概要のみであり、発言の背景となる具体的な経済データやFRBの公式見解は含まれていない。"
+      "uncertainty": "このレートが一時的なものか、トレンドの転換点なのかは見出し・概要だけでは確認できない。",
+      "evidence_limits": "時刻とレートの数値以外の背景情報が提供されていない。"
     },
     {
       "id": "3",
-      "title": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」",
-      "summary": "米ＮＹ連銀総裁、追加利上げ示唆 インフレ「なお高過ぎる」 Reuters",
-      "source": "Reuters",
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFJDb3JWeTFlNjJVMGFVQ2lhZTkzck9VMjNhdWRaWVBzTkdIeHRMT2dldmNpQnZnaFdEWmlkbEh1eHZsaWIyalI0bFZ4ZUpQS3VyQTlRMDJhbktjb25TRUxqUTk2bDB1YWc0MENOb2E1bDhsXzFjOW1OTllVck5OQmhlWjZOQW9OOEpXcGlZeW1kOWpUaEljeUZ1OA?oc=5",
-      "overview": "米NY連銀総裁がインフレが「なお高過ぎる」との認識を示し、追加利上げを示唆している。",
-      "background": "一般論として、インフレ率が目標値を超えて推移する場合、中銀は追加引き締めを検討する。今回の確認済み情報としては、NY連銀総裁がインフレの高止まりを理由に追加利上げを示唆したことのみが確認されている。",
-      "japan_impact": "米国の追加利上げ観測が強まることで日米金利差が意識され、円安要因として働く可能性がある。",
+      "title": "ドル円、160円突破の焦点は今夜の米インフレ指標",
+      "summary": "ドル円、160円突破の焦点は今夜の米インフレ指標 CRYPTO TIMES",
+      "source": "CRYPTO TIMES",
+      "date": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEY4RVliXzItNURmU3ZEZjJuVjM1ZjNFRGpaRWtRY3ZJY3RiOS1JZkUtQjRfMXhjT1VhMnhIeF9SV3VFTG5vMzZHRFJPTl9fLVlWN2cwaGR4cVNDWVFGMHFvYnpROTgxZnZFOElIQ3AxV0g2Wmp5bG01aHk0SDFGNWNuN203NF9UWmt6MUprdjVLdkJaR1dweVJzNjhBeTRnclVrWUJXWFVLcURVeExlT2haSU5lZlB4Nmc?oc=5",
+      "overview": "ドル円相場が160円を突破するかどうかの焦点が、今夜予定されている米インフレ指標にあると報じられている。",
+      "background": "一般論として、米国のインフレ指標（物価指標）は米FRBの金融政策（利下げ・利上げ）に直結するため、為替市場への影響が大きい。確認された情報としては、160円突破の焦点が今夜の米インフレ指標にあるという点のみである。",
+      "japan_impact": "米国のインフレ指標の結果次第でドル円相場が大きく変動し、日本の輸入物価や為替介入への警戒感に直接的な影響を与える。",
       "scenarios": {
-        "optimistic": "今後のインフレ指標が鈍化を示し、追加利上げ観測が後退する。",
-        "base": "インフレ高止まりを受け、FRBによる追加利上げへの警戒感が市場に織り込まれ続ける。",
-        "pessimistic": "継続的なインフレ圧力により追加利上げが現実味を帯び、世界的な金融引き締め懸念が強まる。"
+        "optimistic": "米インフレ指標が市場予想を下回り、ドル安・円高が進んで160円突破が回避される。",
+        "base": "指標結果を受けた一時的な乱高下の後、160円を視野に入れた神経質な展開が続く。",
+        "pessimistic": "米インフレ指標が市場予想を上回り、ドル買い・円売りが加速して160円を突破する。"
       },
       "watch_points": [
-        "米国のインフレ関連経済指標の結果",
-        "FRB高官による今後の発言内容",
-        "長期金利および為替市場の動向"
+        "今夜発表される米国のインフレ指標の結果",
+        "ドル円の160円手前での値動き",
+        "市場の金利観測の変化"
       ],
-      "importance": 4,
-      "uncertainty": "次回のFOMCにおける具体的な政策判断や利上げの有無は、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力情報には総裁の発言趣旨のみが示されており、対象となる具体的な経済指標の数値や時期の詳細は記載されていない。"
+      "importance": 5,
+      "uncertainty": "どの具体的な米インフレ指標を指しているか、また数値結果がどうなるかは見出し・概要だけでは確認できない。",
+      "evidence_limits": "指標の具体的な名称や数値、市場の事前予想に関するデータは含まれていない。"
     },
     {
       "id": "4",
@@ -82,46 +81,46 @@
       "source": "https://kabu-ir.com/",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "overview": "米FRBの追加利上げへの警戒感が強まる中、円安が160円目前となり、AI投資のインフレ圧力や日銀の利上げ方針に注目が集まっている。",
-      "background": "一般論として、AI関連などの大規模投資は資材や人件費の高騰を通じてインフレ圧力を高める要因になり得る。今回の確認済み情報としては、円安が160円目前であること、AI投資のインフレ圧力、日銀の利上げ方針への注目が指摘されていることのみ。",
-      "japan_impact": "円安とインフレ圧力の継続は、国内の物価高や生活コストに影響を与える。また日銀の利上げ方針への注目度が高まる。",
+      "overview": "米FRBの追加利上げへの警戒感から円安が160円目前となっており、AI投資によるインフレ圧力と日銀の利上げ方針に注目が集まっている。",
+      "background": "一般論として、AI関連を含む大規模な投資は需要を刺激しインフレ圧力となり得る。また日米の金利差が意識されやすい。確認された情報としては、米FRBの追加利上げ警戒とAI投資のインフレ圧力、日銀の利上げ方針が注目されているという点である。",
+      "japan_impact": "輸入インフレの長期化や、日銀の政策対応を通じた国内金利・為替への影響が懸念される。",
       "scenarios": {
-        "optimistic": "インフレ圧力が低下に向かい、米国の利上げ警戒感が和らぐことで円安・ドル高トレンドが修正される。",
-        "base": "AI投資等に起因するインフレ圧力と日米金利差を背景に、円安基調と追加利上げへの警戒が維持される。",
-        "pessimistic": "160円を突破する急激な円安の進行や、それをきっかけとした金融・為替政策への強いプレッシャーが発生する。"
+        "optimistic": "インフレ圧力が低下し、米国の追加利上げ観測が後退することで円安圧力が弱まる。",
+        "base": "AI投資等によるインフレ圧力と日銀の動向を睨みながら、160円目前でのこう着した相場が続く。",
+        "pessimistic": "米国の追加利上げ観測とインフレ圧力の高まりにより円安が進行し、160円を大きく超える。"
       },
       "watch_points": [
-        "160円に向けた為替レートの推移",
-        "AI投資等によるマクロ経済・インフレへの影響",
-        "日銀の政策決定会合や要人発言"
+        "米FRBの追加利上げに関する当局者の発言や観測",
+        "AI投資等に起因するインフレ動向の報道",
+        "日銀の今後の利上げ方針に関する姿勢"
       ],
       "importance": 4,
-      "uncertainty": "AI投資が具体的なマクロインフレにどの程度寄与しているかの数値的検証や、日銀の次の一手は、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力情報は複数の要因（AI投資、FRB利上げ警戒、日銀方針、円安160円目前）を並記したものであり、因果関係の詳細なデータはない。"
+      "uncertainty": "AI投資が具体的にどの程度のインフレ圧力を生んでいるか、また日銀の具体的な方針は見出し・概要だけでは確認できない。",
+      "evidence_limits": "具体的な統計やFRB・日銀の公式声明の詳細な内容は記載されていない。"
     },
     {
       "id": "5",
-      "title": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。",
-      "summary": "メラニア・トランプ米大統領夫人は、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。 Vietnam.vn",
-      "source": "Vietnam.vn",
-      "date": "2026-11-24",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlhGRFRrSTgydENfVWFFRXo2eEZja1BwNXFrdkpnZXRYZFExc1VHbGlZM01RQXNkNmNCd05NWXE0YjQ1VUkxRXQ3amhRYmdhNlhlbl9ia21QSmhGZFVDV1lHTjJVT0gxU2Z0QmFWMnpqOXFlUEJwVjZURUpFQjJfRGhyMW5WUHp6MEY0WV9TX28taDJyczFWanJxR09uai1tOFdHUmtYMkRsZw?oc=5",
-      "overview": "メラニア・トランプ米大統領夫人が、クリスマス前にロシアとウクライナの間で停戦が実現することを期待している。",
-      "background": "一般論として、紛争当事国以外の要人や家族による和平への期待表明が報じられることがある。今回の確認済み情報としては、メラニア氏がクリスマス前の停戦実現を期待しているという報道内容のみ。",
-      "japan_impact": "ロシア・ウクライナ情勢の停戦期待は国際的なエネルギー・資源価格や地政学リスクに影響を与える可能性があるが、日本への具体的な直接影響は見出し・概要だけでは確認できない。",
+      "title": "APEC、米中露首脳会談で存在感を内外に示した中国・習近平と、「蚊帳の外」に置かれた「高市外交」の失敗 政治家に必要な「外交能力」とは",
+      "summary": "APEC、米中露首脳会談で存在感を内外に示した中国・習近平と、「蚊帳の外」に置かれた「高市外交」の失敗 政治家に必要な「外交能力」とは NEWSポストセブン",
+      "source": "NEWSポストセブン",
+      "date": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MOVlyVEMyN0tLVkJDcTBQTnFaMWRwYk9ubklrTzJINXFMNVNmMExDN0N2ZHU5dmpYVmw5V0E4ZlZlOTdOX3pmYjE1QW1mRko5MlZ2R3J2aE1HekNZc2RTTkkwM3IyVjBkVUlGR3phMmhYNlJVaHNV?oc=5",
+      "overview": "APECにおける米中露首脳会談で中国の習近平主席が存在感を示した一方、「高市外交」が「蚊帳の外」に置かれ失敗だったと評されている。",
+      "background": "一般論として、多国間外交や首脳会談は各国の国際的影響力を示す場とされる。確認された情報としては、APECでの米中露首脳会談における中国の動きと、高市外交への批判的な論評が存在するという点のみである。",
+      "japan_impact": "日本の外交方針や対外姿勢に対する国内の評価、および国際社会における日本の立ち位置に関する議論に影響を与える。",
       "scenarios": {
-        "optimistic": "和平に向けた動きや外交的対話が実際に活発化し、クリスマス前の停戦に向けた具体的な進展が見られる。",
-        "base": "個人の期待表明にとどまり、ロシア・ウクライナ間の戦闘や対立状況には大きな変化が生じない。",
-        "pessimistic": "停戦期待とは裏腹に戦闘が激化し、地政学リスクが再び高まる。"
+        "optimistic": "外交方針の修正や新たな対外アプローチにより、国際的な存在感や関係構築が改善する。",
+        "base": "外交上の批判や議論が国内政治ニュースとして継続しつつ、実際の国際関係への影響は限定的または不透明なまま推移する。",
+        "pessimistic": "国際的な枠組みにおいて日本が孤立または影響力を低下させ、外交・安全保障上の課題が増大する。"
       },
       "watch_points": [
-        "ロシア・ウクライナ情勢に関する公式な外交交渉の動き",
-        "米国政府関係者によるウクライナ政策に関する発言",
-        "エネルギーおよび穀物市場の価格動向"
+        "APEC等の国際会議における首脳外交の動向",
+        "国内における外交政策を巡る議論",
+        "主要国間の首脳会談の成果"
       ],
-      "importance": 2,
-      "uncertainty": "大統領夫人個人の期待が実際の政策や両国の和平交渉に影響するかどうかは、見出し・概要だけでは確認できない。",
-      "evidence_limits": "入力情報は個人の期待を伝える海外ソースの概要のみであり、米国政府の公式方針や当事国の反応に関する情報は含まれていない。"
+      "importance": 3,
+      "uncertainty": "「高市外交」の具体的な失敗の定義や、首脳会談の全容は見出し・概要だけでは確認できない。",
+      "evidence_limits": "論評主体の記事見出しであり、客観的な外交成果の測定データや会談の議事録等は含まれていない。"
     }
   ]
 }
