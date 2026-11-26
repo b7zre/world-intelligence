@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:12:02.219994+00:00",
+  "generated_at": "2026-11-26T11:15:24.442480+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
@@ -10,22 +10,22 @@
       "source": "日本経済新聞",
       "date": "2026-11-25",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcE5ILXE0cjdJRlljdllZeVl1X2g0ZTFGWWdyWWNoXzgzT2xlaV9hU3lENnZKbk5tdjBMMnFvakExTGl0SGZ3UjJ1Y2FRZ3ZQUnJBTzlwa3BwYjlsMWd0QU91SkdNSTJkQ3Yydw?oc=5",
-      "overview": "日銀の利上げ方針を巡り、期待インフレ率の低下に伴い「次の次」の利上げ予想が後退し、モヤが残る状況となっている。",
-      "background": "一般論として、日銀の金融政策は物価や賃金の動向、インフレ期待に左右される。今回の確認済み情報では、期待インフレ率の低下が利上げ予想の後退につながっている。",
-      "japan_impact": "金融政策の先行き不透明感が意識され、国内の金利環境や為替動向への影響が懸念される。",
+      "overview": "期待インフレ率の低下により、日銀の追加利上げに対する市場の予想が後退し、先行きに不透明感が生じている。",
+      "background": "一般論として、インフレ期待の低下は金融引き締めの必要性を低下させる要因となる。今回の確認済み情報としては、日銀の利上げ「次の次」のタイミングについて見方が分かれ、期待インフレ率低下によって予想が後退していること。",
+      "japan_impact": "金融政策の正常化ペースが市場の想定より緩慢になる可能性があり、金利や為替動向に影響を与える。",
       "scenarios": {
-        "optimistic": "インフレ期待が持ち直せば、日銀の政策正常化路線が市場に織り込まれ、金利・為替の安定につながる。",
-        "base": "期待インフレ率の動向を見極める展開が続き、日銀の利上げ時期を巡る思惑が交錯する。",
-        "pessimistic": "期待インフレ率のさらなる低下により、日銀の追加利上げ観測が大きく後退し、円安圧力が長期化する。"
+        "optimistic": "インフレ率が安定し、日銀が市場に負担をかけない形で適切な金融政策を維持できる。",
+        "base": "期待インフレ率の動向を巡り、日銀の利上げ方針に対する市場のモヤモヤ（不確実性）がしばらく継続する。",
+        "pessimistic": "物価や経済指標の急変により、日銀の政策対応が後手に回り、市場との対話が難航する。"
       },
       "watch_points": [
-        "日銀の金融政策決定会合での方針",
-        "期待インフレ率関連の指標",
-        "為替市場の動向"
+        "日銀の金融政策決定会合における方針",
+        "期待インフレ率の推移",
+        "為替および金利市場の反応"
       ],
       "importance": 4,
-      "uncertainty": "具体的な期待インフレ率の数値や日銀当局者の発言の詳細は見出し・概要だけでは確認できない。",
-      "evidence_limits": "日本経済新聞の短い見出しと概要のみに基づいており、統計データや一次発言の裏付けがない。"
+      "uncertainty": "見出し・概要だけでは確認できない具体的な数値や日銀の公式見解の詳細は不明。",
+      "evidence_limits": "日本経済新聞の見出しと概要のみに基づく。"
     },
     {
       "id": "2",
@@ -34,46 +34,46 @@
       "source": "BigGo ファイナンス",
       "date": "2026-11-25",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHSVlWMVdQc1F4bTdpRGljYm9vaUcydk5WYmwxSXhJUjFVQ0tqQk53elVLRGtkXzZzZGlGTU1wTzUza3IwaHVmSDRzMHllWFBhU05NZDZEazNvQnQzQ0owQ1NhSUdfQXhSQW5UVDlqUDEzTFQ5?oc=5",
-      "overview": "FRBの12月会合前最後となるPCE報告が発表予定であり、コアインフレ率が3.2%へ上昇することが見込まれている。",
-      "background": "一般論として、米国のPCE（個人消費支出）物価指数はFRBがインフレ動向を判断する上で重視する指標である。今回の確認済み情報では、コアインフレ率の3.2%への上昇が見込まれている。",
-      "japan_impact": "米国のインフレ動向とFRBの政策金利見通しを通じて、日米金利差やドル円相場に直接的な影響を与える。",
+      "overview": "FRBの12月会合前最後となるPCE報告の発表が控え、コアインフレ率は3.2%への上昇が見込まれている。",
+      "background": "一般論として、PCEコアインフレ率はFRBが金融政策を決定する際に重視する指標の一つである。今回の確認済み情報としては、今夜PCE報告が発表予定であり、コアインフレ率が3.2%へ上昇すると見込まれていること。",
+      "japan_impact": "米国のインフレ動向およびFRBの金利政策への警戒感を通じて、日本の為替（円相場）や株式市場に波及する。",
       "scenarios": {
-        "optimistic": "PCEコアインフレ率が予想を下回り、FRBの利下げ期待が再燃してドル安・円高方向に動く。",
-        "base": "市場予想通りコアインフレ率が3.2%となり、FRBの追加利上げ警戒や金利高止まりが意識される。",
-        "pessimistic": "インフレ率が予想を上回って加速し、米国の追加利上げ懸念から急速なドル高・円安が進む。"
+        "optimistic": "PCEコアインフレ率が予想の範囲内に収まり、FRBの過度な追加利上げ警戒が和らぐ。",
+        "base": "予想通りコアインフレ率が3.2%に上昇し、12月のFRB会合に向けた金融政策の思惑が交錯する。",
+        "pessimistic": "インフレ率が市場予想を上回り、FRBのタカ派姿勢強化への懸念から金融市場が動揺する。"
       },
       "watch_points": [
-        "今夜発表されるPCE報告の数値",
-        "FRB当局者の見解",
-        "米国の金利および為替の反応"
+        "PCE報告の実際の数値",
+        "12月のFRB会合に向けた当局者の発言",
+        "米国の金利および株式市場の動向"
       ],
-      "importance": 5,
-      "uncertainty": "PCE発表後の実際の数値や市場の最終的な価格織り込み状況は現時点で確認できない。",
+      "importance": 4,
+      "uncertainty": "見出し・概要だけでは実際のPCE統計の結果やFRBの最終的な判断は確認できない。",
       "evidence_limits": "BigGo ファイナンスの見出しと概要のみに基づく。"
     },
     {
       "id": "3",
-      "title": "ドル円、160円突破の焦点は今夜の米インフレ指標",
-      "summary": "ドル円、160円突破の焦点は今夜の米インフレ指標 CRYPTO TIMES",
-      "source": "CRYPTO TIMES",
+      "title": "米国の設備投資急増、インフレがFRBの忍耐を試す中で株価反発への期待をつなぐ",
+      "summary": "米国の設備投資急増、インフレがFRBの忍耐を試す中で株価反発への期待をつなぐ BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
       "date": "2026-11-25",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEY4RVliXzItNURmU3ZEZjJuVjM1ZjNFRGpaRWtRY3ZJY3RiOS1JZkUtQjRfMXhjT1VhMnhIeF9SV3VFTG5vMzZHRFJPTl9fLVlWN2cwaGR4cVNDWVFGMHFvYnpROTgxZnZFOElIQ3AxV0g2Wmp5bG01aHk0SDFGNWNuN203NF9UWmt6MUprdjVLdkJaR1dweVJzNjhBeTRnclVrWUJXWFVLcURVeExlT2haSU5lZlB4Nmc?oc=5",
-      "overview": "ドル円相場において160円突破の焦点が、今夜発表される米インフレ指標にあると報じられている。",
-      "background": "一般論として、日米の金利差や米国の物価指標の結果は外国為替市場でのドル円の変動要因となる。今回の確認済み情報では、今夜の米インフレ指標が160円突破の鍵として意識されている。",
-      "japan_impact": "160円近辺またはそれ以上の円安進行は、輸入物価の上昇を通じて国内経済や家計負担に影響を及ぼす。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzUUpQSjBfemF5ZmNDMm53a0hvQlRMS1NWaGdiYldkOFBYZVZjSXBzNVlQdWpSMEwzNEQ1a1RXM1lMVTVtS3hpM1VJX280TGNRdi1rRWhOaGV1R3l4YzNpSTN0NlhCWkdFeGV4QWd4cXZVSmNB?oc=5",
+      "overview": "米国の設備投資が急増し、インフレがFRBの忍耐を試す中でも、株価反発への期待をつないでいる。",
+      "background": "一般論として、設備投資の活発化は景気の下支えとなる一方で、インフレ圧力を高める要因にもなり得る。今回の確認済み情報としては、米国の設備投資が急増していること、およびそれがインフレとのせめぎ合いの中で株価反発の期待材料となっていること。",
+      "japan_impact": "米国経済の強さが日本企業の対米輸出やグローバル景気を通じて日本市場に影響を与える。",
       "scenarios": {
-        "optimistic": "米インフレ指標が落ち着きを示し、ドル買いが後退して160円手前で円高方向へ押し戻される。",
-        "base": "指標結果を受けた値動きが続き、160円の節目を巡る攻防が意識される。",
-        "pessimistic": "インフレ指標の強い結果を受けてドル買いが加速し、160円を突破して一段の円安が進む。"
+        "optimistic": "設備投資の拡大が生産性を高め、インフレ圧力を相殺しながら株価上昇をけん引する。",
+        "base": "インフレへの警戒感がくすぶる中、設備投資の好調さが下支えとなり株価が方向感を模索する。",
+        "pessimistic": "設備投資に伴うインフレ圧力がFRBの利下げ期待を完全に封じ、株式市場の重荷となる。"
       },
       "watch_points": [
-        "今夜の米インフレ指標の結果",
-        "ドル円の160円の節目における値動き",
-        "当局による為替介入への警戒感"
+        "米国の設備投資関連指標の持続性",
+        "FRBの金利政策スタンス",
+        "米株市場のボラティリティ"
       ],
-      "importance": 5,
-      "uncertainty": "具体的な為替レートの現在値や介入観測の有無は見出し・概要だけでは確認できない。",
-      "evidence_limits": "CRYPTO TIMESの見出しと概要のみに基づく。"
+      "importance": 3,
+      "uncertainty": "見出し・概要だけでは設備投資の具体的なセクターや規模、統計の詳細は確認できない。",
+      "evidence_limits": "BigGo ファイナンスの見出しと概要のみに基づく。"
     },
     {
       "id": "4",
@@ -82,46 +82,46 @@
       "source": "https://kabu-ir.com/",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "overview": "米FRBの追加利上げ警戒やAI投資によるインフレ圧力、日銀の利上げ方針が注目される中、円安が160円目前となっている。",
-      "background": "一般論として、AI関連投資に伴う需要拡大や経済活動の活発化はインフレ圧力となり得る。今回の確認済み情報では、米国の追加利上げ警戒と日銀の利上げ方針が注目されている。",
-      "japan_impact": "輸入コストの上昇や企業のコスト転嫁圧力が高まり、国内の物価や企業収益に影響を与える。",
+      "overview": "AI投資によるインフレ圧力と日銀の利上げ方針が注目される中、円安が160円目前に迫り、米FRBの追加利上げへの警戒感が高まっている。",
+      "background": "一般論として、金利差やインフレ圧力は為替の変動要因となる。今回の確認済み情報としては、円安が160円目前であること、AI投資がインフレ圧力となっていること、日銀の利上げ方針と米FRBの追加利上げ警戒が注目されていること。",
+      "japan_impact": "輸入物価の上昇を通じた国内コスト負担の増加や、為替介入への警戒感が高まる。",
       "scenarios": {
-        "optimistic": "インフレ圧力が緩和され、主要中央銀行の政策スタンスがハト派寄りに傾くことで円安圧力が和らぐ。",
-        "base": "AI投資等によるインフレ懸念と日米金融政策の方向性の違いが意識され、円安基調が維持される。",
-        "pessimistic": "インフレ圧力の長期化によりFRBがタカ派姿勢を強め、日銀との金利差拡大から大幅な円安が進行する。"
+        "optimistic": "日米の金融政策の方向性修正により円安圧力が緩和し、160円手前でこう着する。",
+        "base": "ドル高・円安基調が継続し、160円を試す展開や当局の動向への警戒が続く。",
+        "pessimistic": "インフレ圧力と金利差拡大により急速な円安が進行し、経済的な負担が一段と増す。"
       },
       "watch_points": [
-        "AI投資等に起因するインフレ圧力の動向",
-        "米FRBおよび日銀の政策方針",
-        "円安進行に対する日本政府・日銀の対応"
+        "為替（ドル円）の160円近辺での推移",
+        "AI関連の投資動向とマクロ経済への影響",
+        "日米の金融当局による発言や政策スタンス"
       ],
-      "importance": 4,
-      "uncertainty": "AI投資が具体的にどの程度のインフレ圧力になっているかの詳細な統計データは確認できない。",
-      "evidence_limits": "kabu-ir.comの情報（2026年11月20日付）の見出しと概要のみに基づく。"
+      "importance": 5,
+      "uncertainty": "見出し・概要だけでは為替介入の有無や具体的なAI投資のインフレ寄与度は確認できない。",
+      "evidence_limits": "kabu-ir.comの2026年11月20日付の見出しと概要のみに基づく。"
     },
     {
       "id": "5",
-      "title": "APEC、米中露首脳会談で存在感を内外に示した中国・習近平と、「蚊帳の外」に置かれた「高市外交」の失敗 政治家に必要な「外交能力」とは",
-      "summary": "APEC、米中露首脳会談で存在感を内外に示した中国・習近平と、「蚊帳の外」に置かれた「高市外交」の失敗 政治家に必要な「外交能力」とは NEWSポストセブン",
-      "source": "NEWSポストセブン",
-      "date": "2026-11-25",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MOVlyVEMyN0tLVkJDcTBQTnFaMWRwYk9ubklrTzJINXFMNVNmMExDN0N2ZHU5dmpYVmw5V0E4ZlZlOTdOX3pmYjE1QW1mRko5MlZ2R3J2aE1HekNZc2RTTkkwM3IyVjBkVUlGR3phMmhYNlJVaHNV?oc=5",
-      "overview": "APECでの米中露首脳会談で中国の習近平が存在感を示した一方、「高市外交」が「蚊帳の外」に置かれ失敗したと報じられている。",
-      "background": "一般論として、国際会議の場における首脳会談は各国間の外交力や存在感を示す契機となる。今回の確認済み情報では、APECにおける米中露の動きと高市氏を巡る外交評が取り上げられている。",
-      "japan_impact": "日本の外交方針や対外的なプレゼンス、アジア太平洋地域における立ち位置を巡る国内の政治議論に影響を与える。",
+      "title": "中国、米新関税に報復せずとの見方－首脳会談前控え貿易休戦に試練も",
+      "summary": "中国、米新関税に報復せずとの見方－首脳会談前控え貿易休戦に試練も TBS NEWS DIG",
+      "source": "TBS NEWS DIG",
+      "date": "2026-11-26",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeUlKcHZzRlRZdi1MUWpvdm5ZSTBzek5pdm9GY0dsT2JlamhaNDdQQy0wTXNWM29hYUZlT0pZalk0Nl93blgyMzYxQ0c0S1NZRk94Q3k5VTJaYTBid1NYNHphaHdFRkMySmdoQkZfYWFMRGlK?oc=5",
+      "overview": "首脳会談を控え、中国が米国の新関税に対して報復しないとの見方が出ており、貿易休戦の維持に試練が迎えている。",
+      "background": "一般論として、米中間の関税問題や首脳会談は世界経済やサプライチェーンに大きな影響を与える。今回の確認済み情報としては、中国が米新関税に報復しないとの見方があること、および首脳会談を控えて貿易休戦が試練に直面していること。",
+      "japan_impact": "米中関係の緊張度合いや貿易動向が、中国向け輸出やグローバル経済全体の不確実性を通じて日本企業に影響する。",
       "scenarios": {
-        "optimistic": "外交上の課題が検証され、その後の多国間・二国間外交の立て直しに向けた具体的な戦略が議論される。",
-        "base": "メディアや政治的論争において外交手法の是非を巡る議論が継続する。",
-        "pessimistic": "外交的孤立感が強調され、国際社会における日本の発言力低下への懸念が強まる。"
+        "optimistic": "首脳会談に向けて対話が維持され、貿易摩擦のエスカレーションが回避される。",
+        "base": "中国が表立った報復を控える一方で、貿易休戦を巡る緊張感や駆け引きが継続する。",
+        "pessimistic": "水面下の対立が激化し、貿易休戦が崩れて世界経済全体に悪影響が及ぶ。"
       },
       "watch_points": [
-        "APEC等の国際会議における日本の外交活動",
-        "高市氏および政府の外交を巡る国会や国内の論調",
-        "米中露首脳の動向が周辺国に与える影響"
+        "米中首脳会談のスケジュールと結果",
+        "中国側の公式な関税に対する対応",
+        "両国間の貿易摩擦に関する追加発表"
       ],
-      "importance": 3,
-      "uncertainty": "「高市外交」の具体的内容や会談の失敗とされる客観的な国際的評価は見出し・概要だけでは確認できない。",
-      "evidence_limits": "NEWSポストセブンの見出しと概要のみに基づいており、論評記事特有の主観的表現が含まれている。"
+      "importance": 4,
+      "uncertainty": "見出し・概要だけでは首脳会談の日程や具体的な関税品目、中国側の最終判断は確認できない。",
+      "evidence_limits": "TBS NEWS DIGの見出しと概要のみに基づく。"
     }
   ]
 }
