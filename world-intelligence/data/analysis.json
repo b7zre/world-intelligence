@@ -1,102 +1,103 @@
 {
-  "generated_at": "2026-11-27T23:12:57.997702+00:00",
+  "generated_at": "2026-11-28T11:06:49.170459+00:00",
   "model": "gemini-3.5-flash-lite",
   "basis": "News titles and RSS summaries only; not full-article verification",
   "analyses": [
     {
       "id": "1",
-      "title": "【ドル/円、来週の見通し】ドル/円、160円突破か反落か？植田日銀総裁講演＆米11月雇用統計…日米金融政策の注目ポイントを解説＿2026/11/27",
-      "summary": "【ドル/円、来週の見通し】ドル/円、160円突破か反落か？植田日銀総裁講演＆米11月雇用統計…日米金融政策の注目ポイントを解説＿2026/11/27 外為どっとコム",
-      "source": "外為どっとコム",
-      "date": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DcnVUNjcwc0hYVnBpdWo5bFM2Y1VFQjZIaVIzQmRBV25IODFwVk9TR003ekY3bm1vaWNqNEludjZfZUtnY05mS3RCSHZDcGkzbHFCTGZtVVFUNTM4Uk5VcGxjSQ?oc=5",
-      "overview": "ドル/円相場が160円目前となる中、植田日銀総裁の講演や米11月雇用統計など日米の金融政策の注目ポイントが控えている。",
-      "background": "一般論として日米の金利差や金融政策の方向性が為替に影響を与えるが、今回の具体的な政策決定会合の結果や講演の詳細は見出し・概要だけでは確認できない。",
-      "japan_impact": "円安が160円に迫る状況下で、日銀の金融政策方針や植田総裁の発言が国内経済や為替動向に影響を与える可能性がある。",
+      "title": "米国第3四半期GDPは4.3%に上方修正、インフレは依然目標超え FRBの12月利上げ確率99%に迫る",
+      "summary": "米国第3四半期GDPは4.3%に上方修正、インフレは依然目標超え FRBの12月利上げ確率99%に迫る BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "date": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HYkRQeWlPT3ZaTzlwSE42Wlc3RGRWWlYyUDd1OE96WldGcS1iSWZkT0xhV1VFRzE2U1hxZUtpa3dESFFlY0hfOUM5Z2tRY2xRaWx3TkxlVDU3NkNTVEdsb1VNT1E4RW1ZTDNyaFg3WkxHSHZj?oc=5",
+      "overview": "米国の第3四半期GDPが4.3%に上方修正され、インフレが目標超えを維持している中、FRBによる12月の利上げ確率が99%に迫っていることが報じられている。",
+      "background": "一般論として、経済の好調や高インフレは中央銀行の利上げを正当化する要因となる。今回の確認済み情報としては、第3四半期GDPが4.3%に上方修正され、12月利上げ確率が99%に迫っていること。",
+      "japan_impact": "米国の金利上昇や利上げ観測は、日米金利差を通じた為替動向や日本国内の輸入物価・金融市場に影響を与える可能性がある。",
       "scenarios": {
-        "optimistic": "米雇用統計の結果や日銀の方針次第で過度な円安が修正され、160円突破を回避して落ち着きを取り戻すシナリオ。",
-        "base": "重要指標の発表や総裁講演を控え、160円近辺での方向感を探る神経質な値動きが継続するシナリオ。",
-        "pessimistic": ""
+        "optimistic": "米国経済が強さを維持しつつインフレが鈍化に向かい、市場へのショックなく利上げが消化される。",
+        "base": "堅調なGDPとインフレ圧力継続を背景にFRBが利上げを実施し、米国金利の上昇とドル高圧力が続く。",
+        "pessimistic": "利上げの継続が景気の急冷や金融市場の混乱を招き、世界経済全体に波及する。"
       },
       "watch_points": [
-        "植田日銀総裁の講演内容",
-        "米11月雇用統計の結果",
-        "160円の節目における為替動向"
+        "FRBの実際の政策決定（12月会合）",
+        "米国のインフレ指標の推移",
+        "長期金利の動向"
       ],
-      "importance": 4,
-      "uncertainty": "具体的な講演の成果や雇用統計の数値は確認できていない。",
-      "evidence_limits": "入力情報は見出しと概要のみであり、実際の統計数値や発言内容は含まれていない。"
+      "importance": 5,
+      "uncertainty": "利上げ後の具体的な政策金利の維持期間や、今後の経済指標の正確な着地については見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、詳細な統計データの内訳やFRB当局者の公式発言の全文は確認できない。"
     },
     {
       "id": "2",
       "title": "米ドル円、2018年中間選挙後の再来か 米株式市場とFRBの政策姿勢が焦点に 野村證券・後藤祐二朗",
       "summary": "米ドル円、2018年中間選挙後の再来か 米株式市場とFRBの政策姿勢が焦点に 野村證券・後藤祐二朗 野村證券",
       "source": "野村證券",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfcnA0SnJBanh0QkM1b0dXZ01PeTl3bDJDeXlleDZDTGdsWlRkUU90aVJ1NGFtT3BtSER0azVpR3RVYWZOU0ZBWkZvY0lPSXFaOWJ2UU1seGNtMVdJcWg4?oc=5",
-      "overview": "米ドル円の動向について、2018年中間選挙後の再来を念頭に、米株式市場とFRBの政策姿勢が焦点として挙げられている。",
-      "background": "一般論として米国の政治イベントや株価動向、FRBの金融政策はドル円相場に強い影響を与える。",
-      "japan_impact": "米国の政策や株式市場の動向を通じて、日本の為替市場や輸出入企業に波及効果をもたらす。",
+      "overview": "米ドル円相場に関して、野村證券の後藤祐二朗氏が2018年中間選挙後の再来に言及し、米株式市場とFRBの政策姿勢が焦点になると指摘している。",
+      "background": "一般論として、米国の政治イベント後や金融政策の転換期は為替や株価のボラティリティが高まる傾向がある。今回の確認済み情報としては、野村證券が米ドル円の動向と米株式市場・FRBの政策姿勢の関連性を指摘していること。",
+      "japan_impact": "為替市場におけるドル円の変動を通じて、日本の輸出入企業の業績や国内の物価動向に影響を与える。",
       "scenarios": {
-        "optimistic": "米株の安定とFRBの柔軟な政策姿勢により、為替市場が安定推移するシナリオ。",
-        "base": "米株式市場の動向とFRBの姿勢を睨みながら、限定的な値動きにとどまるシナリオ。",
-        "pessimistic": ""
+        "optimistic": "市場環境が安定し、ドル円相場が秩序ある推移を見せる。",
+        "base": "FRBの政策姿勢や米株の動向に連動して、ドル円相場が方向感を模索する展開が続く。",
+        "pessimistic": "米国の政策や株式市場の急変動に伴い、ドル円相場で予期せぬ乱高下が発生する。"
       },
       "watch_points": [
+        "FRBの政策姿勢の変化",
         "米株式市場の動向",
-        "FRBの政策姿勢",
-        "専門家の分析や市場の解釈"
+        "ドル円のテクニカルな節目"
       ],
-      "importance": 3,
-      "uncertainty": "野村證券・後藤祐二朗氏の詳細な分析内容は概要のみでは把握できない。",
-      "evidence_limits": "入力された概要以上の詳細な論拠やデータは確認できない。"
+      "importance": 4,
+      "uncertainty": "2018年との具体的な比較の詳細や、今後の具体的なレート予測値は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、レポートの全文や詳細な分析根拠は確認できない。"
     },
     {
       "id": "3",
-      "title": "円高のカギはFRBに、米株「30日で10%下落」なら利下げ転換？",
-      "summary": "円高のカギはFRBに、米株「30日で10%下落」なら利下げ転換？ 日経CNBC online",
-      "source": "日経CNBC online",
-      "date": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mMkdOaEptTldiTjd3ZGRmb3pPdjhCbGxxdHN5S0NWWndodWNMcnpNeWxqN0RhZkhnZV9hZUdFZ1RTQlVJbmw1Vm9KcmZMNVVycHdDYw?oc=5",
-      "overview": "円高のカギはFRBに握られており、米株が「30日で10%下落」する場合に利下げ転換がおきるかどうかが注目されている。",
-      "background": "一般論として米国の株価急落は金融政策の緩和（利下げ）を促す要因になり得ると指摘されることがある。",
-      "japan_impact": "FRBが利下げ転換すれば日米金利差縮小を通じた円高要因となり、日本経済や株式市場に影響を与える。",
+      "title": "FX個人投資家の円安見通し後退、クロス円は円高予想優位に。為替介入は160円台との見方も【外為短観 第210回】",
+      "summary": "FX個人投資家の円安見通し後退、クロス円は円高予想優位に。為替介入は160円台との見方も【外為短観 第210回】 外為どっとコム",
+      "source": "外為どっとコム",
+      "date": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qLVc5LVdaamVvX2cxdDRzQ0ZhamVVRmZNZlVYbVk2T1JkaC10X0syUWlvUjN5MGtuUkJlSXEyd3p6bGFCTVc4U2VpMVJjTTFNTHNleGp0bHphWng4OFZyaEFIUQ?oc=5",
+      "overview": "FX個人投資家の間で円安見通しが後退しクロス円で円高予想が優位になっており、為替介入については160円台との見方も出ている。",
+      "background": "一般論として、市場参加者の心理やポジション状況は為替の短期的な値動きに影響を与える。今回の確認済み情報としては、外為どっとコムの調査（外為短観）において個人投資家の円安見通しが後退し、160円台での為替介入に関する見方があること。",
+      "japan_impact": "個人投資家の動向や市場の円高警戒感は、短期的なクロス円の取引や当局の動向に対する意識に影響を与える。",
       "scenarios": {
-        "optimistic": "米株調整に伴うFRBの利下げ転換で急激な円安が和らぐシナリオ。",
-        "base": "米株が大きな下落を見せない限り、現行のFRBの姿勢が維持されるシナリオ。",
-        "pessimistic": ""
+        "optimistic": "市場の過度な投機的動きが抑制され、為替相場が安定的に推移する。",
+        "base": "円高予想優位の雰囲気が継続しつつ、実際の経済指標や金利差に沿った値動きとなる。",
+        "pessimistic": "急激な変動が発生し、為替介入への警戒感から市場に緊張が高まる。"
       },
       "watch_points": [
-        "米株の価格変動（30日での下落率など）",
-        "FRBの金融政策の変更シグナル"
+        "個人投資家のポジション動向",
+        "クロス円のレート推移",
+        "政府・日銀による為替介入に関する発言や動向"
       ],
-      "importance": 4,
-      "uncertainty": "どのような条件で実際にFRBが利下げに転換するかは不確定である。",
-      "evidence_limits": "入力された見出しと概要以外の背景データや市場の反応は確認できない。"
+      "importance": 3,
+      "uncertainty": "「外為短観」の具体的な調査対象者数や数値の詳細は見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、調査の全容や統計データは確認できない。"
     },
     {
       "id": "4",
-      "title": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目",
-      "summary": "【米ＦＲＢ追加利上げ警戒】円安１６０円目前、ＡＩ投資のインフレ圧力と日銀の利上げ方針に注目 https://kabu-ir.com/",
-      "source": "https://kabu-ir.com/",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QldBYWNEMmItZlBOemRTN053YXdkNmxSb05DSXI5MnJVelhJUHFKdmo0WnI5VUVTX3NDM2FONkk4UTRfUnlpNHdsRXhpZUFzRmVTMA?oc=5",
-      "overview": "米FRBの追加利上げ警戒から円安が160円目前となっており、AI投資のインフレ圧力や日銀の利上げ方針が注目されている。",
-      "background": "一般論としてAI関連などの大型投資に伴うインフレ圧力や日米の金利差が意識されるが、個別企業の投資額等の実態は見出し・概要だけでは確認できない。",
-      "japan_impact": "円安とインフレ圧力の継続は、国内の輸入コスト上昇や日銀の政策判断に影響を及ぼす。",
+      "title": "米国経済は緩やかに拡大 利上げ路線で長期金利上昇へ",
+      "summary": "米国経済は緩やかに拡大 利上げ路線で長期金利上昇へ TBS NEWS DIG",
+      "source": "TBS NEWS DIG",
+      "date": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51LXQ5R056SGw1MHdPZ2M2QUNLVWoxbjVuajh6TEE3WnBkRkc4bVA2STJZQTNvMFJGUXk3Z3g5Z3VBSk15dFpQZmN3TXd2OTZJS1N1MnM5UWwwN09yaDlUbUJ4Y3hsMkE?oc=5",
+      "overview": "米国経済が緩やかに拡大する中、利上げ路線を背景に長期金利が上昇する見通しが報じられている。",
+      "background": "一般論として、景気拡大と利上げ観測は債券価格の下落（利回り・長期金利の上昇）をもたらす。今回の確認済み情報としては、米国経済が緩やかに拡大し、利上げ路線によって長期金利が上昇する見込みであること。",
+      "japan_impact": "米国の長期金利上昇は、日本の長期金利や世界的な資金調達コストに波及する可能性がある。",
       "scenarios": {
-        "optimistic": "日銀の利上げ方針やインフレ圧力の鈍化により、円安の進行が抑制されるシナリオ。",
-        "base": "AI投資等によるインフレ圧力とFRB・日銀の動向を警戒しつつ、160円目前で膠着するシナリオ。",
-        "pessimistic": ""
+        "optimistic": "金利上昇が緩やかであり、景気の拡大と秩序だって両立する。",
+        "base": "利上げ路線を背景に長期金利が緩やかな上昇基調を維持する。",
+        "pessimistic": "長期金利の急上昇が企業の資金調達を圧迫し、景気減速リスクを高める。"
       },
       "watch_points": [
-        "AI投資等によるインフレ圧力の動向",
-        "米FRBの追加利上げに関する観測",
-        "日銀の利上げ方針に関する姿勢"
+        "米国の長期金利（10年債利回りなど）の動き",
+        "景気指標の推移",
+        "FRBの金利見通し"
       ],
       "importance": 4,
-      "uncertainty": "インフレ圧力やAI投資の具体的な規模や統計データは入力情報にない。",
-      "evidence_limits": "見出しと概要に基づく限定的な情報であり、詳細な経済指標の裏付けはない。"
+      "uncertainty": "長期金利が具体的にどの水準まで上昇するかについては見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、詳細な経済予測の数値は確認できない。"
     },
     {
       "id": "5",
@@ -105,22 +106,22 @@
       "source": "NHKニュース",
       "date": "2026-11-27",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JbEdRWWN0T013cFhMTVJlREstakpMOFQtVV9GSGlTZDByYmtOWk5YXzhpenVzYUdXSHRFTm54TV9EdnpKdFpKYXNTdEJMbWtaYlBFdGVkdjdBRk5WV21J?oc=5",
-      "overview": "ロシアが来年の予算案を承認し、国防費がウクライナ侵攻以降で最高額となった。",
-      "background": "ロシアによるウクライナ侵攻以降、同国の軍事支出が拡大し続けている動向がある。",
-      "japan_impact": "直接的な日本国内への影響の見出し・概要における記載はないが、国際情勢の緊張継続につながる。",
+      "overview": "ロシアが来年の予算案を承認し、国防費がウクライナ侵攻以降で最高額に達したことが報じられている。",
+      "background": "一般論として、長期化する紛争は国家財政を圧迫する一方で、軍事費の拡大を継続させる要因となる。今回の確認済み情報としては、ロシアが来年予算案を承認し、国防費がウクライナ侵攻以降で最高額となったこと。",
+      "japan_impact": "ロシアの軍事費拡大やウクライナ情勢の長期化は、国際商品市況や地政学リスクを通じて日本経済・外交に間接的な影響を与える。",
       "scenarios": {
-        "optimistic": "予算案承認にとどまり、戦闘の激化や追加の地政学的リスクが表面化しないシナリオ。",
-        "base": "国防費の増額を背景にウクライナ情勢の緊張状態が長期化・継続するシナリオ。",
-        "pessimistic": ""
+        "optimistic": "軍事費拡大にもかかわらずロシア国内の財政が持ちこたえ、予期せぬ混乱が回避される。",
+        "base": "高水準の国防費を維持したまま予算が執行され、ウクライナ情勢の膠着状態が続く。",
+        "pessimistic": "過度な軍事支出がロシア財政をさらに悪化させ、国際情勢のさらなる不安定化を招く。"
       },
       "watch_points": [
-        "ロシアの国防費執行の動向",
-        "ウクライナ情勢への影響",
-        "国際社会の反応"
+        "ロシアの財政状況と経済制裁の影響",
+        "ウクライナ情勢の推移",
+        "関連する国際社会の動向"
       ],
-      "importance": 3,
-      "uncertainty": "予算案の具体的な内閣・議会での承認プロセスや金額の細部は確認できない。",
-      "evidence_limits": "入力情報はNHKニュースの見出しと概要のみであり、統計数値や詳細な予算の内訳はない。"
+      "importance": 4,
+      "uncertainty": "予算案の具体的な総額や、財政赤字をどのように補填するかの詳細については見出し・概要だけでは確認できない。",
+      "evidence_limits": "提供された見出しと概要のテキストのみに依拠しており、ロシア国内の予算の詳細な内訳は確認できない。"
     }
   ]
 }
